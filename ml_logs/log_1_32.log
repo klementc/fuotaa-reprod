@@ -1,0 +1,6443 @@
+eights matrix: 1 x 16
+136 194 59 72 75 74 80 201 57 4 159 195 191 56 202 29 
+Bias matrix: 1 x16
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Weights matrix: 16 x 16
+159 193 215 63 50 125 8Weights matrix: 1 x 32
+136 194 59 72 75 74 80 201 57 4 159 195 191 56 202 29 159 193 215 63 50 125 8 30 38 74 241 237 46 101 96 10 
+Bias matrix: 1 x32
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Weights matrix: 32 x 32
+153 251 187 0 148 72 117 145 194 82 9 185 34 56 188 166 83 179 53 11 137 31 39 73 148 66 103 128 186 192 23 189 
+22Weights matrix: 1 x 32
+136 194 59 72 75 74 80 201 57 4 159 195 191 56 202 29 159 193 215 63 50 125 8 30 38 74 241 237 46 101 96 10 
+Bias matrix: 1 x32
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Weights matrix: 32 x 32
+153 251 187 0 148 72 117 145 194 82 9 185 34 56 188 166 83 179 53 11 137 31 39 73 148 66 103 128 186 192 23 189 
+221 88 97 153 79 72 94 239 201 237 76 13 72 158 12 138 200 58 131 56 57 199 122 116 112 20 254 177 31 29 137 126 
+49 151 48 139 23 170 138 160 229 63 232 10 181 118 106 130 167 154 217 251 184 45 31 8 207 165 20 231 115 93 75 43 
+234 250 197 57 88 224 242 87 23 31 107 181 145 18 135 201 164 177 212 205 67 65 126 206 91 204 228 9 75 22 35 173 
+72 5 140 98 205 125 115 176 142 187 205 158 10 107 164 128 86 203 62 197 184 55 92 192 230 79 9 120 187 117 201 114 
+17 90 42 141 198 132 28 84 252 69 86 208 64 59 30 165 120 101 31 6 136 104 137 182 122 75 139 42 43 50 182 103 
+213 33 195 204 224 134 128 105 29 93 35 184 177 189 162 199 141 53 130 40 191 217 156 10 124 135 151 224 65 236 22 45 
+47 150 57 157 218 241 250 34 152 119 212 185 98 54 213 173 61 150 253 2 200 188 10 153 97 197 95 97 107 93 200 181 
+35 201 39 143 240 72 109 97 11 100 84 120 53 212 39 92 120 193 35 136 199 122 156 175 152 48 24 142 155 103 85 252 
+70 62 194 54 121 20 136 233 62 192 49 108 38 209 156 90 33 221 174 15 152 203 24 44 24 150 198 86 196 37 140 222 
+7 19 46 66 83 31 33 201 19 94 127 174 19 87 195 254 22 234 121 174 77 121 165 160 137 70 101 48 72 121 20 73 
+201 116 165 111 0 98 215 37 212 255 1 81 186 3 130 165 229 167 175 224 30 129 133 79 88 147 140 0 4 34 138 93 
+83 139 227 111 111 65 184 158 142 232 53 99 163 16 17 42 96 151 146 192 19 27 73 140 125 76 244 85 99 13 150 200 
+0 12 211 220 52 125 121 226 113 168 75 42 59 232 150 105 194 144 201 122 72 149 235 96 17 213 167 30 189 10 51 35 
+52 67 7 246 240 37 32 251 182 138 83 58 218 202 39 159 60 35 251 142 173 173 206 103 255 225 245 96 172 106 60 218 
+200 255 34 191 25 116 196 210 104 187 169 157 137 245 138 74 9 104 250 40 252 45 108 54 62 82 126 237 106 212 174 207 
+208 118 193 232 57 57 143 209 168 168 202 220 238 200 0 9 214 80 95 9 171 62 107 51 68 239 248 102 150 22 195 25 
+87 80 87 220 164 101 91 181 53 9 196 7 142 54 186 103 82 186 87 160 103 164 46 97 30 0 89 223 114 96 40 97 
+189 42 176 111 78 226 59 26 146 116 79 244 53 19 67 223 30 39 176 100 16 226 120 194 193 197 182 30 217 140 245 173 
+97 70 13 17 149 59 135 251 69 165 118 220 161 175 44 43 214 21 208 196 161 153 216 139 228 234 158 221 3 56 100 163 
+206 78 129 205 54 97 48 125 163 174 179 210 98 218 110 140 109 100 61 52 178 16 5 123 10 23 145 52 5 139 122 81 
+31 44 97 151 116 86 135 117 138 203 196 176 14 183 110 165 245 227 18 224 89 229 230 31 68 214 253 155 84 213 19 211 
+105 247 98 171 199 162 165 214 219 175 210 95 141 249 93 87 69 56 234 83 177 129 127 103 60 0 182 250 94 170 196 91 
+110 74 210 163 133 228 87 223 62 225 196 29 119 18 31 91 205 183 101 6 153 245 12 108 218 49 202 85 14 111 130 253 
+65 201 52 104 197 156 139 114 45 205 152 141 246 249 29 97 158 179 121 231 127 130 142 37 17 5 9 206 125 187 75 46 
+198 139 113 42 19 18 208 175 69 37 1 109 7 248 30 108 123 56 160 238 134 121 82 52 26 188 228 197 91 92 189 10 
+147 188 195 33 95 98 34 137 201 237 219 121 32 198 8 74 227 68 225 6 234 44 206 185 181 202 26 19 159 245 135 41 
+77 24 122 210 209 156 109 12 133 49 171 169 142 123 13 175 100 184 213 210 7 175 135 153 92 125 197 227 50 122 117 3 
+46 34 144 97 113 10 138 29 98 74 106 6 207 53 236 21 100 82 43 162 147 193 139 105 101 159 160 177 63 226 168 231 
+87 135 245 18 34 150 215 26 228 101 23 171 239 132 222 164 50 49 8 254 70 70 189 8 135 189 78 201 178 130 174 2 
+4 15 151 7 6 240 65 28 99 215 230 49 123 66 248 167 141 60 12 3 72 6 12 69 204 130 143 207 157 93 70 185 
+80 159 94 177 206 33 22 187 63 142 209 18 222 253 65 44 182 150 69 230 123 249 50 46 25 67 157 131 31 215 190 225 
+Bias matrix: 1 x32
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Weights matrix: 32 x 1
+237 
+112 
+176 
+93 
+27 
+166 
+82 
+139 
+98 
+177 
+176 
+64 
+19 
+155 
+19 
+129 
+24 
+76 
+248 
+28 
+224 
+99 
+81 
+80 
+148 
+209 
+194 
+86 
+140 
+84 
+128 
+75 
+Bias matrix: 1 x1
+0 
+Starting
+0 
+Prediction 0 took 1695 us
+0 
+Prediction 1 took 1681 us
+0 
+Prediction 2 took 1685 us
+0 
+Prediction 3 took 1693 us
+0 
+Prediction 4 took 1694 us
+0 
+Prediction 5 took 1696 us
+0 
+Prediction 6 took 1694 us
+0 
+Prediction 7 took 1694 us
+0 
+Prediction 8 took 1695 us
+0 
+Prediction 9 took 1694 us
+0 
+Prediction 10 took 1696 us
+0 
+Prediction 11 took 1696 us
+0 
+Prediction 12 took 1682 us
+0 
+Prediction 13 took 1680 us
+0 
+Prediction 14 took 1691 us
+0 
+Prediction 15 took 1695 us
+0 
+Prediction 16 took 1694 us
+0 
+Prediction 17 took 1653 us
+0 
+Prediction 18 took 1693 us
+0 
+Prediction 19 took 1694 us
+0 
+Prediction 20 took 1684 us
+0 
+Prediction 21 took 1696 us
+0 
+Prediction 22 took 1694 us
+0 
+Prediction 23 took 1678 us
+0 
+Prediction 24 took 1696 us
+0 
+Prediction 25 took 1693 us
+0 
+Prediction 26 took 1694 us
+0 
+Prediction 27 took 1686 us
+0 
+Prediction 28 took 1696 us
+0 
+Prediction 29 took 1669 us
+0 
+Prediction 30 took 1688 us
+0 
+Prediction 31 took 1696 us
+0 
+Prediction 32 took 1693 us
+0 
+Prediction 33 took 1685 us
+0 
+Prediction 34 took 1696 us
+0 
+Prediction 35 took 1694 us
+0 
+Prediction 36 took 1671 us
+0 
+Prediction 37 took 1696 us
+0 
+Prediction 38 took 1660 us
+0 
+Prediction 39 took 1694 us
+0 
+Prediction 40 took 1679 us
+0 
+Prediction 41 took 1696 us
+0 
+Prediction 42 took 1694 us
+0 
+Prediction 43 took 1694 us
+0 
+Prediction 44 took 1696 us
+0 
+Prediction 45 took 1696 us
+0 
+Prediction 46 took 1670 us
+0 
+Prediction 47 took 1695 us
+0 
+Prediction 48 took 1696 us
+0 
+Prediction 49 took 1694 us
+0 
+Prediction 50 took 1694 us
+0 
+Prediction 51 took 1696 us
+0 
+Prediction 52 took 1694 us
+0 
+Prediction 53 took 1670 us
+0 
+Prediction 54 took 1683 us
+0 
+Prediction 55 took 1696 us
+0 
+Prediction 56 took 1694 us
+0 
+Prediction 57 took 1694 us
+0 
+Prediction 58 took 1696 us
+0 
+Prediction 59 took 1678 us
+0 
+Prediction 60 took 1694 us
+0 
+Prediction 61 took 1696 us
+0 
+Prediction
+Weights matrix: 1 x 32
+136 194 59 72 75 74 80 201 57 4 159 195 191 56 202 29 159 193 215 63 50 125 8 30 38 74 241 237 46 101 96 10 
+Bias matrix: 1 x32
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Weights matrix: 32 x 32
+153 251 187 0 148 72 117 145 194 82 9 185 34 56 188 166 83 179 53 11 137 31 39 73 148 66 103 128 186 192 23 189 
+221 88 97 153 79 72 94 239 201 237 76 13 72 158 12 138 200 58 131 56 57 199 122 116 112 20 254 177 31 29 137 126 
+49 151 48 139 23 170 138 160 229 63 232 10 181 118 106 130 167 154 217 251 184 45 31 8 207 165 20 231 115 93 75 43 
+234 250 197 57 88 224 242 87 23 31 107 181 145 18 135 201 164 177 212 205 67 65 126 206 91 204 228 9 75 22 35 173 
+72 5 140 98 205 125 115 176 142 187 205 158 10 107 164 128 86 203 62 197 184 55 92 192 230 79 9 120 187 117 201 114 
+17 90 42 141 198 132 28 84 252 69 86 208 64 59 30 165 120 101 31 6 136 104 137 182 122 75 139 42 43 50 182 103 
+213 33 195 204 224 134 128 105 29 93 35 184 177 189 162 199 141 53 130 40 191 217 156 10 124 135 151 224 65 236 22 45 
+47 150 57 157 218 241 250 34 152 119 212 185 98 54 213 173 61 150 253 2 200 188 10 153 97 197 95 97 107 93 200 181 
+35 201 39 143 240 72 109 97 11 100 84 120 53 212 39 92 120 193 35 136 199 122 156 175 152 48 24 142 155 103 85 252 
+70 62 194 54 121 20 136 233 62 192 49 108 38 209 156 90 33 221 174 15 152 203 24 44 24 150 198 86 196 37 140 222 
+7 19 46 66 83 31 33 201 19 94 127 174 19 87 195 254 22 234 121 174 77 121 165 160 137 70 101 48 72 121 20 73 
+201 116 165 111 0 98 215 37 212 255 1 81 186 3 130 165 229 167 175 224 30 129 133 79 88 147 140 0 4 34 138 93 
+83 139 227 111 111 65 184 158 142 232 53 99 163 16 17 42 96 151 146 192 19 27 73 140 125 76 244 85 99 13 150 200 
+0 12 211 220 52 125 121 226 113 168 75 42 59 232 150 105 194 144 201 122 72 149 235 96 17 213 167 30 189 10 51 35 
+52 67 7 246 240 37 32 251 182 138 83 58 218 202 39 159 60 35 251 142 173 173 206 103 255 225 245 96 172 106 60 218 
+200 255 34 191 25 116 196 210 104 187 169 157 137 245 138 74 9 104 250 40 252 45 108 54 62 82 126 237 106 212 174 207 
+208 118 193 232 57 57 143 209 168 168 202 220 238 200 0 9 214 80 95 9 171 62 107 51 68 239 248 102 150 22 195 25 
+87 80 87 220 164 101 91 181 53 9 196 7 142 54 186 103 82 186 87 160 103 164 46 97 30 0 89 223 114 96 40 97 
+189 42 176 111 78 226 59 26 146 116 79 244 53 19 67 223 30 39 176 100 16 226 120 194 193 197 182 30 217 140 245 173 
+97 70 13 17 149 59 135 251 69 165 118 220 161 175 44 43 214 21 208 196 161 153 216 139 228 234 158 221 3 56 100 163 
+206 78 129 205 54 97 48 125 163 174 179 210 98 218 110 140 109 100 61 52 178 16 5 123 10 23 145 52 5 139 122 81 
+31 44 97 151 116 86 135 117 138 203 196 176 14 183 110 165 245 227 18 224 89 229 230 31 68 214 253 155 84 213 19 211 
+105 247 98 171 199 162 165 214 219 175 210 95 141 249 93 87 69 56 234 83 177 129 127 103 60 0 182 250 94 170 196 91 
+110 74 210 163 133 228 87 223 62 225 196 29 119 18 31 91 205 183 101 6 153 245 12 108 218 49 202 85 14 111 130 253 
+65 201 52 104 197 156 139 114 45 205 152 141 246 249 29 97 158 179 121 231 127 130 142 37 17 5 9 206 125 187 75 46 
+198 139 113 42 19 18 208 175 69 37 1 109 7 248 30 108 123 56 160 238 134 121 82 52 26 188 228 197 91 92 189 10 
+147 188 195 33 95 98 34 137 201 237 219 121 32 198 8 74 227 68 225 6 234 44 206 185 181 202 26 19 159 245 135 41 
+77 24 122 210 209 156 109 12 133 49 171 169 142 123 13 175 100 184 213 210 7 175 135 153 92 125 197 227 50 122 117 3 
+46 34 144 97 113 10 138 29 98 74 106 6 207 53 236 21 100 82 43 162 147 193 139 105 101 159 160 177 63 226 168 231 
+87 135 245 18 34 150 215 26 228 101 23 171 239 132 222 164 50 49 8 254 70 70 189 8 135 189 78 201 178 130 174 2 
+4 15 151 7 6 240 65 28 99 215 230 49 123 66 248 167 141 60 12 3 72 6 12 69 204 130 143 207 157 93 70 185 
+80 159 94 177 206 33 22 187 63 142 209 18 222 253 65 44 182 150 69 230 123 249 50 46 25 67 157 131 31 215 190 225 
+Bias matrix: 1 x32
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Weights matrix: 32 x 1
+237 
+112 
+176 
+93 
+27 
+166 
+82 
+139 
+98 
+177 
+176 
+64 
+19 
+155 
+19 
+129 
+24 
+76 
+248 
+28 
+224 
+99 
+81 
+80 
+148 
+209 
+194 
+86 
+140 
+84 
+128 
+75 
+Bias matrix: 1 x1
+0 
+Starting
+0 
+Prediction 0 took 1695 us
+0 
+Prediction 1 took 1681 us
+0 
+Prediction 2 took 1685 us
+0 
+Prediction 3 took 1693 us
+0 
+Prediction 4 took 1694 us
+0 
+Prediction 5 took 1696 us
+0 
+Prediction 6 took 1694 us
+0 
+Prediction 7 took 1694 us
+0 
+Prediction 8 took 1695 us
+0 
+Prediction 9 took 1694 us
+0 
+Prediction 10 took 1696 us
+0 
+Prediction 11 took 1696 us
+0 
+Prediction 12 took 1682 us
+0 
+Prediction 13 took 1680 us
+0 
+Prediction 14 took 1691 us
+0 
+Prediction 15 took 1695 us
+0 
+Prediction 16 took 1694 us
+0 
+Prediction 17 took 1653 us
+0 
+Prediction 18 took 1693 us
+0 
+Prediction 19 took 1694 us
+0 
+Prediction 20 took 1684 us
+0 
+Prediction 21 took 1696 us
+0 
+Prediction 22 took 1694 us
+0 
+Prediction 23 took 1678 us
+0 
+Prediction 24 took 1696 us
+0 
+Prediction 25 took 1693 us
+0 
+Prediction 26 took 1694 us
+0 
+Prediction 27 took 1686 us
+0 
+Prediction 28 took 1696 us
+0 
+Prediction 29 took 1669 us
+0 
+Prediction 30 took 1688 us
+0 
+Prediction 31 took 1696 us
+0 
+Prediction 32 took 1693 us
+0 
+Prediction 33 took 1685 us
+0 
+Prediction 34 took 1696 us
+0 
+Prediction 35 took 1694 us
+0 
+Prediction 36 took 1671 us
+0 
+Prediction 37 took 1696 us
+0 
+Prediction 38 took 1660 us
+0 
+Prediction 39 took 1694 us
+0 
+Prediction 40 took 1679 us
+0 
+Prediction 41 took 1696 us
+0 
+Prediction 42 took 1694 us
+0 
+Prediction 43 took 1694 us
+0 
+Prediction 44 took 1696 us
+0 
+Prediction 45 took 1696 us
+0 
+Prediction 46 took 1670 us
+0 
+Prediction 47 took 1695 us
+0 
+Prediction 48 took 1696 us
+0 
+Prediction 49 took 1694 us
+0 
+Prediction 50 took 1694 us
+0 
+Prediction 51 took 1696 us
+0 
+Prediction 52 took 1694 us
+0 
+Prediction 53 took 1670 us
+0 
+Prediction 54 took 1683 us
+0 
+Prediction 55 took 1696 us
+0 
+Prediction 56 took 1694 us
+0 
+Prediction 57 took 1694 us
+0 
+Prediction 58 took 1696 us
+0 
+Prediction 59 took 1678 us
+0 
+Prediction 60 took 1694 us
+0 
+Prediction 61 took 1696 us
+0 
+Prediction 62 took 1679 us
+0 
+Prediction 63 took 1694 us
+0 
+Prediction 64 took 1695 us
+0 
+Prediction 65 took 1691 us
+0 
+Prediction 66 took 1665 us
+0 
+Prediction 67 took 1694 us
+0 
+Prediction 68 took 1696 us
+0 
+Prediction 69 took 1693 us
+0 
+Prediction 70 took 1694 us
+0 
+Prediction 71 took 1695 us
+0 
+Prediction 72 took 1696 us
+0 
+Prediction 73 took 1694 us
+0 
+Prediction 74 took 1694 us
+0 
+Prediction 75 took 1654 us
+0 
+Prediction 76 took 1693 us
+0 
+Prediction 77 took 1694 us
+0 
+Prediction 78 took 1696 us
+0 
+Prediction 79 took 1695 us
+0 
+Prediction 80 took 1668 us
+0 
+Prediction 81 took 1695 us
+0 
+Prediction 82 took 1691 us
+0 
+Prediction 83 took 1665 us
+0 
+Prediction 84 took 1693 us
+0 
+Prediction 85 took 1696 us
+0 
+Prediction 86 took 1693 us
+0 
+Prediction 87 took 1693 us
+0 
+Prediction 88 took 1697 us
+0 
+Prediction 89 took 1697 us
+0 
+Prediction 90 took 1694 us
+0 
+Prediction 91 took 1676 us
+0 
+Prediction 92 took 1696 us
+0 
+Prediction 93 took 1694 us
+0 
+Prediction 94 took 1694 us
+0 
+Prediction 95 took 1696 us
+0 
+Prediction 96 took 1696 us
+0 
+Prediction 97 took 1667 us
+0 
+Prediction 98 took 1679 us
+0 
+Prediction 99 took 1656 us
+0 
+Prediction 100 took 1694 us
+0 
+Prediction 101 took 1694 us
+0 
+Prediction 102 took 1695 us
+0 
+Prediction 103 took 1696 us
+0 
+Prediction 104 took 1694 us
+0 
+Prediction 105 took 1695 us
+0 
+Prediction 106 took 1694 us
+0 
+Prediction 107 took 1694 us
+0 
+Prediction 108 took 1696 us
+0 
+Prediction 109 took 1695 us
+0 
+Prediction 110 took 1694 us
+0 
+Prediction 111 took 1694 us
+0 
+Prediction 112 took 1686 us
+0 
+Prediction 113 took 1674 us
+0 
+Prediction 114 took 1695 us
+0 
+Prediction 115 took 1694 us
+0 
+Prediction 116 took 1694 us
+0 
+Prediction 117 took 1678 us
+0 
+Prediction 118 took 1653 us
+0 
+Prediction 119 took 1660 us
+0 
+Prediction 120 took 1694 us
+0 
+Prediction 121 took 1684 us
+0 
+Prediction 122 took 1696 us
+0 
+Prediction 123 took 1689 us
+0 
+Prediction 124 took 1696 us
+0 
+Prediction 125 took 1694 us
+0 
+Prediction 126 took 1673 us
+0 
+Prediction 127 took 1696 us
+0 
+Prediction 128 took 1696 us
+0 
+Prediction 129 took 1696 us
+0 
+Prediction 130 took 1666 us
+0 
+Prediction 131 took 1693 us
+0 
+Prediction 132 took 1696 us
+0 
+Prediction 133 took 1696 us
+0 
+Prediction 134 took 1696 us
+0 
+Prediction 135 took 1694 us
+0 
+Prediction 136 took 1684 us
+0 
+Prediction 137 took 1695 us
+0 
+Prediction 138 took 1689 us
+0 
+Prediction 139 took 1696 us
+0 
+Prediction 140 took 1681 us
+0 
+Prediction 141 took 1693 us
+0 
+Prediction 142 took 1695 us
+0 
+Prediction 143 took 1655 us
+0 
+Prediction 144 took 1694 us
+0 
+Prediction 145 took 1667 us
+0 
+Prediction 146 took 1693 us
+0 
+Prediction 147 took 1684 us
+0 
+Prediction 148 took 1657 us
+0 
+Prediction 149 took 1694 us
+0 
+Prediction 150 took 1669 us
+0 
+Prediction 151 took 1695 us
+0 
+Prediction 152 took 1696 us
+0 
+Prediction 153 took 1693 us
+0 
+Prediction 154 took 1693 us
+0 
+Prediction 155 took 1694 us
+0 
+Prediction 156 took 1695 us
+0 
+Prediction 157 took 1696 us
+0 
+Prediction 158 took 1657 us
+0 
+Prediction 159 took 1693 us
+0 
+Prediction 160 took 1694 us
+0 
+Prediction 161 took 1694 us
+0 
+Prediction 162 took 1686 us
+0 
+Prediction 163 took 1692 us
+0 
+Prediction 164 took 1693 us
+0 
+Prediction 165 took 1693 us
+0 
+Prediction 166 took 1686 us
+0 
+Prediction 167 took 1696 us
+0 
+Prediction 168 took 1696 us
+0 
+Prediction 169 took 1662 us
+0 
+Prediction 170 took 1694 us
+0 
+Prediction 171 took 1694 us
+0 
+Prediction 172 took 1696 us
+0 
+Prediction 173 took 1696 us
+0 
+Prediction 174 took 1693 us
+0 
+Prediction 175 took 1694 us
+0 
+Prediction 176 took 1694 us
+0 
+Prediction 177 took 1696 us
+0 
+Prediction 178 took 1696 us
+0 
+Prediction 179 took 1693 us
+0 
+Prediction 180 took 1693 us
+0 
+Prediction 181 took 1693 us
+0 
+Prediction 182 took 1696 us
+0 
+Prediction 183 took 1696 us
+0 
+Prediction 184 took 1693 us
+0 
+Prediction 185 took 1668 us
+0 
+Prediction 186 took 1694 us
+0 
+Prediction 187 took 1696 us
+0 
+Prediction 188 took 1696 us
+0 
+Prediction 189 took 1694 us
+0 
+Prediction 190 took 1693 us
+0 
+Prediction 191 took 1694 us
+0 
+Prediction 192 took 1696 us
+0 
+Prediction 193 took 1696 us
+0 
+Prediction 194 took 1694 us
+0 
+Prediction 195 took 1694 us
+0 
+Prediction 196 took 1694 us
+0 
+Prediction 197 took 1695 us
+0 
+Prediction 198 took 1696 us
+0 
+Prediction 199 took 1697 us
+0 
+Prediction 200 took 1694 us
+0 
+Prediction 201 took 1673 us
+0 
+Prediction 202 took 1696 us
+0 
+Prediction 203 took 1696 us
+0 
+Prediction 204 took 1697 us
+0 
+Prediction 205 took 1693 us
+0 
+Prediction 206 took 1694 us
+0 
+Prediction 207 took 1682 us
+0 
+Prediction 208 took 1695 us
+0 
+Prediction 209 took 1696 us
+0 
+Prediction 210 took 1694 us
+0 
+Prediction 211 took 1694 us
+0 
+Prediction 212 took 1694 us
+0 
+Prediction 213 took 1696 us
+0 
+Prediction 214 took 1696 us
+0 
+Prediction 215 took 1694 us
+0 
+Prediction 216 took 1694 us
+0 
+Prediction 217 took 1688 us
+0 
+Prediction 218 took 1696 us
+0 
+Prediction 219 took 1696 us
+0 
+Prediction 220 took 1694 us
+0 
+Prediction 221 took 1694 us
+0 
+Prediction 222 took 1695 us
+0 
+Prediction 223 took 1653 us
+0 
+Prediction 224 took 1695 us
+0 
+Prediction 225 took 1693 us
+0 
+Prediction 226 took 1683 us
+0 
+Prediction 227 took 1695 us
+0 
+Prediction 228 took 1696 us
+0 
+Prediction 229 took 1658 us
+0 
+Prediction 230 took 1693 us
+0 
+Prediction 231 took 1694 us
+0 
+Prediction 232 took 1696 us
+0 
+Prediction 233 took 1696 us
+0 
+Prediction 234 took 1678 us
+0 
+Prediction 235 took 1693 us
+0 
+Prediction 236 took 1693 us
+0 
+Prediction 237 took 1688 us
+0 
+Prediction 238 took 1696 us
+0 
+Prediction 239 took 1695 us
+0 
+Prediction 240 took 1694 us
+0 
+Prediction 241 took 1672 us
+0 
+Prediction 242 took 1681 us
+0 
+Prediction 243 took 1655 us
+0 
+Prediction 244 took 1677 us
+0 
+Prediction 245 took 1694 us
+0 
+Prediction 246 took 1694 us
+0 
+Prediction 247 took 1684 us
+0 
+Prediction 248 took 1695 us
+0 
+Prediction 249 took 1693 us
+0 
+Prediction 250 took 1693 us
+0 
+Prediction 251 took 1694 us
+0 
+Prediction 252 took 1696 us
+0 
+Prediction 253 took 1696 us
+0 
+Prediction 254 took 1694 us
+0 
+Prediction 255 took 1694 us
+0 
+Prediction 256 took 1694 us
+0 
+Prediction 257 took 1690 us
+0 
+Prediction 258 took 1696 us
+0 
+Prediction 259 took 1660 us
+0 
+Prediction 260 took 1694 us
+0 
+Prediction 261 took 1694 us
+0 
+Prediction 262 took 1696 us
+0 
+Prediction 263 took 1696 us
+0 
+Prediction 264 took 1694 us
+0 
+Prediction 265 took 1694 us
+0 
+Prediction 266 took 1694 us
+0 
+Prediction 267 took 1696 us
+0 
+Prediction 268 took 1656 us
+0 
+Prediction 269 took 1694 us
+0 
+Prediction 270 took 1693 us
+0 
+Prediction 271 took 1693 us
+0 
+Prediction 272 took 1683 us
+0 
+Prediction 273 took 1696 us
+0 
+Prediction 274 took 1661 us
+0 
+Prediction 275 took 1693 us
+0 
+Prediction 276 took 1694 us
+0 
+Prediction 277 took 1696 us
+0 
+Prediction 278 took 1657 us
+0 
+Prediction 279 took 1664 us
+0 
+Prediction 280 took 1694 us
+0 
+Prediction 281 took 1694 us
+0 
+Prediction 282 took 1696 us
+0 
+Prediction 283 took 1696 us
+0 
+Prediction 284 took 1664 us
+0 
+Prediction 285 took 1693 us
+0 
+Prediction 286 took 1695 us
+0 
+Prediction 287 took 1696 us
+0 
+Prediction 288 took 1696 us
+0 
+Prediction 289 took 1693 us
+0 
+Prediction 290 took 1694 us
+0 
+Prediction 291 took 1694 us
+0 
+Prediction 292 took 1696 us
+0 
+Prediction 293 took 1696 us
+0 
+Prediction 294 took 1662 us
+0 
+Prediction 295 took 1694 us
+0 
+Prediction 296 took 1694 us
+0 
+Prediction 297 took 1696 us
+0 
+Prediction 298 took 1696 us
+0 
+Prediction 299 took 1693 us
+0 
+Prediction 300 took 1694 us
+0 
+Prediction 301 took 1694 us
+0 
+Prediction 302 took 1696 us
+0 
+Prediction 303 took 1696 us
+0 
+Prediction 304 took 1693 us
+0 
+Prediction 305 took 1693 us
+0 
+Prediction 306 took 1693 us
+0 
+Prediction 307 took 1696 us
+0 
+Prediction 308 took 1696 us
+0 
+Prediction 309 took 1693 us
+0 
+Prediction 310 took 1668 us
+0 
+Prediction 311 took 1694 us
+0 
+Prediction 312 took 1696 us
+0 
+Prediction 313 took 1696 us
+0 
+Prediction 314 took 1694 us
+0 
+Prediction 315 took 1693 us
+0 
+Prediction 316 took 1694 us
+0 
+Prediction 317 took 1696 us
+0 
+Prediction 318 took 1696 us
+0 
+Prediction 319 took 1694 us
+0 
+Prediction 320 took 1694 us
+0 
+Prediction 321 took 1694 us
+0 
+Prediction 322 took 1695 us
+0 
+Prediction 323 took 1696 us
+0 
+Prediction 324 took 1697 us
+0 
+Prediction 325 took 1694 us
+0 
+Prediction 326 took 1673 us
+0 
+Prediction 327 took 1696 us
+0 
+Prediction 328 took 1696 us
+0 
+Prediction 329 took 1697 us
+0 
+Prediction 330 took 1693 us
+0 
+Prediction 331 took 1694 us
+0 
+Prediction 332 took 1682 us
+0 
+Prediction 333 took 1695 us
+0 
+Prediction 334 took 1696 us
+0 
+Prediction 335 took 1694 us
+0 
+Prediction 336 took 1694 us
+0 
+Prediction 337 took 1694 us
+0 
+Prediction 338 took 1696 us
+0 
+Prediction 339 took 1696 us
+0 
+Prediction 340 took 1694 us
+0 
+Prediction 341 took 1694 us
+0 
+Prediction 342 took 1688 us
+0 
+Prediction 343 took 1696 us
+0 
+Prediction 344 took 1696 us
+0 
+Prediction 345 took 1694 us
+0 
+Prediction 346 took 1694 us
+0 
+Prediction 347 took 1695 us
+0 
+Prediction 348 took 1653 us
+0 
+Prediction 349 took 1695 us
+0 
+Prediction 350 took 1693 us
+0 
+Prediction 351 took 1683 us
+0 
+Prediction 352 took 1695 us
+0 
+Prediction 353 took 1696 us
+0 
+Prediction 354 took 1658 us
+0 
+Prediction 355 took 1693 us
+0 
+Prediction 356 took 1694 us
+0 
+Prediction 357 took 1696 us
+0 
+Prediction 358 took 1696 us
+0 
+Prediction 359 took 1678 us
+0 
+Prediction 360 took 1693 us
+0 
+Prediction 361 took 1693 us
+0 
+Prediction 362 took 1688 us
+0 
+Prediction 363 took 1696 us
+0 
+Prediction 364 took 1695 us
+0 
+Prediction 365 took 1694 us
+0 
+Prediction 366 took 1672 us
+0 
+Prediction 367 took 1681 us
+0 
+Prediction 368 took 1655 us
+0 
+Prediction 369 took 1677 us
+0 
+Prediction 370 took 1694 us
+0 
+Prediction 371 took 1694 us
+0 
+Prediction 372 took 1684 us
+0 
+Prediction 373 took 1695 us
+0 
+Prediction 374 took 1693 us
+0 
+Prediction 375 took 1693 us
+0 
+Prediction 376 took 1694 us
+0 
+Prediction 377 took 1696 us
+0 
+Prediction 378 took 1696 us
+0 
+Prediction 379 took 1694 us
+0 
+Prediction 380 took 1694 us
+0 
+Prediction 381 took 1694 us
+0 
+Prediction 382 took 1690 us
+0 
+Prediction 383 took 1696 us
+0 
+Prediction 384 took 1660 us
+0 
+Prediction 385 took 1694 us
+0 
+Prediction 386 took 1694 us
+0 
+Prediction 387 took 1696 us
+0 
+Prediction 388 took 1696 us
+0 
+Prediction 389 took 1694 us
+0 
+Prediction 390 took 1694 us
+0 
+Prediction 391 took 1694 us
+0 
+Prediction 392 took 1696 us
+0 
+Prediction 393 took 1656 us
+0 
+Prediction 394 took 1694 us
+0 
+Prediction 395 took 1693 us
+0 
+Prediction 396 took 1693 us
+0 
+Prediction 397 took 1683 us
+0 
+Prediction 398 took 1696 us
+0 
+Prediction 399 took 1661 us
+0 
+Prediction 400 took 1693 us
+0 
+Prediction 401 took 1694 us
+0 
+Prediction 402 took 1696 us
+0 
+Prediction 403 took 1657 us
+0 
+Prediction 404 took 1664 us
+0 
+Prediction 405 took 1694 us
+0 
+Prediction 406 took 1694 us
+0 
+Prediction 407 took 1696 us
+0 
+Prediction 408 took 1696 us
+0 
+Prediction 409 took 1664 us
+0 
+Prediction 410 took 1693 us
+0 
+Prediction 411 took 1695 us
+0 
+Prediction 412 took 1696 us
+0 
+Prediction 413 took 1696 us
+0 
+Prediction 414 took 1693 us
+0 
+Prediction 415 took 1694 us
+0 
+Prediction 416 took 1694 us
+0 
+Prediction 417 took 1696 us
+0 
+Prediction 418 took 1696 us
+0 
+Prediction 419 took 1662 us
+0 
+Prediction 420 took 1694 us
+0 
+Prediction 421 took 1694 us
+0 
+Prediction 422 took 1696 us
+0 
+Prediction 423 took 1696 us
+0 
+Prediction 424 took 1693 us
+0 
+Prediction 425 took 1694 us
+0 
+Prediction 426 took 1694 us
+0 
+Prediction 427 took 1696 us
+0 
+Prediction 428 took 1696 us
+0 
+Prediction 429 took 1693 us
+0 
+Prediction 430 took 1693 us
+0 
+Prediction 431 took 1693 us
+0 
+Prediction 432 took 1696 us
+0 
+Prediction 433 took 1696 us
+0 
+Prediction 434 took 1693 us
+0 
+Prediction 435 took 1668 us
+0 
+Prediction 436 took 1694 us
+0 
+Prediction 437 took 1696 us
+0 
+Prediction 438 took 1696 us
+0 
+Prediction 439 took 1694 us
+0 
+Prediction 440 took 1693 us
+0 
+Prediction 441 took 1694 us
+0 
+Prediction 442 took 1696 us
+0 
+Prediction 443 took 1696 us
+0 
+Prediction 444 took 1694 us
+0 
+Prediction 445 took 1694 us
+0 
+Prediction 446 took 1694 us
+0 
+Prediction 447 took 1695 us
+0 
+Prediction 448 took 1696 us
+0 
+Prediction 449 took 1697 us
+0 
+Prediction 450 took 1694 us
+0 
+Prediction 451 took 1673 us
+0 
+Prediction 452 took 1696 us
+0 
+Prediction 453 took 1696 us
+0 
+Prediction 454 took 1697 us
+0 
+Prediction 455 took 1693 us
+0 
+Prediction 456 took 1694 us
+0 
+Prediction 457 took 1682 us
+0 
+Prediction 458 took 1695 us
+0 
+Prediction 459 took 1696 us
+0 
+Prediction 460 took 1694 us
+0 
+Prediction 461 took 1694 us
+0 
+Prediction 462 took 1694 us
+0 
+Prediction 463 took 1696 us
+0 
+Prediction 464 took 1696 us
+0 
+Prediction 465 took 1694 us
+0 
+Prediction 466 took 1694 us
+0 
+Prediction 467 took 1688 us
+0 
+Prediction 468 took 1696 us
+0 
+Prediction 469 took 1696 us
+0 
+Prediction 470 took 1694 us
+0 
+Prediction 471 took 1694 us
+0 
+Prediction 472 took 1695 us
+0 
+Prediction 473 took 1653 us
+0 
+Prediction 474 took 1695 us
+0 
+Prediction 475 took 1693 us
+0 
+Prediction 476 took 1683 us
+0 
+Prediction 477 took 1695 us
+0 
+Prediction 478 took 1696 us
+0 
+Prediction 479 took 1658 us
+0 
+Prediction 480 took 1693 us
+0 
+Prediction 481 took 1694 us
+0 
+Prediction 482 took 1696 us
+0 
+Prediction 483 took 1696 us
+0 
+Prediction 484 took 1678 us
+0 
+Prediction 485 took 1693 us
+0 
+Prediction 486 took 1693 us
+0 
+Prediction 487 took 1688 us
+0 
+Prediction 488 took 1696 us
+0 
+Prediction 489 took 1695 us
+0 
+Prediction 490 took 1694 us
+0 
+Prediction 491 took 1672 us
+0 
+Prediction 492 took 1681 us
+0 
+Prediction 493 took 1655 us
+0 
+Prediction 494 took 1677 us
+0 
+Prediction 495 took 1694 us
+0 
+Prediction 496 took 1694 us
+0 
+Prediction 497 took 1684 us
+0 
+Prediction 498 took 1695 us
+0 
+Prediction 499 took 1693 us
+0 
+Prediction 500 took 1693 us
+0 
+Prediction 501 took 1694 us
+0 
+Prediction 502 took 1696 us
+0 
+Prediction 503 took 1696 us
+0 
+Prediction 504 took 1694 us
+0 
+Prediction 505 took 1694 us
+0 
+Prediction 506 took 1694 us
+0 
+Prediction 507 took 1690 us
+0 
+Prediction 508 took 1696 us
+0 
+Prediction 509 took 1660 us
+0 
+Prediction 510 took 1694 us
+0 
+Prediction 511 took 1694 us
+0 
+Prediction 512 took 1696 us
+0 
+Prediction 513 took 1696 us
+0 
+Prediction 514 took 1694 us
+0 
+Prediction 515 took 1694 us
+0 
+Prediction 516 took 1694 us
+0 
+Prediction 517 took 1696 us
+0 
+Prediction 518 took 1656 us
+0 
+Prediction 519 took 1694 us
+0 
+Prediction 520 took 1693 us
+0 
+Prediction 521 took 1693 us
+0 
+Prediction 522 took 1683 us
+0 
+Prediction 523 took 1696 us
+0 
+Prediction 524 took 1661 us
+0 
+Prediction 525 took 1693 us
+0 
+Prediction 526 took 1694 us
+0 
+Prediction 527 took 1696 us
+0 
+Prediction 528 took 1657 us
+0 
+Prediction 529 took 1664 us
+0 
+Prediction 530 took 1694 us
+0 
+Prediction 531 took 1694 us
+0 
+Prediction 532 took 1696 us
+0 
+Prediction 533 took 1696 us
+0 
+Prediction 534 took 1664 us
+0 
+Prediction 535 took 1693 us
+0 
+Prediction 536 took 1695 us
+0 
+Prediction 537 took 1696 us
+0 
+Prediction 538 took 1696 us
+0 
+Prediction 539 took 1693 us
+0 
+Prediction 540 took 1694 us
+0 
+Prediction 541 took 1694 us
+0 
+Prediction 542 took 1696 us
+0 
+Prediction 543 took 1696 us
+0 
+Prediction 544 took 1662 us
+0 
+Prediction 545 took 1694 us
+0 
+Prediction 546 took 1694 us
+0 
+Prediction 547 took 1696 us
+0 
+Prediction 548 took 1696 us
+0 
+Prediction 549 took 1693 us
+0 
+Prediction 550 took 1694 us
+0 
+Prediction 551 took 1694 us
+0 
+Prediction 552 took 1696 us
+0 
+Prediction 553 took 1696 us
+0 
+Prediction 554 took 1693 us
+0 
+Prediction 555 took 1693 us
+0 
+Prediction 556 took 1693 us
+0 
+Prediction 557 took 1696 us
+0 
+Prediction 558 took 1696 us
+0 
+Prediction 559 took 1693 us
+0 
+Prediction 560 took 1668 us
+0 
+Prediction 561 took 1694 us
+0 
+Prediction 562 took 1696 us
+0 
+Prediction 563 took 1696 us
+0 
+Prediction 564 took 1694 us
+0 
+Prediction 565 took 1693 us
+0 
+Prediction 566 took 1694 us
+0 
+Prediction 567 took 1696 us
+0 
+Prediction 568 took 1696 us
+0 
+Prediction 569 took 1694 us
+0 
+Prediction 570 took 1694 us
+0 
+Prediction 571 took 1694 us
+0 
+Prediction 572 took 1695 us
+0 
+Prediction 573 took 1696 us
+0 
+Prediction 574 took 1697 us
+0 
+Prediction 575 took 1694 us
+0 
+Prediction 576 took 1673 us
+0 
+Prediction 577 took 1696 us
+0 
+Prediction 578 took 1696 us
+0 
+Prediction 579 took 1697 us
+0 
+Prediction 580 took 1693 us
+0 
+Prediction 581 took 1694 us
+0 
+Prediction 582 took 1682 us
+0 
+Prediction 583 took 1695 us
+0 
+Prediction 584 took 1696 us
+0 
+Prediction 585 took 1694 us
+0 
+Prediction 586 took 1694 us
+0 
+Prediction 587 took 1694 us
+0 
+Prediction 588 took 1696 us
+0 
+Prediction 589 took 1696 us
+0 
+Prediction 590 took 1694 us
+0 
+Prediction 591 took 1694 us
+0 
+Prediction 592 took 1688 us
+0 
+Prediction 593 took 1696 us
+0 
+Prediction 594 took 1696 us
+0 
+Prediction 595 took 1694 us
+0 
+Prediction 596 took 1694 us
+0 
+Prediction 597 took 1695 us
+0 
+Prediction 598 took 1653 us
+0 
+Prediction 599 took 1695 us
+0 
+Prediction 600 took 1693 us
+0 
+Prediction 601 took 1683 us
+0 
+Prediction 602 took 1695 us
+0 
+Prediction 603 took 1696 us
+0 
+Prediction 604 took 1658 us
+0 
+Prediction 605 took 1693 us
+0 
+Prediction 606 took 1694 us
+0 
+Prediction 607 took 1696 us
+0 
+Prediction 608 took 1696 us
+0 
+Prediction 609 took 1678 us
+0 
+Prediction 610 took 1693 us
+0 
+Prediction 611 took 1693 us
+0 
+Prediction 612 took 1688 us
+0 
+Prediction 613 took 1696 us
+0 
+Prediction 614 took 1695 us
+0 
+Prediction 615 took 1694 us
+0 
+Prediction 616 took 1672 us
+0 
+Prediction 617 took 1681 us
+0 
+Prediction 618 took 1655 us
+0 
+Prediction 619 took 1677 us
+0 
+Prediction 620 took 1694 us
+0 
+Prediction 621 took 1694 us
+0 
+Prediction 622 took 1684 us
+0 
+Prediction 623 took 1695 us
+0 
+Prediction 624 took 1693 us
+0 
+Prediction 625 took 1693 us
+0 
+Prediction 626 took 1694 us
+0 
+Prediction 627 took 1696 us
+0 
+Prediction 628 took 1696 us
+0 
+Prediction 629 took 1694 us
+0 
+Prediction 630 took 1694 us
+0 
+Prediction 631 took 1694 us
+0 
+Prediction 632 took 1690 us
+0 
+Prediction 633 took 1696 us
+0 
+Prediction 634 took 1660 us
+0 
+Prediction 635 took 1694 us
+0 
+Prediction 636 took 1694 us
+0 
+Prediction 637 took 1696 us
+0 
+Prediction 638 took 1696 us
+0 
+Prediction 639 took 1694 us
+0 
+Prediction 640 took 1694 us
+0 
+Prediction 641 took 1694 us
+0 
+Prediction 642 took 1696 us
+0 
+Prediction 643 took 1656 us
+0 
+Prediction 644 took 1694 us
+0 
+Prediction 645 took 1693 us
+0 
+Prediction 646 took 1693 us
+0 
+Prediction 647 took 1683 us
+0 
+Prediction 648 took 1696 us
+0 
+Prediction 649 took 1661 us
+0 
+Prediction 650 took 1693 us
+0 
+Prediction 651 took 1694 us
+0 
+Prediction 652 took 1696 us
+0 
+Prediction 653 took 1657 us
+0 
+Prediction 654 took 1664 us
+0 
+Prediction 655 took 1694 us
+0 
+Prediction 656 took 1694 us
+0 
+Prediction 657 took 1696 us
+0 
+Prediction 658 took 1696 us
+0 
+Prediction 659 took 1664 us
+0 
+Prediction 660 took 1693 us
+0 
+Prediction 661 took 1695 us
+0 
+Prediction 662 took 1696 us
+0 
+Prediction 663 took 1696 us
+0 
+Prediction 664 took 1693 us
+0 
+Prediction 665 took 1694 us
+0 
+Prediction 666 took 1694 us
+0 
+Prediction 667 took 1696 us
+0 
+Prediction 668 took 1696 us
+0 
+Prediction 669 took 1662 us
+0 
+Prediction 670 took 1694 us
+0 
+Prediction 671 took 1694 us
+0 
+Prediction 672 took 1696 us
+0 
+Prediction 673 took 1696 us
+0 
+Prediction 674 took 1693 us
+0 
+Prediction 675 took 1694 us
+0 
+Prediction 676 took 1694 us
+0 
+Prediction 677 took 1696 us
+0 
+Prediction 678 took 1696 us
+0 
+Prediction 679 took 1693 us
+0 
+Prediction 680 took 1693 us
+0 
+Prediction 681 took 1693 us
+0 
+Prediction 682 took 1696 us
+0 
+Prediction 683 took 1696 us
+0 
+Prediction 684 took 1693 us
+0 
+Prediction 685 took 1668 us
+0 
+Prediction 686 took 1694 us
+0 
+Prediction 687 took 1696 us
+0 
+Prediction 688 took 1696 us
+0 
+Prediction 689 took 1694 us
+0 
+Prediction 690 took 1693 us
+0 
+Prediction 691 took 1694 us
+0 
+Prediction 692 took 1696 us
+0 
+Prediction 693 took 1696 us
+0 
+Prediction 694 took 1694 us
+0 
+Prediction 695 took 1694 us
+0 
+Prediction 696 took 1694 us
+0 
+Prediction 697 took 1695 us
+0 
+Prediction 698 took 1696 us
+0 
+Prediction 699 took 1697 us
+0 
+Prediction 700 took 1694 us
+0 
+Prediction 701 took 1673 us
+0 
+Prediction 702 took 1696 us
+0 
+Prediction 703 took 1696 us
+0 
+Prediction 704 took 1697 us
+0 
+Prediction 705 took 1693 us
+0 
+Prediction 706 took 1694 us
+0 
+Prediction 707 took 1682 us
+0 
+Prediction 708 took 1695 us
+0 
+Prediction 709 took 1696 us
+0 
+Prediction 710 took 1694 us
+0 
+Prediction 711 took 1694 us
+0 
+Prediction 712 took 1694 us
+0 
+Prediction 713 took 1696 us
+0 
+Prediction 714 took 1696 us
+0 
+Prediction 715 took 1694 us
+0 
+Prediction 716 took 1694 us
+0 
+Prediction 717 took 1688 us
+0 
+Prediction 718 took 1696 us
+0 
+Prediction 719 took 1696 us
+0 
+Prediction 720 took 1694 us
+0 
+Prediction 721 took 1694 us
+0 
+Prediction 722 took 1695 us
+0 
+Prediction 723 took 1653 us
+0 
+Prediction 724 took 1695 us
+0 
+Prediction 725 took 1693 us
+0 
+Prediction 726 took 1683 us
+0 
+Prediction 727 took 1695 us
+0 
+Prediction 728 took 1696 us
+0 
+Prediction 729 took 1658 us
+0 
+Prediction 730 took 1693 us
+0 
+Prediction 731 took 1694 us
+0 
+Prediction 732 took 1696 us
+0 
+Prediction 733 took 1696 us
+0 
+Prediction 734 took 1678 us
+0 
+Prediction 735 took 1693 us
+0 
+Prediction 736 took 1693 us
+0 
+Prediction 737 took 1688 us
+0 
+Prediction 738 took 1696 us
+0 
+Prediction 739 took 1695 us
+0 
+Prediction 740 took 1694 us
+0 
+Prediction 741 took 1672 us
+0 
+Prediction 742 took 1681 us
+0 
+Prediction 743 took 1655 us
+0 
+Prediction 744 took 1677 us
+0 
+Prediction 745 took 1694 us
+0 
+Prediction 746 took 1694 us
+0 
+Prediction 747 took 1684 us
+0 
+Prediction 748 took 1695 us
+0 
+Prediction 749 took 1693 us
+0 
+Prediction 750 took 1693 us
+0 
+Prediction 751 took 1694 us
+0 
+Prediction 752 took 1696 us
+0 
+Prediction 753 took 1696 us
+0 
+Prediction 754 took 1694 us
+0 
+Prediction 755 took 1694 us
+0 
+Prediction 756 took 1694 us
+0 
+Prediction 757 took 1690 us
+0 
+Prediction 758 took 1696 us
+0 
+Prediction 759 took 1660 us
+0 
+Prediction 760 took 1694 us
+0 
+Prediction 761 took 1694 us
+0 
+Prediction 762 took 1696 us
+0 
+Prediction 763 took 1696 us
+0 
+Prediction 764 took 1694 us
+0 
+Prediction 765 took 1694 us
+0 
+Prediction 766 took 1694 us
+0 
+Prediction 767 took 1696 us
+0 
+Prediction 768 took 1656 us
+0 
+Prediction 769 took 1694 us
+0 
+Prediction 770 took 1693 us
+0 
+Prediction 771 took 1693 us
+0 
+Prediction 772 took 1683 us
+0 
+Prediction 773 took 1696 us
+0 
+Prediction 774 took 1661 us
+0 
+Prediction 775 took 1693 us
+0 
+Prediction 776 took 1694 us
+0 
+Prediction 777 took 1696 us
+0 
+Prediction 778 took 1657 us
+0 
+Prediction 779 took 1664 us
+0 
+Prediction 780 took 1694 us
+0 
+Prediction 781 took 1694 us
+0 
+Prediction 782 took 1696 us
+0 
+Prediction 783 took 1696 us
+0 
+Prediction 784 took 1664 us
+0 
+Prediction 785 took 1693 us
+0 
+Prediction 786 took 1695 us
+0 
+Prediction 787 took 1696 us
+0 
+Prediction 788 took 1696 us
+0 
+Prediction 789 took 1693 us
+0 
+Prediction 790 took 1694 us
+0 
+Prediction 791 took 1694 us
+0 
+Prediction 792 took 1696 us
+0 
+Prediction 793 took 1696 us
+0 
+Prediction 794 took 1662 us
+0 
+Prediction 795 took 1694 us
+0 
+Prediction 796 took 1694 us
+0 
+Prediction 797 took 1696 us
+0 
+Prediction 798 took 1696 us
+0 
+Prediction 799 took 1693 us
+0 
+Prediction 800 took 1694 us
+0 
+Prediction 801 took 1694 us
+0 
+Prediction 802 took 1691 us
+0 
+Prediction 803 took 1696 us
+0 
+Prediction 804 took 1694 us
+0 
+Prediction 805 took 1694 us
+0 
+Prediction 806 took 1695 us
+0 
+Prediction 807 took 1696 us
+0 
+Prediction 808 took 1657 us
+0 
+Prediction 809 took 1694 us
+0 
+Prediction 810 took 1670 us
+0 
+Prediction 811 took 1695 us
+0 
+Prediction 812 took 1696 us
+0 
+Prediction 813 took 1696 us
+0 
+Prediction 814 took 1694 us
+0 
+Prediction 815 took 1694 us
+0 
+Prediction 816 took 1695 us
+0 
+Prediction 817 took 1696 us
+0 
+Prediction 818 took 1696 us
+0 
+Prediction 819 took 1694 us
+0 
+Prediction 820 took 1694 us
+0 
+Prediction 821 took 1686 us
+0 
+Prediction 822 took 1698 us
+0 
+Prediction 823 took 1658 us
+0 
+Prediction 824 took 1694 us
+0 
+Prediction 825 took 1694 us
+0 
+Prediction 826 took 1678 us
+0 
+Prediction 827 took 1696 us
+0 
+Prediction 828 took 1696 us
+0 
+Prediction 829 took 1664 us
+0 
+Prediction 830 took 1693 us
+0 
+Prediction 831 took 1695 us
+0 
+Prediction 832 took 1687 us
+0 
+Prediction 833 took 1696 us
+0 
+Prediction 834 took 1693 us
+0 
+Prediction 835 took 1694 us
+0 
+Prediction 836 took 1694 us
+0 
+Prediction 837 took 1695 us
+0 
+Prediction 838 took 1695 us
+0 
+Prediction 839 took 1694 us
+0 
+Prediction 840 took 1694 us
+0 
+Prediction 841 took 1695 us
+0 
+Prediction 842 took 1696 us
+0 
+Prediction 843 took 1692 us
+0 
+Prediction 844 took 1693 us
+0 
+Prediction 845 took 1682 us
+0 
+Prediction 846 took 1694 us
+0 
+Prediction 847 took 1697 us
+0 
+Prediction 848 took 1696 us
+0 
+Prediction 849 took 1693 us
+0 
+Prediction 850 took 1693 us
+0 
+Prediction 851 took 1694 us
+0 
+Prediction 852 took 1696 us
+0 
+Prediction 853 took 1696 us
+0 
+Prediction 854 took 1693 us
+0 
+Prediction 855 took 1694 us
+0 
+Prediction 856 took 1694 us
+0 
+Prediction 857 took 1696 us
+0 
+Prediction 858 took 1693 us
+0 
+Prediction 859 took 1693 us
+0 
+Prediction 860 took 1693 us
+0 
+Prediction 861 took 1675 us
+0 
+Prediction 862 took 1690 us
+0 
+Prediction 863 took 1696 us
+0 
+Prediction 864 took 1677 us
+0 
+Prediction 865 took 1681 us
+0 
+Prediction 866 took 1685 us
+0 
+Prediction 867 took 1684 us
+0 
+Prediction 868 took 1696 us
+0 
+Prediction 869 took 1693 us
+0 
+Prediction 870 took 1694 us
+0 
+Prediction 871 took 1694 us
+0 
+Prediction 872 took 1697 us
+0 
+Prediction 873 took 1696 us
+0 
+Prediction 874 took 1694 us
+0 
+Prediction 875 took 1694 us
+0 
+Prediction 876 took 1694 us
+0 
+Prediction 877 took 1690 us
+0 
+Prediction 878 took 1695 us
+0 
+Prediction 879 took 1677 us
+0 
+Prediction 880 took 1693 us
+0 
+Prediction 881 took 1693 us
+0 
+Prediction 882 took 1696 us
+0 
+Prediction 883 took 1696 us
+0 
+Prediction 884 took 1694 us
+0 
+Prediction 885 took 1694 us
+0 
+Prediction 886 took 1694 us
+0 
+Prediction 887 took 1690 us
+0 
+Prediction 888 took 1696 us
+0 
+Prediction 889 took 1693 us
+0 
+Prediction 890 took 1693 us
+0 
+Prediction 891 took 1693 us
+0 
+Prediction 892 took 1681 us
+0 
+Prediction 893 took 1696 us
+0 
+Prediction 894 took 1696 us
+0 
+Prediction 895 took 1693 us
+0 
+Prediction 896 took 1694 us
+0 
+Prediction 897 took 1694 us
+0 
+Prediction 898 took 1696 us
+0 
+Prediction 899 took 1696 us
+0 
+Prediction 900 took 1693 us
+0 
+Prediction 901 took 1693 us
+0 
+Prediction 902 took 1695 us
+0 
+Prediction 903 took 1688 us
+0 
+Prediction 904 took 1696 us
+0 
+Prediction 905 took 1694 us
+0 
+Prediction 906 took 1693 us
+0 
+Prediction 907 took 1695 us
+0 
+Prediction 908 took 1696 us
+0 
+Prediction 909 took 1696 us
+0 
+Prediction 910 took 1694 us
+0 
+Prediction 911 took 1694 us
+0 
+Prediction 912 took 1695 us
+0 
+Prediction 913 took 1696 us
+0 
+Prediction 914 took 1695 us
+0 
+Prediction 915 took 1694 us
+0 
+Prediction 916 took 1682 us
+0 
+Prediction 917 took 1694 us
+0 
+Prediction 918 took 1652 us
+0 
+Prediction 919 took 1696 us
+0 
+Prediction 920 took 1695 us
+0 
+Prediction 921 took 1694 us
+0 
+Prediction 922 took 1695 us
+0 
+Prediction 923 took 1692 us
+0 
+Prediction 924 took 1696 us
+0 
+Prediction 925 took 1695 us
+0 
+Prediction 926 took 1694 us
+0 
+Prediction 927 took 1695 us
+0 
+Prediction 928 took 1695 us
+0 
+Prediction 929 took 1696 us
+0 
+Prediction 930 took 1664 us
+0 
+Prediction 931 took 1694 us
+0 
+Prediction 932 took 1694 us
+0 
+Prediction 933 took 1696 us
+0 
+Prediction 934 took 1696 us
+0 
+Prediction 935 took 1665 us
+0 
+Prediction 936 took 1694 us
+0 
+Prediction 937 took 1694 us
+0 
+Prediction 938 took 1653 us
+0 
+Prediction 939 took 1696 us
+0 
+Prediction 940 took 1693 us
+0 
+Prediction 941 took 1694 us
+0 
+Prediction 942 took 1694 us
+0 
+Prediction 943 took 1688 us
+0 
+Prediction 944 took 1696 us
+0 
+Prediction 945 took 1695 us
+0 
+Prediction 946 took 1694 us
+0 
+Prediction 947 took 1694 us
+0 
+Prediction 948 took 1653 us
+0 
+Prediction 949 took 1661 us
+0 
+Prediction 950 took 1667 us
+0 
+Prediction 951 took 1675 us
+0 
+Prediction 952 took 1696 us
+0 
+Prediction 953 took 1690 us
+0 
+Prediction 954 took 1693 us
+0 
+Prediction 955 took 1694 us
+0 
+Prediction 956 took 1694 us
+0 
+Prediction 957 took 1696 us
+0 
+Prediction 958 took 1690 us
+0 
+Prediction 959 took 1693 us
+0 
+Prediction 960 took 1694 us
+0 
+Prediction 961 took 1694 us
+0 
+Prediction 962 took 1697 us
+0 
+Prediction 963 took 1690 us
+0 
+Prediction 964 took 1695 us
+0 
+Prediction 965 took 1667 us
+0 
+Prediction 966 took 1694 us
+0 
+Prediction 967 took 1696 us
+0 
+Prediction 968 took 1696 us
+0 
+Prediction 969 took 1694 us
+0 
+Prediction 970 took 1694 us
+0 
+Prediction 971 took 1694 us
+0 
+Prediction 972 took 1696 us
+0 
+Prediction 973 took 1696 us
+0 
+Prediction 974 took 1696 us
+0 
+Prediction 975 took 1666 us
+0 
+Prediction 976 took 1693 us
+0 
+Prediction 977 took 1696 us
+0 
+Prediction 978 took 1655 us
+0 
+Prediction 979 took 1694 us
+0 
+Prediction 980 took 1682 us
+0 
+Prediction 981 took 1694 us
+0 
+Prediction 982 took 1696 us
+0 
+Prediction 983 took 1696 us
+0 
+Prediction 984 took 1693 us
+0 
+Prediction 985 took 1693 us
+0 
+Prediction 986 took 1694 us
+0 
+Prediction 987 took 1696 us
+0 
+Prediction 988 took 1654 us
+0 
+Prediction 989 took 1693 us
+0 
+Prediction 990 took 1694 us
+0 
+Prediction 991 took 1684 us
+0 
+Prediction 992 took 1696 us
+0 
+Prediction 993 took 1695 us
+0 
+Prediction 994 took 1660 us
+0 
+Prediction 995 took 1693 us
+0 
+Prediction 996 took 1693 us
+0 
+Prediction 997 took 1696 us
+0 
+Prediction 998 took 1691 us
+0 
+Prediction 999 took 1693 us
+
+Finished 1000 iter in 5201 - 414 = 4 s
+Weights matrix: 1 x 32
+136 194 59 72 75 74 80 201 57 4 159 195 191 56 202 29 159 193 215 63 50 125 8 30 38 74 241 237 46 101 96 10 
+Bias matrix: 1 x32
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Weights matrix: 32 x 32
+153 251 187 0 148 72 117 145 194 82 9 185 34 56 188 166 83 179 53 11 137 31 39 73 148 66 103 128 186 192 23 189 
+221 88 97 153 79 72 94 239 201 237 76 13 72 158 12 138 200 58 131 56 57 199 122 116 112 20 254 177 31 29 137 126 
+49 151 48 139 23 170 138 160 229 63 232 10 181 118 106 130 167 154 217 251 184 45 31 8 207 165 20 231 115 93 75 43 
+234 250 197 57 88 224 242 87 23 31 107 181 145 18 135 201 164 177 212 205 67 65 126 206 91 204 228 9 75 22 35 173 
+72 5 140 98 205 125 115 176 142 187 205 158 10 107 164 128 86 203 62 197 184 55 92 192 230 79 9 120 187 117 201 114 
+17 90 42 141 198 132 28 84 252 69 86 208 64 59 30 165 120 101 31 6 136 104 137 182 122 75 139 42 43 50 182 103 
+213 33 195 204 224 134 128 105 29 93 35 184 177 189 162 199 141 53 130 40 191 217 156 10 124 135 151 224 65 236 22 45 
+47 150 57 157 218 241 250 34 152 119 212 185 98 54 213 173 61 150 253 2 200 188 10 153 97 197 95 97 107 93 200 181 
+35 201 39 143 240 72 109 97 11 100 84 120 53 212 39 92 120 193 35 136 199 122 156 175 152 48 24 142 155 103 85 252 
+70 62 194 54 121 20 136 233 62 192 49 108 38 209 156 90 33 221 174 15 152 203 24 44 24 150 198 86 196 37 140 222 
+7 19 46 66 83 31 33 201 19 94 127 174 19 87 195 254 22 234 121 174 77 121 165 160 137 70 101 48 72 121 20 73 
+201 116 165 111 0 98 215 37 212 255 1 81 186 3 130 165 229 167 175 224 30 129 133 79 88 147 140 0 4 34 138 93 
+83 139 227 111 111 65 184 158 142 232 53 99 163 16 17 42 96 151 146 192 19 27 73 140 125 76 244 85 99 13 150 200 
+0 12 211 220 52 125 121 226 113 168 75 42 59 232 150 105 194 144 201 122 72 149 235 96 17 213 167 30 189 10 51 35 
+52 67 7 246 240 37 32 251 182 138 83 58 218 202 39 159 60 35 251 142 173 173 206 103 255 225 245 96 172 106 60 218 
+200 255 34 191 25 116 196 210 104 187 169 157 137 245 138 74 9 104 250 40 252 45 108 54 62 82 126 237 106 212 174 207 
+208 118 193 232 57 57 143 209 168 168 202 220 238 200 0 9 214 80 95 9 171 62 107 51 68 239 248 102 150 22 195 25 
+87 80 87 220 164 101 91 181 53 9 196 7 142 54 186 103 82 186 87 160 103 164 46 97 30 0 89 223 114 96 40 97 
+189 42 176 111 78 226 59 26 146 116 79 244 53 19 67 223 30 39 176 100 16 226 120 194 193 197 182 30 217 140 245 173 
+97 70 13 17 149 59 135 251 69 165 118 220 161 175 44 43 214 21 208 196 161 153 216 139 228 234 158 221 3 56 100 163 
+206 78 129 205 54 97 48 125 163 174 179 210 98 218 110 140 109 100 61 52 178 16 5 123 10 23 145 52 5 139 122 81 
+31 44 97 151 116 86 135 117 138 203 196 176 14 183 110 165 245 227 18 224 89 229 230 31 68 214 253 155 84 213 19 211 
+105 247 98 171 199 162 165 214 219 175 210 95 141 249 93 87 69 56 234 83 177 129 127 103 60 0 182 250 94 170 196 91 
+110 74 210 163 133 228 87 223 62 225 196 29 119 18 31 91 205 183 101 6 153 245 12 108 218 49 202 85 14 111 130 253 
+65 201 52 104 197 156 139 114 45 205 152 141 246 249 29 97 158 179 121 231 127 130 142 37 17 5 9 206 125 187 75 46 
+198 139 113 42 19 18 208 175 69 37 1 109 7 248 30 108 123 56 160 238 134 121 82 52 26 188 228 197 91 92 189 10 
+147 188 195 33 95 98 34 137 201 237 219 121 32 198 8 74 227 68 225 6 234 44 206 185 181 202 26 19 159 245 135 41 
+77 24 122 210 209 156 109 12 133 49 171 169 142 123 13 175 100 184 213 210 7 175 135 153 92 125 197 227 50 122 117 3 
+46 34 144 97 113 10 138 29 98 74 106 6 207 53 236 21 100 82 43 162 147 193 139 105 101 159 160 177 63 226 168 231 
+87 135 245 18 34 150 215 26 228 101 23 171 239 132 222 164 50 49 8 254 70 70 189 8 135 189 78 201 178 130 174 2 
+4 15 151 7 6 240 65 28 99 215 230 49 123 66 248 167 141 60 12 3 72 6 12 69 204 130 143 207 157 93 70 185 
+80 159 94 177 206 33 22 187 63 142 209 18 222 253 65 44 182 150 69 230 123 249 50 46 25 67 157 131 31 215 190 225 
+Bias matrix: 1 x32
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Weights matrix: 32 x 1
+237 
+112 
+176 
+93 
+27 
+166 
+82 
+139 
+98 
+177 
+176 
+64 
+19 
+155 
+19 
+129 
+24 
+76 
+248 
+28 
+224 
+99 
+81 
+80 
+148 
+209 
+194 
+86 
+140 
+84 
+128 
+75 
+Bias matrix: 1 x1
+0 
+Starting
+0 
+Prediction 0 took 1695 us
+0 
+Prediction 1 took 1681 us
+0 
+Prediction 2 took 1685 us
+0 
+Prediction 3 took 1693 us
+0 
+Prediction 4 took 1694 us
+0 
+Prediction 5 took 1696 us
+0 
+Prediction 6 took 1694 us
+0 
+Prediction 7 took 1694 us
+0 
+Prediction 8 took 1695 us
+0 
+Prediction 9 took 1694 us
+0 
+Prediction 10 took 1696 us
+0 
+Prediction 11 took 1696 us
+0 
+Prediction 12 took 1682 us
+0 
+Prediction 13 took 1680 us
+0 
+Prediction 14 took 1691 us
+0 
+Prediction 15 took 1695 us
+0 
+Prediction 16 took 1694 us
+0 
+Prediction 17 took 1653 us
+0 
+Prediction 18 took 1693 us
+0 
+Prediction 19 took 1694 us
+0 
+Prediction 20 took 1684 us
+0 
+Prediction 21 took 1696 us
+0 
+Prediction 22 took 1694 us
+0 
+Prediction 23 took 1678 us
+0 
+Prediction 24 took 1696 us
+0 
+Prediction 25 took 1693 us
+0 
+Prediction 26 took 1694 us
+0 
+Prediction 27 took 1686 us
+0 
+Prediction 28 took 1696 us
+0 
+Prediction 29 took 1669 us
+0 
+Prediction 30 took 1688 us
+0 
+Prediction 31 took 1696 us
+0 
+Prediction 32 took 1693 us
+0 
+Prediction 33 took 1685 us
+0 
+Prediction 34 took 1696 us
+0 
+Prediction 35 took 1694 us
+0 
+Prediction 36 took 1671 us
+0 
+Prediction 37 took 1696 us
+0 
+Prediction 38 took 1660 us
+0 
+Prediction 39 took 1694 us
+0 
+Prediction 40 took 1679 us
+0 
+Prediction 41 took 1696 us
+0 
+Prediction 42 took 1694 us
+0 
+Prediction 43 took 1694 us
+0 
+Prediction 44 took 1696 us
+0 
+Prediction 45 took 1696 us
+0 
+Prediction 46 took 1670 us
+0 
+Prediction 47 took 1695 us
+0 
+Prediction 48 took 1696 us
+0 
+Prediction 49 took 1694 us
+0 
+Prediction 50 took 1694 us
+0 
+Prediction 51 took 1696 us
+0 
+Prediction 52 took 1694 us
+0 
+Prediction 53 took 1670 us
+0 
+Prediction 54 took 1683 us
+0 
+Prediction 55 took 1696 us
+0 
+Prediction 56 took 1694 us
+0 
+Prediction 57 took 1694 us
+0 
+Prediction 58 took 1696 us
+0 
+Prediction 59 took 1678 us
+0 
+Prediction 60 took 1694 us
+0 
+Prediction 61 took 1696 us
+0 
+Prediction 62 took 1679 us
+0 
+Prediction 63 took 1694 us
+0 
+Prediction 64 took 1695 us
+0 
+Prediction 65 took 1691 us
+0 
+Prediction 66 took 1665 us
+0 
+Prediction 67 took 1694 us
+0 
+Prediction 68 took 1696 us
+0 
+Prediction 69 took 1693 us
+0 
+Prediction 70 took 1694 us
+0 
+Prediction 71 took 1695 us
+0 
+Prediction 72 took 1696 us
+0 
+Prediction 73 took 1694 us
+0 
+Prediction 74 took 1694 us
+0 
+Prediction 75 took 1654 us
+0 
+Prediction 76 took 1693 us
+0 
+Prediction 77 took 1694 us
+0 
+Prediction 78 took 1696 us
+0 
+Prediction 79 took 1695 us
+0 
+Prediction 80 took 1668 us
+0 
+Prediction 81 took 1695 us
+0 
+Prediction 82 took 1691 us
+0 
+Prediction 83 took 1665 us
+0 
+Prediction 84 took 1693 us
+0 
+Prediction 85 took 1696 us
+0 
+Prediction 86 took 1693 us
+0 
+Prediction 87 took 1693 us
+0 
+Prediction 88 took 1697 us
+0 
+Prediction 89 took 1697 us
+0 
+Prediction 90 took 1694 us
+0 
+Prediction 91 took 1676 us
+0 
+Prediction 92 took 1696 us
+0 
+Prediction 93 took 1694 us
+0 
+Prediction 94 took 1694 us
+0 
+Prediction 95 took 1696 us
+0 
+Prediction 96 took 1696 us
+0 
+Prediction 97 took 1667 us
+0 
+Prediction 98 took 1679 us
+0 
+Prediction 99 took 1656 us
+0 
+Prediction 100 took 1694 us
+0 
+Prediction 101 took 1694 us
+0 
+Prediction 102 took 1695 us
+0 
+Prediction 103 took 1696 us
+0 
+Prediction 104 took 1694 us
+0 
+Prediction 105 took 1695 us
+0 
+Prediction 106 took 1694 us
+0 
+Prediction 107 took 1694 us
+0 
+Prediction 108 took 1696 us
+0 
+Prediction 109 took 1695 us
+0 
+Prediction 110 took 1694 us
+0 
+Prediction 111 took 1694 us
+0 
+Prediction 112 took 1686 us
+0 
+Prediction 113 took 1674 us
+0 
+Prediction 114 took 1695 us
+0 
+Prediction 115 took 1694 us
+0 
+Prediction 116 took 1694 us
+0 
+Prediction 117 took 1678 us
+0 
+Prediction 118 took 1653 us
+0 
+Prediction 119 took 1660 us
+0 
+Prediction 120 took 1694 us
+0 
+Prediction 121 took 1684 us
+0 
+Prediction 122 took 1696 us
+0 
+Prediction 123 took 1689 us
+0 
+Prediction 124 took 1696 us
+0 
+Prediction 125 took 1694 us
+0 
+Prediction 126 took 1673 us
+0 
+Prediction 127 took 1696 us
+0 
+Prediction 128 took 1696 us
+0 
+Prediction 129 took 1696 us
+0 
+Prediction 130 took 1666 us
+0 
+Prediction 131 took 1693 us
+0 
+Prediction 132 took 1696 us
+0 
+Prediction 133 took 1696 us
+0 
+Prediction 134 took 1696 us
+0 
+Prediction 135 took 1694 us
+0 
+Prediction 136 took 1684 us
+0 
+Prediction 137 took 1695 us
+0 
+Prediction 138 took 1689 us
+0 
+Prediction 139 took 1696 us
+0 
+Prediction 140 took 1681 us
+0 
+Prediction 141 took 1693 us
+0 
+Prediction 142 took 1695 us
+0 
+Prediction 143 took 1655 us
+0 
+Prediction 144 took 1694 us
+0 
+Prediction 145 took 1667 us
+0 
+Prediction 146 took 1693 us
+0 
+Prediction 147 took 1684 us
+0 
+Prediction 148 took 1657 us
+0 
+Prediction 149 took 1694 us
+0 
+Prediction 150 took 1669 us
+0 
+Prediction 151 took 1695 us
+0 
+Prediction 152 took 1696 us
+0 
+Prediction 153 took 1693 us
+0 
+Prediction 154 took 1693 us
+0 
+Prediction 155 took 1694 us
+0 
+Prediction 156 took 1695 us
+0 
+Prediction 157 took 1696 us
+0 
+Prediction 158 took 1657 us
+0 
+Prediction 159 took 1693 us
+0 
+Prediction 160 took 1694 us
+0 
+Prediction 161 took 1694 us
+0 
+Prediction 162 took 1686 us
+0 
+Prediction 163 took 1692 us
+0 
+Prediction 164 took 1693 us
+0 
+Prediction 165 took 1693 us
+0 
+Prediction 166 took 1686 us
+0 
+Prediction 167 took 1696 us
+0 
+Prediction 168 took 1696 us
+0 
+Prediction 169 took 1662 us
+0 
+Prediction 170 took 1694 us
+0 
+Prediction 171 took 1694 us
+0 
+Prediction 172 took 1696 us
+0 
+Prediction 173 took 1696 us
+0 
+Prediction 174 took 1693 us
+0 
+Prediction 175 took 1694 us
+0 
+Prediction 176 took 1694 us
+0 
+Prediction 177 took 1696 us
+0 
+Prediction 178 took 1696 us
+0 
+Prediction 179 took 1693 us
+0 
+Prediction 180 took 1693 us
+0 
+Prediction 181 took 1693 us
+0 
+Prediction 182 took 1696 us
+0 
+Prediction 183 took 1696 us
+0 
+Prediction 184 took 1693 us
+0 
+Prediction 185 took 1668 us
+0 
+Prediction 186 took 1694 us
+0 
+Prediction 187 took 1696 us
+0 
+Prediction 188 took 1696 us
+0 
+Prediction 189 took 1694 us
+0 
+Prediction 190 took 1693 us
+0 
+Prediction 191 took 1694 us
+0 
+Prediction 192 took 1696 us
+0 
+Prediction 193 took 1696 us
+0 
+Prediction 194 took 1694 us
+0 
+Prediction 195 took 1694 us
+0 
+Prediction 196 took 1694 us
+0 
+Prediction 197 took 1695 us
+0 
+Prediction 198 took 1696 us
+0 
+Prediction 199 took 1697 us
+0 
+Prediction 200 took 1694 us
+0 
+Prediction 201 took 1673 us
+0 
+Prediction 202 took 1696 us
+0 
+Prediction 203 took 1696 us
+0 
+Prediction 204 took 1697 us
+0 
+Prediction 205 took 1693 us
+0 
+Prediction 206 took 1694 us
+0 
+Prediction 207 took 1682 us
+0 
+Prediction 208 took 1695 us
+0 
+Prediction 209 took 1696 us
+0 
+Prediction 210 took 1694 us
+0 
+Prediction 211 took 1694 us
+0 
+Prediction 212 took 1694 us
+0 
+Prediction 213 took 1696 us
+0 
+Prediction 214 took 1696 us
+0 
+Prediction 215 took 1694 us
+0 
+Prediction 216 took 1694 us
+0 
+Prediction 217 took 1688 us
+0 
+Prediction 218 took 1696 us
+0 
+Prediction 219 took 1696 us
+0 
+Prediction 220 took 1694 us
+0 
+Prediction 221 took 1694 us
+0 
+Prediction 222 took 1695 us
+0 
+Prediction 223 took 1653 us
+0 
+Prediction 224 took 1695 us
+0 
+Prediction 225 took 1693 us
+0 
+Prediction 226 took 1683 us
+0 
+Prediction 227 took 1695 us
+0 
+Prediction 228 took 1696 us
+0 
+Prediction 229 took 1658 us
+0 
+Prediction 230 took 1693 us
+0 
+Prediction 231 took 1694 us
+0 
+Prediction 232 took 1696 us
+0 
+Prediction 233 took 1696 us
+0 
+Prediction 234 took 1678 us
+0 
+Prediction 235 took 1693 us
+0 
+Prediction 236 took 1693 us
+0 
+Prediction 237 took 1688 us
+0 
+Prediction 238 took 1696 us
+0 
+Prediction 239 took 1695 us
+0 
+Prediction 240 took 1694 us
+0 
+Prediction 241 took 1672 us
+0 
+Prediction 242 took 1681 us
+0 
+Prediction 243 took 1655 us
+0 
+Prediction 244 took 1677 us
+0 
+Prediction 245 took 1694 us
+0 
+Prediction 246 took 1694 us
+0 
+Prediction 247 took 1684 us
+0 
+Prediction 248 took 1695 us
+0 
+Prediction 249 took 1693 us
+0 
+Prediction 250 took 1693 us
+0 
+Prediction 251 took 1694 us
+0 
+Prediction 252 took 1696 us
+0 
+Prediction 253 took 1696 us
+0 
+Prediction 254 took 1694 us
+0 
+Prediction 255 took 1694 us
+0 
+Prediction 256 took 1694 us
+0 
+Prediction 257 took 1690 us
+0 
+Prediction 258 took 1696 us
+0 
+Prediction 259 took 1660 us
+0 
+Prediction 260 took 1694 us
+0 
+Prediction 261 took 1694 us
+0 
+Prediction 262 took 1696 us
+0 
+Prediction 263 took 1696 us
+0 
+Prediction 264 took 1694 us
+0 
+Prediction 265 took 1694 us
+0 
+Prediction 266 took 1694 us
+0 
+Prediction 267 took 1696 us
+0 
+Prediction 268 took 1656 us
+0 
+Prediction 269 took 1694 us
+0 
+Prediction 270 took 1693 us
+0 
+Prediction 271 took 1693 us
+0 
+Prediction 272 took 1683 us
+0 
+Prediction 273 took 1696 us
+0 
+Prediction 274 took 1661 us
+0 
+Prediction 275 took 1693 us
+0 
+Prediction 276 took 1694 us
+0 
+Prediction 277 took 1696 us
+0 
+Prediction 278 took 1657 us
+0 
+Prediction 279 took 1664 us
+0 
+Prediction 280 took 1694 us
+0 
+Prediction 281 took 1694 us
+0 
+Prediction 282 took 1696 us
+0 
+Prediction 283 took 1696 us
+0 
+Prediction 284 took 1664 us
+0 
+Prediction 285 took 1693 us
+0 
+Prediction 286 took 1695 us
+0 
+Prediction 287 took 1696 us
+0 
+Prediction 288 took 1696 us
+0 
+Prediction 289 took 1693 us
+0 
+Prediction 290 took 1694 us
+0 
+Prediction 291 took 1694 us
+0 
+Prediction 292 took 1696 us
+0 
+Prediction 293 took 1696 us
+0 
+Prediction 294 took 1662 us
+0 
+Prediction 295 took 1694 us
+0 
+Prediction 296 took 1694 us
+0 
+Prediction 297 took 1696 us
+0 
+Prediction 298 took 1696 us
+0 
+Prediction 299 took 1693 us
+0 
+Prediction 300 took 1694 us
+0 
+Prediction 301 took 1694 us
+0 
+Prediction 302 took 1696 us
+0 
+Prediction 303 took 1696 us
+0 
+Prediction 304 took 1693 us
+0 
+Prediction 305 took 1693 us
+0 
+Prediction 306 took 1693 us
+0 
+Prediction 307 took 1696 us
+0 
+Prediction 308 took 1696 us
+0 
+Prediction 309 took 1693 us
+0 
+Prediction 310 took 1668 us
+0 
+Prediction 311 took 1694 us
+0 
+Prediction 312 took 1696 us
+0 
+Prediction 313 took 1696 us
+0 
+Prediction 314 took 1694 us
+0 
+Prediction 315 took 1693 us
+0 
+Prediction 316 took 1694 us
+0 
+Prediction 317 took 1696 us
+0 
+Prediction 318 took 1696 us
+0 
+Prediction 319 took 1694 us
+0 
+Prediction 320 took 1694 us
+0 
+Prediction 321 took 1694 us
+0 
+Prediction 322 took 1695 us
+0 
+Prediction 323 took 1696 us
+0 
+Prediction 324 took 1697 us
+0 
+Prediction 325 took 1694 us
+0 
+Prediction 326 took 1673 us
+0 
+Prediction 327 took 1696 us
+0 
+Prediction 328 took 1696 us
+0 
+Prediction 329 took 1697 us
+0 
+Prediction 330 took 1693 us
+0 
+Prediction 331 took 1694 us
+0 
+Prediction 332 took 1682 us
+0 
+Prediction 333 took 1695 us
+0 
+Prediction 334 took 1696 us
+0 
+Prediction 335 took 1694 us
+0 
+Prediction 336 took 1694 us
+0 
+Prediction 337 took 1694 us
+0 
+Prediction 338 took 1696 us
+0 
+Prediction 339 took 1696 us
+0 
+Prediction 340 took 1694 us
+0 
+Prediction 341 took 1694 us
+0 
+Prediction 342 took 1688 us
+0 
+Prediction 343 took 1696 us
+0 
+Prediction 344 took 1696 us
+0 
+Prediction 345 took 1694 us
+0 
+Prediction 346 took 1694 us
+0 
+Prediction 347 took 1695 us
+0 
+Prediction 348 took 1653 us
+0 
+Prediction 349 took 1695 us
+0 
+Prediction 350 took 1693 us
+0 
+Prediction 351 took 1683 us
+0 
+Prediction 352 took 1695 us
+0 
+Prediction 353 took 1696 us
+0 
+Prediction 354 took 1658 us
+0 
+Prediction 355 took 1693 us
+0 
+Prediction 356 took 1694 us
+0 
+Prediction 357 took 1696 us
+0 
+Prediction 358 took 1696 us
+0 
+Prediction 359 took 1678 us
+0 
+Prediction 360 took 1693 us
+0 
+Prediction 361 took 1693 us
+0 
+Prediction 362 took 1688 us
+0 
+Prediction 363 took 1696 us
+0 
+Prediction 364 took 1695 us
+0 
+Prediction 365 took 1694 us
+0 
+Prediction 366 took 1672 us
+0 
+Prediction 367 took 1681 us
+0 
+Prediction 368 took 1655 us
+0 
+Prediction 369 took 1677 us
+0 
+Prediction 370 took 1694 us
+0 
+Prediction 371 took 1694 us
+0 
+Prediction 372 took 1684 us
+0 
+Prediction 373 took 1695 us
+0 
+Prediction 374 took 1693 us
+0 
+Prediction 375 took 1693 us
+0 
+Prediction 376 took 1694 us
+0 
+Prediction 377 took 1696 us
+0 
+Prediction 378 took 1696 us
+0 
+Prediction 379 took 1694 us
+0 
+Prediction 380 took 1694 us
+0 
+Prediction 381 took 1694 us
+0 
+Prediction 382 took 1690 us
+0 
+Prediction 383 took 1696 us
+0 
+Prediction 384 took 1660 us
+0 
+Prediction 385 took 1694 us
+0 
+Prediction 386 took 1694 us
+0 
+Prediction 387 took 1696 us
+0 
+Prediction 388 took 1696 us
+0 
+Prediction 389 took 1694 us
+0 
+Prediction 390 took 1694 us
+0 
+Prediction 391 took 1694 us
+0 
+Prediction 392 took 1696 us
+0 
+Prediction 393 took 1656 us
+0 
+Prediction 394 took 1694 us
+0 
+Prediction 395 took 1693 us
+0 
+Prediction 396 took 1693 us
+0 
+Prediction 397 took 1683 us
+0 
+Prediction 398 took 1696 us
+0 
+Prediction 399 took 1661 us
+0 
+Prediction 400 took 1693 us
+0 
+Prediction 401 took 1694 us
+0 
+Prediction 402 took 1696 us
+0 
+Prediction 403 took 1657 us
+0 
+Prediction 404 took 1664 us
+0 
+Prediction 405 took 1694 us
+0 
+Prediction 406 took 1694 us
+0 
+Prediction 407 took 1696 us
+0 
+Prediction 408 took 1696 us
+0 
+Prediction 409 took 1664 us
+0 
+Prediction 410 took 1693 us
+0 
+Prediction 411 took 1695 us
+0 
+Prediction 412 took 1696 us
+0 
+Prediction 413 took 1696 us
+0 
+Prediction 414 took 1693 us
+0 
+Prediction 415 took 1694 us
+0 
+Prediction 416 took 1694 us
+0 
+Prediction 417 took 1696 us
+0 
+Prediction 418 took 1696 us
+0 
+Prediction 419 took 1662 us
+0 
+Prediction 420 took 1694 us
+0 
+Prediction 421 took 1694 us
+0 
+Prediction 422 took 1696 us
+0 
+Prediction 423 took 1696 us
+0 
+Prediction 424 took 1693 us
+0 
+Prediction 425 took 1694 us
+0 
+Prediction 426 took 1694 us
+0 
+Prediction 427 took 1696 us
+0 
+Prediction 428 took 1696 us
+0 
+Prediction 429 took 1693 us
+0 
+Prediction 430 took 1693 us
+0 
+Prediction 431 took 1693 us
+0 
+Prediction 432 took 1696 us
+0 
+Prediction 433 took 1696 us
+0 
+Prediction 434 took 1693 us
+0 
+Prediction 435 took 1668 us
+0 
+Prediction 436 took 1694 us
+0 
+Prediction 437 took 1696 us
+0 
+Prediction 438 took 1696 us
+0 
+Prediction 439 took 1694 us
+0 
+Prediction 440 took 1693 us
+0 
+Prediction 441 took 1694 us
+0 
+Prediction 442 took 1696 us
+0 
+Prediction 443 took 1696 us
+0 
+Prediction 444 took 1694 us
+0 
+Prediction 445 took 1694 us
+0 
+Prediction 446 took 1694 us
+0 
+Prediction 447 took 1695 us
+0 
+Prediction 448 took 1696 us
+0 
+Prediction 449 took 1697 us
+0 
+Prediction 450 took 1694 us
+0 
+Prediction 451 took 1673 us
+0 
+Prediction 452 took 1696 us
+0 
+Prediction 453 took 1696 us
+0 
+Prediction 454 took 1697 us
+0 
+Prediction 455 took 1693 us
+0 
+Prediction 456 took 1694 us
+0 
+Prediction 457 took 1682 us
+0 
+Prediction 458 took 1695 us
+0 
+Prediction 459 took 1696 us
+0 
+Prediction 460 took 1694 us
+0 
+Prediction 461 took 1694 us
+0 
+Prediction 462 took 1694 us
+0 
+Prediction 463 took 1696 us
+0 
+Prediction 464 took 1696 us
+0 
+Prediction 465 took 1694 us
+0 
+Prediction 466 took 1694 us
+0 
+Prediction 467 took 1688 us
+0 
+Prediction 468 took 1696 us
+0 
+Prediction 469 took 1696 us
+0 
+Prediction 470 took 1694 us
+0 
+Prediction 471 took 1694 us
+0 
+Prediction 472 took 1695 us
+0 
+Prediction 473 took 1653 us
+0 
+Prediction 474 took 1695 us
+0 
+Prediction 475 took 1693 us
+0 
+Prediction 476 took 1683 us
+0 
+Prediction 477 took 1695 us
+0 
+Prediction 478 took 1696 us
+0 
+Prediction 479 took 1658 us
+0 
+Prediction 480 took 1693 us
+0 
+Prediction 481 took 1694 us
+0 
+Prediction 482 took 1696 us
+0 
+Prediction 483 took 1696 us
+0 
+Prediction 484 took 1678 us
+0 
+Prediction 485 took 1693 us
+0 
+Prediction 486 took 1693 us
+0 
+Prediction 487 took 1688 us
+0 
+Prediction 488 took 1696 us
+0 
+Prediction 489 took 1695 us
+0 
+Prediction 490 took 1694 us
+0 
+Prediction 491 took 1672 us
+0 
+Prediction 492 took 1681 us
+0 
+Prediction 493 took 1655 us
+0 
+Prediction 494 took 1677 us
+0 
+Prediction 495 took 1694 us
+0 
+Prediction 496 took 1694 us
+0 
+Prediction 497 took 1684 us
+0 
+Prediction 498 took 1695 us
+0 
+Prediction 499 took 1693 us
+0 
+Prediction 500 took 1693 us
+0 
+Prediction 501 took 1694 us
+0 
+Prediction 502 took 1696 us
+0 
+Prediction 503 took 1696 us
+0 
+Prediction 504 took 1694 us
+0 
+Prediction 505 took 1694 us
+0 
+Prediction 506 took 1694 us
+0 
+Prediction 507 took 1690 us
+0 
+Prediction 508 took 1696 us
+0 
+Prediction 509 took 1660 us
+0 
+Prediction 510 took 1694 us
+0 
+Prediction 511 took 1694 us
+0 
+Prediction 512 took 1696 us
+0 
+Prediction 513 took 1696 us
+0 
+Prediction 514 took 1694 us
+0 
+Prediction 515 took 1694 us
+0 
+Prediction 516 took 1694 us
+0 
+Prediction 517 took 1696 us
+0 
+Prediction 518 took 1656 us
+0 
+Prediction 519 took 1694 us
+0 
+Prediction 520 took 1693 us
+0 
+Prediction 521 took 1693 us
+0 
+Prediction 522 took 1683 us
+0 
+Prediction 523 took 1696 us
+0 
+Prediction 524 took 1661 us
+0 
+Prediction 525 took 1693 us
+0 
+Prediction 526 took 1694 us
+0 
+Prediction 527 took 1696 us
+0 
+Prediction 528 took 1657 us
+0 
+Prediction 529 took 1664 us
+0 
+Prediction 530 took 1694 us
+0 
+Prediction 531 took 1694 us
+0 
+Prediction 532 took 1696 us
+0 
+Prediction 533 took 1696 us
+0 
+Prediction 534 took 1664 us
+0 
+Prediction 535 took 1693 us
+0 
+Prediction 536 took 1695 us
+0 
+Prediction 537 took 1696 us
+0 
+Prediction 538 took 1696 us
+0 
+Prediction 539 took 1693 us
+0 
+Prediction 540 took 1694 us
+0 
+Prediction 541 took 1694 us
+0 
+Prediction 542 took 1696 us
+0 
+Prediction 543 took 1696 us
+0 
+Prediction 544 took 1662 us
+0 
+Prediction 545 took 1694 us
+0 
+Prediction 546 took 1694 us
+0 
+Prediction 547 took 1696 us
+0 
+Prediction 548 took 1696 us
+0 
+Prediction 549 took 1693 us
+0 
+Prediction 550 took 1694 us
+0 
+Prediction 551 took 1694 us
+0 
+Prediction 552 took 1696 us
+0 
+Prediction 553 took 1696 us
+0 
+Prediction 554 took 1693 us
+0 
+Prediction 555 took 1693 us
+0 
+Prediction 556 took 1693 us
+0 
+Prediction 557 took 1696 us
+0 
+Prediction 558 took 1696 us
+0 
+Prediction 559 took 1693 us
+0 
+Prediction 560 took 1668 us
+0 
+Prediction 561 took 1694 us
+0 
+Prediction 562 took 1696 us
+0 
+Prediction 563 took 1696 us
+0 
+Prediction 564 took 1694 us
+0 
+Prediction 565 took 1693 us
+0 
+Prediction 566 took 1694 us
+0 
+Prediction 567 took 1696 us
+0 
+Prediction 568 took 1696 us
+0 
+Prediction 569 took 1694 us
+0 
+Prediction 570 took 1694 us
+0 
+Prediction 571 took 1694 us
+0 
+Prediction 572 took 1695 us
+0 
+Prediction 573 took 1696 us
+0 
+Prediction 574 took 1697 us
+0 
+Prediction 575 took 1694 us
+0 
+Prediction 576 took 1673 us
+0 
+Prediction 577 took 1696 us
+0 
+Prediction 578 took 1696 us
+0 
+Prediction 579 took 1697 us
+0 
+Prediction 580 took 1693 us
+0 
+Prediction 581 took 1694 us
+0 
+Prediction 582 took 1682 us
+0 
+Prediction 583 took 1695 us
+0 
+Prediction 584 took 1696 us
+0 
+Prediction 585 took 1694 us
+0 
+Prediction 586 took 1694 us
+0 
+Prediction 587 took 1694 us
+0 
+Prediction 588 took 1696 us
+0 
+Prediction 589 took 1696 us
+0 
+Prediction 590 took 1694 us
+0 
+Prediction 591 took 1694 us
+0 
+Prediction 592 took 1688 us
+0 
+Prediction 593 took 1696 us
+0 
+Prediction 594 took 1696 us
+0 
+Prediction 595 took 1694 us
+0 
+Prediction 596 took 1694 us
+0 
+Prediction 597 took 1695 us
+0 
+Prediction 598 took 1653 us
+0 
+Prediction 599 took 1695 us
+0 
+Prediction 600 took 1693 us
+0 
+Prediction 601 took 1683 us
+0 
+Prediction 602 took 1695 us
+0 
+Prediction 603 took 1696 us
+0 
+Prediction 604 took 1658 us
+0 
+Prediction 605 took 1693 us
+0 
+Prediction 606 took 1694 us
+0 
+Prediction 607 took 1696 us
+0 
+Prediction 608 took 1696 us
+0 
+Prediction 609 took 1678 us
+0 
+Prediction 610 took 1693 us
+0 
+Prediction 611 took 1693 us
+0 
+Prediction 612 took 1688 us
+0 
+Prediction 613 took 1696 us
+0 
+Prediction 614 took 1695 us
+0 
+Prediction 615 took 1694 us
+0 
+Prediction 616 took 1672 us
+0 
+Prediction 617 took 1681 us
+0 
+Prediction 618 took 1655 us
+0 
+Prediction 619 took 1677 us
+0 
+Prediction 620 took 1694 us
+0 
+Prediction 621 took 1694 us
+0 
+Prediction 622 took 1684 us
+0 
+Prediction 623 took 1695 us
+0 
+Prediction 624 took 1693 us
+0 
+Prediction 625 took 1693 us
+0 
+Prediction 626 took 1694 us
+0 
+Prediction 627 took 1696 us
+0 
+Prediction 628 took 1696 us
+0 
+Prediction 629 took 1694 us
+0 
+Prediction 630 took 1694 us
+0 
+Prediction 631 took 1694 us
+0 
+Prediction 632 took 1690 us
+0 
+Prediction 633 took 1696 us
+0 
+Prediction 634 took 1660 us
+0 
+Prediction 635 took 1694 us
+0 
+Prediction 636 took 1694 us
+0 
+Prediction 637 took 1696 us
+0 
+Prediction 638 took 1696 us
+0 
+Prediction 639 took 1694 us
+0 
+Prediction 640 took 1694 us
+0 
+Prediction 641 took 1694 us
+0 
+Prediction 642 took 1696 us
+0 
+Prediction 643 took 1656 us
+0 
+Prediction 644 took 1694 us
+0 
+Prediction 645 took 1693 us
+0 
+Prediction 646 took 1693 us
+0 
+Prediction 647 took 1683 us
+0 
+Prediction 648 took 1696 us
+0 
+Prediction 649 took 1661 us
+0 
+Prediction 650 took 1693 us
+0 
+Prediction 651 took 1694 us
+0 
+Prediction 652 took 1696 us
+0 
+Prediction 653 took 1657 us
+0 
+Prediction 654 took 1664 us
+0 
+Prediction 655 took 1694 us
+0 
+Prediction 656 took 1694 us
+0 
+Prediction 657 took 1696 us
+0 
+Prediction 658 took 1696 us
+0 
+Prediction 659 took 1664 us
+0 
+Prediction 660 took 1693 us
+0 
+Prediction 661 took 1695 us
+0 
+Prediction 662 took 1696 us
+0 
+Prediction 663 took 1696 us
+0 
+Prediction 664 took 1693 us
+0 
+Prediction 665 took 1694 us
+0 
+Prediction 666 took 1694 us
+0 
+Prediction 667 took 1696 us
+0 
+Prediction 668 took 1696 us
+0 
+Prediction 669 took 1662 us
+0 
+Prediction 670 took 1694 us
+0 
+Prediction 671 took 1694 us
+0 
+Prediction 672 took 1696 us
+0 
+Prediction 673 took 1696 us
+0 
+Prediction 674 took 1693 us
+0 
+Prediction 675 took 1694 us
+0 
+Prediction 676 took 1694 us
+0 
+Prediction 677 took 1696 us
+0 
+Prediction 678 took 1696 us
+0 
+Prediction 679 took 1693 us
+0 
+Prediction 680 took 1693 us
+0 
+Prediction 681 took 1693 us
+0 
+Prediction 682 took 1696 us
+0 
+Prediction 683 took 1696 us
+0 
+Prediction 684 took 1693 us
+0 
+Prediction 685 took 1668 us
+0 
+Prediction 686 took 1694 us
+0 
+Prediction 687 took 1696 us
+0 
+Prediction 688 took 1696 us
+0 
+Prediction 689 took 1694 us
+0 
+Prediction 690 took 1693 us
+0 
+Prediction 691 took 1694 us
+0 
+Prediction 692 took 1696 us
+0 
+Prediction 693 took 1696 us
+0 
+Prediction 694 took 1694 us
+0 
+Prediction 695 took 1694 us
+0 
+Prediction 696 took 1694 us
+0 
+Prediction 697 took 1695 us
+0 
+Prediction 698 took 1696 us
+0 
+Prediction 699 took 1697 us
+0 
+Prediction 700 took 1694 us
+0 
+Prediction 701 took 1673 us
+0 
+Prediction 702 took 1696 us
+0 
+Prediction 703 took 1696 us
+0 
+Prediction 704 took 1697 us
+0 
+Prediction 705 took 1693 us
+0 
+Prediction 706 took 1694 us
+0 
+Prediction 707 took 1682 us
+0 
+Prediction 708 took 1695 us
+0 
+Prediction 709 took 1696 us
+0 
+Prediction 710 took 1694 us
+0 
+Prediction 711 took 1694 us
+0 
+Prediction 712 took 1694 us
+0 
+Prediction 713 took 1696 us
+0 
+Prediction 714 took 1696 us
+0 
+Prediction 715 took 1694 us
+0 
+Prediction 716 took 1694 us
+0 
+Prediction 717 took 1688 us
+0 
+Prediction 718 took 1696 us
+0 
+Prediction 719 took 1696 us
+0 
+Prediction 720 took 1694 us
+0 
+Prediction 721 took 1694 us
+0 
+Prediction 722 took 1695 us
+0 
+Prediction 723 took 1653 us
+0 
+Prediction 724 took 1695 us
+0 
+Prediction 725 took 1693 us
+0 
+Prediction 726 took 1683 us
+0 
+Prediction 727 took 1695 us
+0 
+Prediction 728 took 1696 us
+0 
+Prediction 729 took 1658 us
+0 
+Prediction 730 took 1693 us
+0 
+Prediction 731 took 1694 us
+0 
+Prediction 732 took 1696 us
+0 
+Prediction 733 took 1696 us
+0 
+Prediction 734 took 1678 us
+0 
+Prediction 735 took 1693 us
+0 
+Prediction 736 took 1693 us
+0 
+Prediction 737 took 1688 us
+0 
+Prediction 738 took 1696 us
+0 
+Prediction 739 took 1695 us
+0 
+Prediction 740 took 1694 us
+0 
+Prediction 741 took 1672 us
+0 
+Prediction 742 took 1681 us
+0 
+Prediction 743 took 1655 us
+0 
+Prediction 744 took 1677 us
+0 
+Prediction 745 took 1694 us
+0 
+Prediction 746 took 1694 us
+0 
+Prediction 747 took 1684 us
+0 
+Prediction 748 took 1695 us
+0 
+Prediction 749 took 1693 us
+0 
+Prediction 750 took 1693 us
+0 
+Prediction 751 took 1694 us
+0 
+Prediction 752 took 1696 us
+0 
+Prediction 753 took 1696 us
+0 
+Prediction 754 took 1694 us
+0 
+Prediction 755 took 1694 us
+0 
+Prediction 756 took 1694 us
+0 
+Prediction 757 took 1690 us
+0 
+Prediction 758 took 1696 us
+0 
+Prediction 759 took 1660 us
+0 
+Prediction 760 took 1694 us
+0 
+Prediction 761 took 1694 us
+0 
+Prediction 762 took 1696 us
+0 
+Prediction 763 took 1696 us
+0 
+Prediction 764 took 1694 us
+0 
+Prediction 765 took 1694 us
+0 
+Prediction 766 took 1694 us
+0 
+Prediction 767 took 1696 us
+0 
+Prediction 768 took 1656 us
+0 
+Prediction 769 took 1694 us
+0 
+Prediction 770 took 1693 us
+0 
+Prediction 771 took 1693 us
+0 
+Prediction 772 took 1683 us
+0 
+Prediction 773 took 1696 us
+0 
+Prediction 774 took 1661 us
+0 
+Prediction 775 took 1693 us
+0 
+Prediction 776 took 1694 us
+0 
+Prediction 777 took 1696 us
+0 
+Prediction 778 took 1657 us
+0 
+Prediction 779 took 1664 us
+0 
+Prediction 780 took 1694 us
+0 
+Prediction 781 took 1694 us
+0 
+Prediction 782 took 1696 us
+0 
+Prediction 783 took 1696 us
+0 
+Prediction 784 took 1664 us
+0 
+Prediction 785 took 1693 us
+0 
+Prediction 786 took 1695 us
+0 
+Prediction 787 took 1696 us
+0 
+Prediction 788 took 1696 us
+0 
+Prediction 789 took 1693 us
+0 
+Prediction 790 took 1694 us
+0 
+Prediction 791 took 1694 us
+0 
+Prediction 792 took 1696 us
+0 
+Prediction 793 took 1696 us
+0 
+Prediction 794 took 1662 us
+0 
+Prediction 795 took 1694 us
+0 
+Prediction 796 took 1694 us
+0 
+Prediction 797 took 1696 us
+0 
+Prediction 798 took 1696 us
+0 
+Prediction 799 took 1693 us
+0 
+Prediction 800 took 1694 us
+0 
+Prediction 801 took 1694 us
+0 
+Prediction 802 took 1691 us
+0 
+Prediction 803 took 1696 us
+0 
+Prediction 804 took 1694 us
+0 
+Prediction 805 took 1694 us
+0 
+Prediction 806 took 1695 us
+0 
+Prediction 807 took 1696 us
+0 
+Prediction 808 took 1657 us
+0 
+Prediction 809 took 1694 us
+0 
+Prediction 810 took 1670 us
+0 
+Prediction 811 took 1695 us
+0 
+Prediction 812 took 1696 us
+0 
+Prediction 813 took 1696 us
+0 
+Prediction 814 took 1694 us
+0 
+Prediction 815 took 1694 us
+0 
+Prediction 816 took 1695 us
+0 
+Prediction 817 took 1696 us
+0 
+Prediction 818 took 1696 us
+0 
+Prediction 819 took 1694 us
+0 
+Prediction 820 took 1694 us
+0 
+Prediction 821 took 1686 us
+0 
+Prediction 822 took 1698 us
+0 
+Prediction 823 took 1658 us
+0 
+Prediction 824 took 1694 us
+0 
+Prediction 825 took 1694 us
+0 
+Prediction 826 took 1678 us
+0 
+Prediction 827 took 1696 us
+0 
+Prediction 828 took 1696 us
+0 
+Prediction 829 took 1664 us
+0 
+Prediction 830 took 1693 us
+0 
+Prediction 831 took 1695 us
+0 
+Prediction 832 took 1687 us
+0 
+Prediction 833 took 1696 us
+0 
+Prediction 834 took 1693 us
+0 
+Prediction 835 took 1694 us
+0 
+Prediction 836 took 1694 us
+0 
+Prediction 837 took 1695 us
+0 
+Prediction 838 took 1695 us
+0 
+Prediction 839 took 1694 us
+0 
+Prediction 840 took 1694 us
+0 
+Prediction 841 took 1695 us
+0 
+Prediction 842 took 1696 us
+0 
+Prediction 843 took 1692 us
+0 
+Prediction 844 took 1693 us
+0 
+Prediction 845 took 1682 us
+0 
+Prediction 846 took 1694 us
+0 
+Prediction 847 took 1697 us
+0 
+Prediction 848 took 1696 us
+0 
+Prediction 849 took 1693 us
+0 
+Prediction 850 took 1693 us
+0 
+Prediction 851 took 1694 us
+0 
+Prediction 852 took 1696 us
+0 
+Prediction 853 took 1696 us
+0 
+Prediction 854 took 1693 us
+0 
+Prediction 855 took 1694 us
+0 
+Prediction 856 took 1694 us
+0 
+Prediction 857 took 1696 us
+0 
+Prediction 858 took 1693 us
+0 
+Prediction 859 took 1693 us
+0 
+Prediction 860 took 1693 us
+0 
+Prediction 861 took 1675 us
+0 
+Prediction 862 took 1690 us
+0 
+Prediction 863 took 1696 us
+0 
+Prediction 864 took 1677 us
+0 
+Prediction 865 took 1681 us
+0 
+Prediction 866 took 1685 us
+0 
+Prediction 867 took 1684 us
+0 
+Prediction 868 took 1696 us
+0 
+Prediction 869 took 1693 us
+0 
+Prediction 870 took 1694 us
+0 
+Prediction 871 took 1694 us
+0 
+Prediction 872 took 1697 us
+0 
+Prediction 873 took 1696 us
+0 
+Prediction 874 took 1694 us
+0 
+Prediction 875 took 1694 us
+0 
+Prediction 876 took 1694 us
+0 
+Prediction 877 took 1690 us
+0 
+Prediction 878 took 1695 us
+0 
+Prediction 879 took 1677 us
+0 
+Prediction 880 took 1693 us
+0 
+Prediction 881 took 1693 us
+0 
+Prediction 882 took 1696 us
+0 
+Prediction 883 took 1696 us
+0 
+Prediction 884 took 1694 us
+0 
+Prediction 885 took 1694 us
+0 
+Prediction 886 took 1694 us
+0 
+Prediction 887 took 1690 us
+0 
+Prediction 888 took 1696 us
+0 
+Prediction 889 took 1693 us
+0 
+Prediction 890 took 1693 us
+0 
+Prediction 891 took 1693 us
+0 
+Prediction 892 took 1681 us
+0 
+Prediction 893 took 1696 us
+0 
+Prediction 894 took 1696 us
+0 
+Prediction 895 took 1693 us
+0 
+Prediction 896 took 1694 us
+0 
+Prediction 897 took 1694 us
+0 
+Prediction 898 took 1696 us
+0 
+Prediction 899 took 1696 us
+0 
+Prediction 900 took 1693 us
+0 
+Prediction 901 took 1693 us
+0 
+Prediction 902 took 1695 us
+0 
+Prediction 903 took 1688 us
+0 
+Prediction 904 took 1696 us
+0 
+Prediction 905 took 1694 us
+0 
+Prediction 906 took 1693 us
+0 
+Prediction 907 took 1695 us
+0 
+Prediction 908 took 1696 us
+0 
+Prediction 909 took 1696 us
+0 
+Prediction 910 took 1694 us
+0 
+Prediction 911 took 1694 us
+0 
+Prediction 912 took 1695 us
+0 
+Prediction 913 took 1696 us
+0 
+Prediction 914 took 1695 us
+0 
+Prediction 915 took 1694 us
+0 
+Prediction 916 took 1682 us
+0 
+Prediction 917 took 1694 us
+0 
+Prediction 918 took 1652 us
+0 
+Prediction 919 took 1696 us
+0 
+Prediction 920 took 1695 us
+0 
+Prediction 921 took 1694 us
+0 
+Prediction 922 took 1695 us
+0 
+Prediction 923 took 1692 us
+0 
+Prediction 924 took 1696 us
+0 
+Prediction 925 took 1695 us
+0 
+Prediction 926 took 1694 us
+0 
+Prediction 927 took 1695 us
+0 
+Prediction 928 took 1695 us
+0 
+Prediction 929 took 1696 us
+0 
+Prediction 930 took 1664 us
+0 
+Prediction 931 took 1694 us
+0 
+Prediction 932 took 1694 us
+0 
+Prediction 933 took 1696 us
+0 
+Prediction 934 took 1696 us
+0 
+Prediction 935 took 1665 us
+0 
+Prediction 936 took 1694 us
+0 
+Prediction 937 took 1694 us
+0 
+Prediction 938 took 1653 us
+0 
+Prediction 939 took 1696 us
+0 
+Prediction 940 took 1693 us
+0 
+Prediction 941 took 1694 us
+0 
+Prediction 942 took 1694 us
+0 
+Prediction 943 took 1688 us
+0 
+Prediction 944 took 1696 us
+0 
+Prediction 945 took 1695 us
+0 
+Prediction 946 took 1694 us
+0 
+Prediction 947 took 1694 us
+0 
+Prediction 948 took 1653 us
+0 
+Prediction 949 took 1661 us
+0 
+Prediction 950 took 1667 us
+0 
+Prediction 951 took 1675 us
+0 
+Prediction 952 took 1696 us
+0 
+Prediction 953 took 1690 us
+0 
+Prediction 954 took 1693 us
+0 
+Prediction 955 took 1694 us
+0 
+Prediction 956 took 1694 us
+0 
+Prediction 957 took 1696 us
+0 
+Prediction 958 took 1690 us
+0 
+Prediction 959 took 1693 us
+0 
+Prediction 960 took 1694 us
+0 
+Prediction 961 took 1694 us
+0 
+Prediction 962 took 1697 us
+0 
+Prediction 963 took 1690 us
+0 
+Prediction 964 took 1695 us
+0 
+Prediction 965 took 1667 us
+0 
+Prediction 966 took 1694 us
+0 
+Prediction 967 took 1696 us
+0 
+Prediction 968 took 1696 us
+0 
+Prediction 969 took 1694 us
+0 
+Prediction 970 took 1694 us
+0 
+Prediction 971 took 1694 us
+0 
+Prediction 972 took 1696 us
+0 
+Prediction 973 took 1696 us
+0 
+Prediction 974 took 1696 us
+0 
+Prediction 975 took 1666 us
+0 
+Prediction 976 took 1693 us
+0 
+Prediction 977 took 1696 us
+0 
+Prediction 978 took 1655 us
+0 
+Prediction 979 took 1694 us
+0 
+Prediction 980 took 1682 us
+0 
+Prediction 981 took 1694 us
+0 
+Prediction 982 took 1696 us
+0 
+Prediction 983 took 1696 us
+0 
+Prediction 984 took 1693 us
+0 
+Prediction 985 took 1693 us
+0 
+Prediction 986 took 1694 us
+0 
+Prediction 987 took 1696 us
+0 
+Prediction 988 took 1654 us
+0 
+Prediction 989 took 1693 us
+0 
+Prediction 990 took 1694 us
+0 
+Prediction 991 took 1684 us
+0 
+Prediction 992 took 1696 us
+0 
+Prediction 993 took 1695 us
+0 
+Prediction 994 took 1660 us
+0 
+Prediction 995 took 1693 us
+0 
+Prediction 996 took 1693 us
+0 
+Prediction 997 took 1696 us
+0 
+Prediction 998 took 1691 us
+0 
+Prediction 999 took 1693 us
+
+Finished 1000 iter in 5201 - 414 = 4 s
+Weights matrix: 1 x 32
+136 194 59 72 75 74 80 201 57 4 159 195 191 56 202 29 159 193 215 63 50 125 8 30 38 74 241 237 46 101 96 10 
+Bias matrix: 1 x32
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Weights matrix: 32 x 32
+153 251 187 0 148 72 117 145 194 82 9 185 34 56 188 166 83 179 53 11 137 31 39 73 148 66 103 128 186 192 23 189 
+221 88 97 153 79 72 94 239 201 237 76 13 72 158 12 138 200 58 131 56 57 199 122 116 112 20 254 177 31 29 137 126 
+49 151 48 139 23 170 138 160 229 63 232 10 181 118 106 130 167 154 217 251 184 45 31 8 207 165 20 231 115 93 75 43 
+234 250 197 57 88 224 242 87 23 31 107 181 145 18 135 201 164 177 212 205 67 65 126 206 91 204 228 9 75 22 35 173 
+72 5 140 98 205 125 115 176 142 187 205 158 10 107 164 128 86 203 62 197 184 55 92 192 230 79 9 120 187 117 201 114 
+17 90 42 141 198 132 28 84 252 69 86 208 64 59 30 165 120 101 31 6 136 104 137 182 122 75 139 42 43 50 182 103 
+213 33 195 204 224 134 128 105 29 93 35 184 177 189 162 199 141 53 130 40 191 217 156 10 124 135 151 224 65 236 22 45 
+47 150 57 157 218 241 250 34 152 119 212 185 98 54 213 173 61 150 253 2 200 188 10 153 97 197 95 97 107 93 200 181 
+35 201 39 143 240 72 109 97 11 100 84 120 53 212 39 92 120 193 35 136 199 122 156 175 152 48 24 142 155 103 85 252 
+70 62 194 54 121 20 136 233 62 192 49 108 38 209 156 90 33 221 174 15 152 203 24 44 24 150 198 86 196 37 140 222 
+7 19 46 66 83 31 33 201 19 94 127 174 19 87 195 254 22 234 121 174 77 121 165 160 137 70 101 48 72 121 20 73 
+201 116 165 111 0 98 215 37 212 255 1 81 186 3 130 165 229 167 175 224 30 129 133 79 88 147 140 0 4 34 138 93 
+83 139 227 111 111 65 184 158 142 232 53 99 163 16 17 42 96 151 146 192 19 27 73 140 125 76 244 85 99 13 150 200 
+0 12 211 220 52 125 121 226 113 168 75 42 59 232 150 105 194 144 201 122 72 149 235 96 17 213 167 30 189 10 51 35 
+52 67 7 246 240 37 32 251 182 138 83 58 218 202 39 159 60 35 251 142 173 173 206 103 255 225 245 96 172 106 60 218 
+200 255 34 191 25 116 196 210 104 187 169 157 137 245 138 74 9 104 250 40 252 45 108 54 62 82 126 237 106 212 174 207 
+208 118 193 232 57 57 143 209 168 168 202 220 238 200 0 9 214 80 95 9 171 62 107 51 68 239 248 102 150 22 195 25 
+87 80 87 220 164 101 91 181 53 9 196 7 142 54 186 103 82 186 87 160 103 164 46 97 30 0 89 223 114 96 40 97 
+189 42 176 111 78 226 59 26 146 116 79 244 53 19 67 223 30 39 176 100 16 226 120 194 193 197 182 30 217 140 245 173 
+97 70 13 17 149 59 135 251 69 165 118 220 161 175 44 43 214 21 208 196 161 153 216 139 228 234 158 221 3 56 100 163 
+206 78 129 205 54 97 48 125 163 174 179 210 98 218 110 140 109 100 61 52 178 16 5 123 10 23 145 52 5 139 122 81 
+31 44 97 151 116 86 135 117 138 203 196 176 14 183 110 165 245 227 18 224 89 229 230 31 68 214 253 155 84 213 19 211 
+105 247 98 171 199 162 165 214 219 175 210 95 141 249 93 87 69 56 234 83 177 129 127 103 60 0 182 250 94 170 196 91 
+110 74 210 163 133 228 87 223 62 225 196 29 119 18 31 91 205 183 101 6 153 245 12 108 218 49 202 85 14 111 130 253 
+65 201 52 104 197 156 139 114 45 205 152 141 246 249 29 97 158 179 121 231 127 130 142 37 17 5 9 206 125 187 75 46 
+198 139 113 42 19 18 208 175 69 37 1 109 7 248 30 108 123 56 160 238 134 121 82 52 26 188 228 197 91 92 189 10 
+147 188 195 33 95 98 34 137 201 237 219 121 32 198 8 74 227 68 225 6 234 44 206 185 181 202 26 19 159 245 135 41 
+77 24 122 210 209 156 109 12 133 49 171 169 142 123 13 175 100 184 213 210 7 175 135 153 92 125 197 227 50 122 117 3 
+46 34 144 97 113 10 138 29 98 74 106 6 207 53 236 21 100 82 43 162 147 193 139 105 101 159 160 177 63 226 168 231 
+87 135 245 18 34 150 215 26 228 101 23 171 239 132 222 164 50 49 8 254 70 70 189 8 135 189 78 201 178 130 174 2 
+4 15 151 7 6 240 65 28 99 215 230 49 123 66 248 167 141 60 12 3 72 6 12 69 204 130 143 207 157 93 70 185 
+80 159 94 177 206 33 22 187 63 142 209 18 222 253 65 44 182 150 69 230 123 249 50 46 25 67 157 131 31 215 190 225 
+Bias matrix: 1 x32
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+Weights matrix: 32 x 1
+237 
+112 
+176 
+93 
+27 
+166 
+82 
+139 
+98 
+177 
+176 
+64 
+19 
+155 
+19 
+129 
+24 
+76 
+248 
+28 
+224 
+99 
+81 
+80 
+148 
+209 
+194 
+86 
+140 
+84 
+128 
+75 
+Bias matrix: 1 x1
+0 
+Starting
+0 
+Prediction 0 took 1695 us
+0 
+Prediction 1 took 1681 us
+0 
+Prediction 2 took 1685 us
+0 
+Prediction 3 took 1693 us
+0 
+Prediction 4 took 1694 us
+0 
+Prediction 5 took 1696 us
+0 
+Prediction 6 took 1694 us
+0 
+Prediction 7 took 1694 us
+0 
+Prediction 8 took 1695 us
+0 
+Prediction 9 took 1694 us
+0 
+Prediction 10 took 1696 us
+0 
+Prediction 11 took 1696 us
+0 
+Prediction 12 took 1682 us
+0 
+Prediction 13 took 1680 us
+0 
+Prediction 14 took 1691 us
+0 
+Prediction 15 took 1695 us
+0 
+Prediction 16 took 1694 us
+0 
+Prediction 17 took 1653 us
+0 
+Prediction 18 took 1693 us
+0 
+Prediction 19 took 1694 us
+0 
+Prediction 20 took 1684 us
+0 
+Prediction 21 took 1696 us
+0 
+Prediction 22 took 1694 us
+0 
+Prediction 23 took 1678 us
+0 
+Prediction 24 took 1696 us
+0 
+Prediction 25 took 1693 us
+0 
+Prediction 26 took 1694 us
+0 
+Prediction 27 took 1686 us
+0 
+Prediction 28 took 1696 us
+0 
+Prediction 29 took 1669 us
+0 
+Prediction 30 took 1688 us
+0 
+Prediction 31 took 1696 us
+0 
+Prediction 32 took 1693 us
+0 
+Prediction 33 took 1685 us
+0 
+Prediction 34 took 1696 us
+0 
+Prediction 35 took 1694 us
+0 
+Prediction 36 took 1671 us
+0 
+Prediction 37 took 1696 us
+0 
+Prediction 38 took 1660 us
+0 
+Prediction 39 took 1694 us
+0 
+Prediction 40 took 1679 us
+0 
+Prediction 41 took 1696 us
+0 
+Prediction 42 took 1694 us
+0 
+Prediction 43 took 1694 us
+0 
+Prediction 44 took 1696 us
+0 
+Prediction 45 took 1696 us
+0 
+Prediction 46 took 1670 us
+0 
+Prediction 47 took 1695 us
+0 
+Prediction 48 took 1696 us
+0 
+Prediction 49 took 1694 us
+0 
+Prediction 50 took 1694 us
+0 
+Prediction 51 took 1696 us
+0 
+Prediction 52 took 1694 us
+0 
+Prediction 53 took 1670 us
+0 
+Prediction 54 took 1683 us
+0 
+Prediction 55 took 1696 us
+0 
+Prediction 56 took 1694 us
+0 
+Prediction 57 took 1694 us
+0 
+Prediction 58 took 1696 us
+0 
+Prediction 59 took 1678 us
+0 
+Prediction 60 took 1694 us
+0 
+Prediction 61 took 1696 us
+0 
+Prediction 62 took 1679 us
+0 
+Prediction 63 took 1694 us
+0 
+Prediction 64 took 1695 us
+0 
+Prediction 65 took 1691 us
+0 
+Prediction 66 took 1665 us
+0 
+Prediction 67 took 1694 us
+0 
+Prediction 68 took 1696 us
+0 
+Prediction 69 took 1693 us
+0 
+Prediction 70 took 1694 us
+0 
+Prediction 71 took 1695 us
+0 
+Prediction 72 took 1696 us
+0 
+Prediction 73 took 1694 us
+0 
+Prediction 74 took 1694 us
+0 
+Prediction 75 took 1654 us
+0 
+Prediction 76 took 1693 us
+0 
+Prediction 77 took 1694 us
+0 
+Prediction 78 took 1696 us
+0 
+Prediction 79 took 1695 us
+0 
+Prediction 80 took 1668 us
+0 
+Prediction 81 took 1695 us
+0 
+Prediction 82 took 1691 us
+0 
+Prediction 83 took 1665 us
+0 
+Prediction 84 took 1693 us
+0 
+Prediction 85 took 1696 us
+0 
+Prediction 86 took 1693 us
+0 
+Prediction 87 took 1693 us
+0 
+Prediction 88 took 1697 us
+0 
+Prediction 89 took 1697 us
+0 
+Prediction 90 took 1694 us
+0 
+Prediction 91 took 1676 us
+0 
+Prediction 92 took 1696 us
+0 
+Prediction 93 took 1694 us
+0 
+Prediction 94 took 1694 us
+0 
+Prediction 95 took 1696 us
+0 
+Prediction 96 took 1696 us
+0 
+Prediction 97 took 1667 us
+0 
+Prediction 98 took 1679 us
+0 
+Prediction 99 took 1656 us
+0 
+Prediction 100 took 1694 us
+0 
+Prediction 101 took 1694 us
+0 
+Prediction 102 took 1695 us
+0 
+Prediction 103 took 1696 us
+0 
+Prediction 104 took 1694 us
+0 
+Prediction 105 took 1695 us
+0 
+Prediction 106 took 1694 us
+0 
+Prediction 107 took 1694 us
+0 
+Prediction 108 took 1696 us
+0 
+Prediction 109 took 1695 us
+0 
+Prediction 110 took 1694 us
+0 
+Prediction 111 took 1694 us
+0 
+Prediction 112 took 1686 us
+0 
+Prediction 113 took 1674 us
+0 
+Prediction 114 took 1695 us
+0 
+Prediction 115 took 1694 us
+0 
+Prediction 116 took 1694 us
+0 
+Prediction 117 took 1678 us
+0 
+Prediction 118 took 1653 us
+0 
+Prediction 119 took 1660 us
+0 
+Prediction 120 took 1694 us
+0 
+Prediction 121 took 1684 us
+0 
+Prediction 122 took 1696 us
+0 
+Prediction 123 took 1689 us
+0 
+Prediction 124 took 1696 us
+0 
+Prediction 125 took 1694 us
+0 
+Prediction 126 took 1673 us
+0 
+Prediction 127 took 1696 us
+0 
+Prediction 128 took 1696 us
+0 
+Prediction 129 took 1696 us
+0 
+Prediction 130 took 1666 us
+0 
+Prediction 131 took 1693 us
+0 
+Prediction 132 took 1696 us
+0 
+Prediction 133 took 1696 us
+0 
+Prediction 134 took 1696 us
+0 
+Prediction 135 took 1694 us
+0 
+Prediction 136 took 1684 us
+0 
+Prediction 137 took 1695 us
+0 
+Prediction 138 took 1689 us
+0 
+Prediction 139 took 1696 us
+0 
+Prediction 140 took 1681 us
+0 
+Prediction 141 took 1693 us
+0 
+Prediction 142 took 1695 us
+0 
+Prediction 143 took 1655 us
+0 
+Prediction 144 took 1694 us
+0 
+Prediction 145 took 1667 us
+0 
+Prediction 146 took 1693 us
+0 
+Prediction 147 took 1684 us
+0 
+Prediction 148 took 1657 us
+0 
+Prediction 149 took 1694 us
+0 
+Prediction 150 took 1669 us
+0 
+Prediction 151 took 1695 us
+0 
+Prediction 152 took 1696 us
+0 
+Prediction 153 took 1693 us
+0 
+Prediction 154 took 1693 us
+0 
+Prediction 155 took 1694 us
+0 
+Prediction 156 took 1695 us
+0 
+Prediction 157 took 1696 us
+0 
+Prediction 158 took 1657 us
+0 
+Prediction 159 took 1693 us
+0 
+Prediction 160 took 1694 us
+0 
+Prediction 161 took 1694 us
+0 
+Prediction 162 took 1686 us
+0 
+Prediction 163 took 1692 us
+0 
+Prediction 164 took 1693 us
+0 
+Prediction 165 took 1693 us
+0 
+Prediction 166 took 1686 us
+0 
+Prediction 167 took 1696 us
+0 
+Prediction 168 took 1696 us
+0 
+Prediction 169 took 1662 us
+0 
+Prediction 170 took 1694 us
+0 
+Prediction 171 took 1694 us
+0 
+Prediction 172 took 1696 us
+0 
+Prediction 173 took 1696 us
+0 
+Prediction 174 took 1693 us
+0 
+Prediction 175 took 1694 us
+0 
+Prediction 176 took 1694 us
+0 
+Prediction 177 took 1696 us
+0 
+Prediction 178 took 1696 us
+0 
+Prediction 179 took 1693 us
+0 
+Prediction 180 took 1693 us
+0 
+Prediction 181 took 1693 us
+0 
+Prediction 182 took 1696 us
+0 
+Prediction 183 took 1696 us
+0 
+Prediction 184 took 1693 us
+0 
+Prediction 185 took 1668 us
+0 
+Prediction 186 took 1694 us
+0 
+Prediction 187 took 1696 us
+0 
+Prediction 188 took 1696 us
+0 
+Prediction 189 took 1694 us
+0 
+Prediction 190 took 1693 us
+0 
+Prediction 191 took 1694 us
+0 
+Prediction 192 took 1696 us
+0 
+Prediction 193 took 1696 us
+0 
+Prediction 194 took 1694 us
+0 
+Prediction 195 took 1694 us
+0 
+Prediction 196 took 1694 us
+0 
+Prediction 197 took 1695 us
+0 
+Prediction 198 took 1696 us
+0 
+Prediction 199 took 1697 us
+0 
+Prediction 200 took 1694 us
+0 
+Prediction 201 took 1673 us
+0 
+Prediction 202 took 1696 us
+0 
+Prediction 203 took 1696 us
+0 
+Prediction 204 took 1697 us
+0 
+Prediction 205 took 1693 us
+0 
+Prediction 206 took 1694 us
+0 
+Prediction 207 took 1682 us
+0 
+Prediction 208 took 1695 us
+0 
+Prediction 209 took 1696 us
+0 
+Prediction 210 took 1694 us
+0 
+Prediction 211 took 1694 us
+0 
+Prediction 212 took 1694 us
+0 
+Prediction 213 took 1696 us
+0 
+Prediction 214 took 1696 us
+0 
+Prediction 215 took 1694 us
+0 
+Prediction 216 took 1694 us
+0 
+Prediction 217 took 1688 us
+0 
+Prediction 218 took 1696 us
+0 
+Prediction 219 took 1696 us
+0 
+Prediction 220 took 1694 us
+0 
+Prediction 221 took 1694 us
+0 
+Prediction 222 took 1695 us
+0 
+Prediction 223 took 1653 us
+0 
+Prediction 224 took 1695 us
+0 
+Prediction 225 took 1693 us
+0 
+Prediction 226 took 1683 us
+0 
+Prediction 227 took 1695 us
+0 
+Prediction 228 took 1696 us
+0 
+Prediction 229 took 1658 us
+0 
+Prediction 230 took 1693 us
+0 
+Prediction 231 took 1694 us
+0 
+Prediction 232 took 1696 us
+0 
+Prediction 233 took 1696 us
+0 
+Prediction 234 took 1678 us
+0 
+Prediction 235 took 1693 us
+0 
+Prediction 236 took 1693 us
+0 
+Prediction 237 took 1688 us
+0 
+Prediction 238 took 1696 us
+0 
+Prediction 239 took 1695 us
+0 
+Prediction 240 took 1694 us
+0 
+Prediction 241 took 1672 us
+0 
+Prediction 242 took 1681 us
+0 
+Prediction 243 took 1655 us
+0 
+Prediction 244 took 1677 us
+0 
+Prediction 245 took 1694 us
+0 
+Prediction 246 took 1694 us
+0 
+Prediction 247 took 1684 us
+0 
+Prediction 248 took 1695 us
+0 
+Prediction 249 took 1693 us
+0 
+Prediction 250 took 1693 us
+0 
+Prediction 251 took 1694 us
+0 
+Prediction 252 took 1696 us
+0 
+Prediction 253 took 1696 us
+0 
+Prediction 254 took 1694 us
+0 
+Prediction 255 took 1694 us
+0 
+Prediction 256 took 1694 us
+0 
+Prediction 257 took 1690 us
+0 
+Prediction 258 took 1696 us
+0 
+Prediction 259 took 1660 us
+0 
+Prediction 260 took 1694 us
+0 
+Prediction 261 took 1694 us
+0 
+Prediction 262 took 1696 us
+0 
+Prediction 263 took 1696 us
+0 
+Prediction 264 took 1694 us
+0 
+Prediction 265 took 1694 us
+0 
+Prediction 266 took 1694 us
+0 
+Prediction 267 took 1696 us
+0 
+Prediction 268 took 1656 us
+0 
+Prediction 269 took 1694 us
+0 
+Prediction 270 took 1693 us
+0 
+Prediction 271 took 1693 us
+0 
+Prediction 272 took 1683 us
+0 
+Prediction 273 took 1696 us
+0 
+Prediction 274 took 1661 us
+0 
+Prediction 275 took 1693 us
+0 
+Prediction 276 took 1694 us
+0 
+Prediction 277 took 1696 us
+0 
+Prediction 278 took 1657 us
+0 
+Prediction 279 took 1664 us
+0 
+Prediction 280 took 1694 us
+0 
+Prediction 281 took 1694 us
+0 
+Prediction 282 took 1696 us
+0 
+Prediction 283 took 1696 us
+0 
+Prediction 284 took 1664 us
+0 
+Prediction 285 took 1693 us
+0 
+Prediction 286 took 1695 us
+0 
+Prediction 287 took 1696 us
+0 
+Prediction 288 took 1696 us
+0 
+Prediction 289 took 1693 us
+0 
+Prediction 290 took 1694 us
+0 
+Prediction 291 took 1694 us
+0 
+Prediction 292 took 1696 us
+0 
+Prediction 293 took 1696 us
+0 
+Prediction 294 took 1662 us
+0 
+Prediction 295 took 1694 us
+0 
+Prediction 296 took 1694 us
+0 
+Prediction 297 took 1696 us
+0 
+Prediction 298 took 1696 us
+0 
+Prediction 299 took 1693 us
+0 
+Prediction 300 took 1694 us
+0 
+Prediction 301 took 1694 us
+0 
+Prediction 302 took 1696 us
+0 
+Prediction 303 took 1696 us
+0 
+Prediction 304 took 1693 us
+0 
+Prediction 305 took 1693 us
+0 
+Prediction 306 took 1693 us
+0 
+Prediction 307 took 1696 us
+0 
+Prediction 308 took 1696 us
+0 
+Prediction 309 took 1693 us
+0 
+Prediction 310 took 1668 us
+0 
+Prediction 311 took 1694 us
+0 
+Prediction 312 took 1696 us
+0 
+Prediction 313 took 1696 us
+0 
+Prediction 314 took 1694 us
+0 
+Prediction 315 took 1693 us
+0 
+Prediction 316 took 1694 us
+0 
+Prediction 317 took 1696 us
+0 
+Prediction 318 took 1696 us
+0 
+Prediction 319 took 1694 us
+0 
+Prediction 320 took 1694 us
+0 
+Prediction 321 took 1694 us
+0 
+Prediction 322 took 1695 us
+0 
+Prediction 323 took 1696 us
+0 
+Prediction 324 took 1697 us
+0 
+Prediction 325 took 1694 us
+0 
+Prediction 326 took 1673 us
+0 
+Prediction 327 took 1696 us
+0 
+Prediction 328 took 1696 us
+0 
+Prediction 329 took 1697 us
+0 
+Prediction 330 took 1693 us
+0 
+Prediction 331 took 1694 us
+0 
+Prediction 332 took 1682 us
+0 
+Prediction 333 took 1695 us
+0 
+Prediction 334 took 1696 us
+0 
+Prediction 335 took 1694 us
+0 
+Prediction 336 took 1694 us
+0 
+Prediction 337 took 1694 us
+0 
+Prediction 338 took 1696 us
+0 
+Prediction 339 took 1696 us
+0 
+Prediction 340 took 1694 us
+0 
+Prediction 341 took 1694 us
+0 
+Prediction 342 took 1688 us
+0 
+Prediction 343 took 1696 us
+0 
+Prediction 344 took 1696 us
+0 
+Prediction 345 took 1694 us
+0 
+Prediction 346 took 1694 us
+0 
+Prediction 347 took 1695 us
+0 
+Prediction 348 took 1653 us
+0 
+Prediction 349 took 1695 us
+0 
+Prediction 350 took 1693 us
+0 
+Prediction 351 took 1683 us
+0 
+Prediction 352 took 1695 us
+0 
+Prediction 353 took 1696 us
+0 
+Prediction 354 took 1658 us
+0 
+Prediction 355 took 1693 us
+0 
+Prediction 356 took 1694 us
+0 
+Prediction 357 took 1696 us
+0 
+Prediction 358 took 1696 us
+0 
+Prediction 359 took 1678 us
+0 
+Prediction 360 took 1693 us
+0 
+Prediction 361 took 1693 us
+0 
+Prediction 362 took 1688 us
+0 
+Prediction 363 took 1696 us
+0 
+Prediction 364 took 1695 us
+0 
+Prediction 365 took 1694 us
+0 
+Prediction 366 took 1672 us
+0 
+Prediction 367 took 1681 us
+0 
+Prediction 368 took 1655 us
+0 
+Prediction 369 took 1677 us
+0 
+Prediction 370 took 1694 us
+0 
+Prediction 371 took 1694 us
+0 
+Prediction 372 took 1684 us
+0 
+Prediction 373 took 1695 us
+0 
+Prediction 374 took 1693 us
+0 
+Prediction 375 took 1693 us
+0 
+Prediction 376 took 1694 us
+0 
+Prediction 377 took 1696 us
+0 
+Prediction 378 took 1696 us
+0 
+Prediction 379 took 1694 us
+0 
+Prediction 380 took 1694 us
+0 
+Prediction 381 took 1694 us
+0 
+Prediction 382 took 1690 us
+0 
+Prediction 383 took 1696 us
+0 
+Prediction 384 took 1660 us
+0 
+Prediction 385 took 1694 us
+0 
+Prediction 386 took 1694 us
+0 
+Prediction 387 took 1696 us
+0 
+Prediction 388 took 1696 us
+0 
+Prediction 389 took 1694 us
+0 
+Prediction 390 took 1694 us
+0 
+Prediction 391 took 1694 us
+0 
+Prediction 392 took 1696 us
+0 
+Prediction 393 took 1656 us
+0 
+Prediction 394 took 1694 us
+0 
+Prediction 395 took 1693 us
+0 
+Prediction 396 took 1693 us
+0 
+Prediction 397 took 1683 us
+0 
+Prediction 398 took 1696 us
+0 
+Prediction 399 took 1661 us
+0 
+Prediction 400 took 1693 us
+0 
+Prediction 401 took 1694 us
+0 
+Prediction 402 took 1696 us
+0 
+Prediction 403 took 1657 us
+0 
+Prediction 404 took 1664 us
+0 
+Prediction 405 took 1694 us
+0 
+Prediction 406 took 1694 us
+0 
+Prediction 407 took 1696 us
+0 
+Prediction 408 took 1696 us
+0 
+Prediction 409 took 1664 us
+0 
+Prediction 410 took 1693 us
+0 
+Prediction 411 took 1695 us
+0 
+Prediction 412 took 1696 us
+0 
+Prediction 413 took 1696 us
+0 
+Prediction 414 took 1693 us
+0 
+Prediction 415 took 1694 us
+0 
+Prediction 416 took 1694 us
+0 
+Prediction 417 took 1696 us
+0 
+Prediction 418 took 1696 us
+0 
+Prediction 419 took 1662 us
+0 
+Prediction 420 took 1694 us
+0 
+Prediction 421 took 1694 us
+0 
+Prediction 422 took 1696 us
+0 
+Prediction 423 took 1696 us
+0 
+Prediction 424 took 1693 us
+0 
+Prediction 425 took 1694 us
+0 
+Prediction 426 took 1694 us
+0 
+Prediction 427 took 1696 us
+0 
+Prediction 428 took 1696 us
+0 
+Prediction 429 took 1693 us
+0 
+Prediction 430 took 1693 us
+0 
+Prediction 431 took 1693 us
+0 
+Prediction 432 took 1696 us
+0 
+Prediction 433 took 1696 us
+0 
+Prediction 434 took 1693 us
+0 
+Prediction 435 took 1668 us
+0 
+Prediction 436 took 1694 us
+0 
+Prediction 437 took 1696 us
+0 
+Prediction 438 took 1696 us
+0 
+Prediction 439 took 1694 us
+0 
+Prediction 440 took 1693 us
+0 
+Prediction 441 took 1694 us
+0 
+Prediction 442 took 1696 us
+0 
+Prediction 443 took 1696 us
+0 
+Prediction 444 took 1694 us
+0 
+Prediction 445 took 1694 us
+0 
+Prediction 446 took 1694 us
+0 
+Prediction 447 took 1695 us
+0 
+Prediction 448 took 1696 us
+0 
+Prediction 449 took 1697 us
+0 
+Prediction 450 took 1694 us
+0 
+Prediction 451 took 1673 us
+0 
+Prediction 452 took 1696 us
+0 
+Prediction 453 took 1696 us
+0 
+Prediction 454 took 1697 us
+0 
+Prediction 455 took 1693 us
+0 
+Prediction 456 took 1694 us
+0 
+Prediction 457 took 1682 us
+0 
+Prediction 458 took 1695 us
+0 
+Prediction 459 took 1696 us
+0 
+Prediction 460 took 1694 us
+0 
+Prediction 461 took 1694 us
+0 
+Prediction 462 took 1694 us
+0 
+Prediction 463 took 1696 us
+0 
+Prediction 464 took 1696 us
+0 
+Prediction 465 took 1694 us
+0 
+Prediction 466 took 1694 us
+0 
+Prediction 467 took 1688 us
+0 
+Prediction 468 took 1696 us
+0 
+Prediction 469 took 1696 us
+0 
+Prediction 470 took 1694 us
+0 
+Prediction 471 took 1694 us
+0 
+Prediction 472 took 1695 us
+0 
+Prediction 473 took 1653 us
+0 
+Prediction 474 took 1695 us
+0 
+Prediction 475 took 1693 us
+0 
+Prediction 476 took 1683 us
+0 
+Prediction 477 took 1695 us
+0 
+Prediction 478 took 1696 us
+0 
+Prediction 479 took 1658 us
+0 
+Prediction 480 took 1693 us
+0 
+Prediction 481 took 1694 us
+0 
+Prediction 482 took 1696 us
+0 
+Prediction 483 took 1696 us
+0 
+Prediction 484 took 1678 us
+0 
+Prediction 485 took 1693 us
+0 
+Prediction 486 took 1693 us
+0 
+Prediction 487 took 1688 us
+0 
+Prediction 488 took 1696 us
+0 
+Prediction 489 took 1695 us
+0 
+Prediction 490 took 1694 us
+0 
+Prediction 491 took 1672 us
+0 
+Prediction 492 took 1681 us
+0 
+Prediction 493 took 1655 us
+0 
+Prediction 494 took 1677 us
+0 
+Prediction 495 took 1694 us
+0 
+Prediction 496 took 1694 us
+0 
+Prediction 497 took 1684 us
+0 
+Prediction 498 took 1695 us
+0 
+Prediction 499 took 1693 us
+0 
+Prediction 500 took 1693 us
+0 
+Prediction 501 took 1694 us
+0 
+Prediction 502 took 1696 us
+0 
+Prediction 503 took 1696 us
+0 
+Prediction 504 took 1694 us
+0 
+Prediction 505 took 1694 us
+0 
+Prediction 506 took 1694 us
+0 
+Prediction 507 took 1690 us
+0 
+Prediction 508 took 1696 us
+0 
+Prediction 509 took 1660 us
+0 
+Prediction 510 took 1694 us
+0 
+Prediction 511 took 1694 us
+0 
+Prediction 512 took 1696 us
+0 
+Prediction 513 took 1696 us
+0 
+Prediction 514 took 1694 us
+0 
+Prediction 515 took 1694 us
+0 
+Prediction 516 took 1694 us
+0 
+Prediction 517 took 1696 us
+0 
+Prediction 518 took 1656 us
+0 
+Prediction 519 took 1694 us
+0 
+Prediction 520 took 1693 us
+0 
+Prediction 521 took 1693 us
+0 
+Prediction 522 took 1683 us
+0 
+Prediction 523 took 1696 us
+0 
+Prediction 524 took 1661 us
+0 
+Prediction 525 took 1693 us
+0 
+Prediction 526 took 1694 us
+0 
+Prediction 527 took 1696 us
+0 
+Prediction 528 took 1657 us
+0 
+Prediction 529 took 1664 us
+0 
+Prediction 530 took 1694 us
+0 
+Prediction 531 took 1694 us
+0 
+Prediction 532 took 1696 us
+0 
+Prediction 533 took 1696 us
+0 
+Prediction 534 took 1664 us
+0 
+Prediction 535 took 1693 us
+0 
+Prediction 536 took 1695 us
+0 
+Prediction 537 took 1696 us
+0 
+Prediction 538 took 1696 us
+0 
+Prediction 539 took 1693 us
+0 
+Prediction 540 took 1694 us
+0 
+Prediction 541 took 1694 us
+0 
+Prediction 542 took 1696 us
+0 
+Prediction 543 took 1696 us
+0 
+Prediction 544 took 1662 us
+0 
+Prediction 545 took 1694 us
+0 
+Prediction 546 took 1694 us
+0 
+Prediction 547 took 1696 us
+0 
+Prediction 548 took 1696 us
+0 
+Prediction 549 took 1693 us
+0 
+Prediction 550 took 1694 us
+0 
+Prediction 551 took 1694 us
+0 
+Prediction 552 took 1696 us
+0 
+Prediction 553 took 1696 us
+0 
+Prediction 554 took 1693 us
+0 
+Prediction 555 took 1693 us
+0 
+Prediction 556 took 1693 us
+0 
+Prediction 557 took 1696 us
+0 
+Prediction 558 took 1696 us
+0 
+Prediction 559 took 1693 us
+0 
+Prediction 560 took 1668 us
+0 
+Prediction 561 took 1694 us
+0 
+Prediction 562 took 1696 us
+0 
+Prediction 563 took 1696 us
+0 
+Prediction 564 took 1694 us
+0 
+Prediction 565 took 1693 us
+0 
+Prediction 566 took 1694 us
+0 
+Prediction 567 took 1696 us
+0 
+Prediction 568 took 1696 us
+0 
+Prediction 569 took 1694 us
+0 
+Prediction 570 took 1694 us
+0 
+Prediction 571 took 1694 us
+0 
+Prediction 572 took 1695 us
+0 
+Prediction 573 took 1696 us
+0 
+Prediction 574 took 1697 us
+0 
+Prediction 575 took 1694 us
+0 
+Prediction 576 took 1673 us
+0 
+Prediction 577 took 1696 us
+0 
+Prediction 578 took 1696 us
+0 
+Prediction 579 took 1697 us
+0 
+Prediction 580 took 1693 us
+0 
+Prediction 581 took 1694 us
+0 
+Prediction 582 took 1682 us
+0 
+Prediction 583 took 1695 us
+0 
+Prediction 584 took 1696 us
+0 
+Prediction 585 took 1694 us
+0 
+Prediction 586 took 1694 us
+0 
+Prediction 587 took 1694 us
+0 
+Prediction 588 took 1696 us
+0 
+Prediction 589 took 1696 us
+0 
+Prediction 590 took 1694 us
+0 
+Prediction 591 took 1694 us
+0 
+Prediction 592 took 1688 us
+0 
+Prediction 593 took 1696 us
+0 
+Prediction 594 took 1696 us
+0 
+Prediction 595 took 1694 us
+0 
+Prediction 596 took 1694 us
+0 
+Prediction 597 took 1695 us
+0 
+Prediction 598 took 1653 us
+0 
+Prediction 599 took 1695 us
+0 
+Prediction 600 took 1693 us
+0 
+Prediction 601 took 1683 us
+0 
+Prediction 602 took 1695 us
+0 
+Prediction 603 took 1696 us
+0 
+Prediction 604 took 1658 us
+0 
+Prediction 605 took 1693 us
+0 
+Prediction 606 took 1694 us
+0 
+Prediction 607 took 1696 us
+0 
+Prediction 608 took 1696 us
+0 
+Prediction 609 took 1678 us
+0 
+Prediction 610 took 1693 us
+0 
+Prediction 611 took 1693 us
+0 
+Prediction 612 took 1688 us
+0 
+Prediction 613 took 1696 us
+0 
+Prediction 614 took 1695 us
+0 
+Prediction 615 took 1694 us
+0 
+Prediction 616 took 1672 us
+0 
+Prediction 617 took 1681 us
+0 
+Prediction 618 took 1655 us
+0 
+Prediction 619 took 1677 us
+0 
+Prediction 620 took 1694 us
+0 
+Prediction 621 took 1694 us
+0 
+Prediction 622 took 1684 us
+0 
+Prediction 623 took 1695 us
+0 
+Prediction 624 took 1693 us
+0 
+Prediction 625 took 1693 us
+0 
+Prediction 626 took 1694 us
+0 
+Prediction 627 took 1696 us
+0 
+Prediction 628 took 1696 us
+0 
+Prediction 629 took 1694 us
+0 
+Prediction 630 took 1694 us
+0 
+Prediction 631 took 1694 us
+0 
+Prediction 632 took 1690 us
+0 
+Prediction 633 took 1696 us
+0 
+Prediction 634 took 1660 us
+0 
+Prediction 635 took 1694 us
+0 
+Prediction 636 took 1694 us
+0 
+Prediction 637 took 1696 us
+0 
+Prediction 638 took 1696 us
+0 
+Prediction 639 took 1694 us
+0 
+Prediction 640 took 1694 us
+0 
+Prediction 641 took 1694 us
+0 
+Prediction 642 took 1696 us
+0 
+Prediction 643 took 1656 us
+0 
+Prediction 644 took 1694 us
+0 
+Prediction 645 took 1693 us
+0 
+Prediction 646 took 1693 us
+0 
+Prediction 647 took 1683 us
+0 
+Prediction 648 took 1696 us
+0 
+Prediction 649 took 1661 us
+0 
+Prediction 650 took 1693 us
+0 
+Prediction 651 took 1694 us
+0 
+Prediction 652 took 1696 us
+0 
+Prediction 653 took 1657 us
+0 
+Prediction 654 took 1664 us
+0 
+Prediction 655 took 1694 us
+0 
+Prediction 656 took 1694 us
+0 
+Prediction 657 took 1696 us
+0 
+Prediction 658 took 1696 us
+0 
+Prediction 659 took 1664 us
+0 
+Prediction 660 took 1693 us
+0 
+Prediction 661 took 1695 us
+0 
+Prediction 662 took 1696 us
+0 
+Prediction 663 took 1696 us
+0 
+Prediction 664 took 1693 us
+0 
+Prediction 665 took 1694 us
+0 
+Prediction 666 took 1694 us
+0 
+Prediction 667 took 1696 us
+0 
+Prediction 668 took 1696 us
+0 
+Prediction 669 took 1662 us
+0 
+Prediction 670 took 1694 us
+0 
+Prediction 671 took 1694 us
+0 
+Prediction 672 took 1696 us
+0 
+Prediction 673 took 1696 us
+0 
+Prediction 674 took 1693 us
+0 
+Prediction 675 took 1694 us
+0 
+Prediction 676 took 1694 us
+0 
+Prediction 677 took 1696 us
+0 
+Prediction 678 took 1696 us
+0 
+Prediction 679 took 1693 us
+0 
+Prediction 680 took 1693 us
+0 
+Prediction 681 took 1693 us
+0 
+Prediction 682 took 1696 us
+0 
+Prediction 683 took 1696 us
+0 
+Prediction 684 took 1693 us
+0 
+Prediction 685 took 1668 us
+0 
+Prediction 686 took 1694 us
+0 
+Prediction 687 took 1696 us
+0 
+Prediction 688 took 1696 us
+0 
+Prediction 689 took 1694 us
+0 
+Prediction 690 took 1693 us
+0 
+Prediction 691 took 1694 us
+0 
+Prediction 692 took 1696 us
+0 
+Prediction 693 took 1696 us
+0 
+Prediction 694 took 1694 us
+0 
+Prediction 695 took 1694 us
+0 
+Prediction 696 took 1694 us
+0 
+Prediction 697 took 1695 us
+0 
+Prediction 698 took 1696 us
+0 
+Prediction 699 took 1697 us
+0 
+Prediction 700 took 1694 us
+0 
+Prediction 701 took 1673 us
+0 
+Prediction 702 took 1696 us
+0 
+Prediction 703 took 1696 us
+0 
+Prediction 704 took 1697 us
+0 
+Prediction 705 took 1693 us
+0 
+Prediction 706 took 1694 us
+0 
+Prediction 707 took 1682 us
+0 
+Prediction 708 took 1695 us
+0 
+Prediction 709 took 1696 us
+0 
+Prediction 710 took 1694 us
+0 
+Prediction 711 took 1694 us
+0 
+Prediction 712 took 1694 us
+0 
+Prediction 713 took 1696 us
+0 
+Prediction 714 took 1696 us
+0 
+Prediction 715 took 1694 us
+0 
+Prediction 716 took 1694 us
+0 
+Prediction 717 took 1688 us
+0 
+Prediction 718 took 1696 us
+0 
+Prediction 719 took 1696 us
+0 
+Prediction 720 took 1694 us
+0 
+Prediction 721 took 1694 us
+0 
+Prediction 722 took 1695 us
+0 
+Prediction 723 took 1653 us
+0 
+Prediction 724 took 1695 us
+0 
+Prediction 725 took 1693 us
+0 
+Prediction 726 took 1683 us
+0 
+Prediction 727 took 1695 us
+0 
+Prediction 728 took 1696 us
+0 
+Prediction 729 took 1658 us
+0 
+Prediction 730 took 1693 us
+0 
+Prediction 731 took 1694 us
+0 
+Prediction 732 took 1696 us
+0 
+Prediction 733 took 1696 us
+0 
+Prediction 734 took 1678 us
+0 
+Prediction 735 took 1693 us
+0 
+Prediction 736 took 1693 us
+0 
+Prediction 737 took 1688 us
+0 
+Prediction 738 took 1696 us
+0 
+Prediction 739 took 1695 us
+0 
+Prediction 740 took 1694 us
+0 
+Prediction 741 took 1672 us
+0 
+Prediction 742 took 1681 us
+0 
+Prediction 743 took 1655 us
+0 
+Prediction 744 took 1677 us
+0 
+Prediction 745 took 1694 us
+0 
+Prediction 746 took 1694 us
+0 
+Prediction 747 took 1684 us
+0 
+Prediction 748 took 1695 us
+0 
+Prediction 749 took 1693 us
+0 
+Prediction 750 took 1693 us
+0 
+Prediction 751 took 1694 us
+0 
+Prediction 752 took 1696 us
+0 
+Prediction 753 took 1696 us
+0 
+Prediction 754 took 1694 us
+0 
+Prediction 755 took 1694 us
+0 
+Prediction 756 took 1694 us
+0 
+Prediction 757 took 1690 us
+0 
+Prediction 758 took 1696 us
+0 
+Prediction 759 took 1660 us
+0 
+Prediction 760 took 1694 us
+0 
+Prediction 761 took 1694 us
+0 
+Prediction 762 took 1696 us
+0 
+Prediction 763 took 1696 us
+0 
+Prediction 764 took 1694 us
+0 
+Prediction 765 took 1694 us
+0 
+Prediction 766 took 1694 us
+0 
+Prediction 767 took 1696 us
+0 
+Prediction 768 took 1656 us
+0 
+Prediction 769 took 1694 us
+0 
+Prediction 770 took 1693 us
+0 
+Prediction 771 took 1693 us
+0 
+Prediction 772 took 1683 us
+0 
+Prediction 773 took 1696 us
+0 
+Prediction 774 took 1661 us
+0 
+Prediction 775 took 1693 us
+0 
+Prediction 776 took 1694 us
+0 
+Prediction 777 took 1696 us
+0 
+Prediction 778 took 1657 us
+0 
+Prediction 779 took 1664 us
+0 
+Prediction 780 took 1694 us
+0 
+Prediction 781 took 1694 us
+0 
+Prediction 782 took 1696 us
+0 
+Prediction 783 took 1696 us
+0 
+Prediction 784 took 1664 us
+0 
+Prediction 785 took 1693 us
+0 
+Prediction 786 took 1695 us
+0 
+Prediction 787 took 1696 us
+0 
+Prediction 788 took 1696 us
+0 
+Prediction 789 took 1693 us
+0 
+Prediction 790 took 1694 us
+0 
+Prediction 791 took 1694 us
+0 
+Prediction 792 took 1696 us
+0 
+Prediction 793 took 1696 us
+0 
+Prediction 794 took 1662 us
+0 
+Prediction 795 took 1694 us
+0 
+Prediction 796 took 1694 us
+0 
+Prediction 797 took 1696 us
+0 
+Prediction 798 took 1696 us
+0 
+Prediction 799 took 1693 us
+0 
+Prediction 800 took 1694 us
+0 
+Prediction 801 took 1694 us
+0 
+Prediction 802 took 1691 us
+0 
+Prediction 803 took 1696 us
+0 
+Prediction 804 took 1694 us
+0 
+Prediction 805 took 1694 us
+0 
+Prediction 806 took 1695 us
+0 
+Prediction 807 took 1696 us
+0 
+Prediction 808 took 1657 us
+0 
+Prediction 809 took 1694 us
+0 
+Prediction 810 took 1670 us
+0 
+Prediction 811 took 1695 us
+0 
+Prediction 812 took 1696 us
+0 
+Prediction 813 took 1696 us
+0 
+Prediction 814 took 1694 us
+0 
+Prediction 815 took 1694 us
+0 
+Prediction 816 took 1695 us
+0 
+Prediction 817 took 1696 us
+0 
+Prediction 818 took 1696 us
+0 
+Prediction 819 took 1694 us
+0 
+Prediction 820 took 1694 us
+0 
+Prediction 821 took 1686 us
+0 
+Prediction 822 took 1698 us
+0 
+Prediction 823 took 1658 us
+0 
+Prediction 824 took 1694 us
+0 
+Prediction 825 took 1694 us
+0 
+Prediction 826 took 1678 us
+0 
+Prediction 827 took 1696 us
+0 
+Prediction 828 took 1696 us
+0 
+Prediction 829 took 1664 us
+0 
+Prediction 830 took 1693 us
+0 
+Prediction 831 took 1695 us
+0 
+Prediction 832 took 1687 us
+0 
+Prediction 833 took 1696 us
+0 
+Prediction 834 took 1693 us
+0 
+Prediction 835 took 1694 us
+0 
+Prediction 836 took 1694 us
+0 
+Prediction 837 took 1695 us
+0 
+Prediction 838 took 1695 us
+0 
+Prediction 839 took 1694 us
+0 
+Prediction 840 took 1694 us
+0 
+Prediction 841 took 1695 us
+0 
+Prediction 842 took 1696 us
+0 
+Prediction 843 took 1692 us
+0 
+Prediction 844 took 1693 us
+0 
+Prediction 845 took 1682 us
+0 
+Prediction 846 took 1694 us
+0 
+Prediction 847 took 1697 us
+0 
+Prediction 848 took 1696 us
+0 
+Prediction 849 took 1693 us
+0 
+Prediction 850 took 1693 us
+0 
+Prediction 851 took 1694 us
+0 
+Prediction 852 took 1696 us
+0 
+Prediction 853 took 1696 us
+0 
+Prediction 854 took 1693 us
+0 
+Prediction 855 took 1694 us
+0 
+Prediction 856 took 1694 us
+0 
+Prediction 857 took 1696 us
+0 
+Prediction 858 took 1693 us
+0 
+Prediction 859 took 1693 us
+0 
+Prediction 860 took 1693 us
+0 
+Prediction 861 took 1675 us
+0 
+Prediction 862 took 1690 us
+0 
+Prediction 863 took 1696 us
+0 
+Prediction 864 took 1677 us
+0 
+Prediction 865 took 1681 us
+0 
+Prediction 866 took 1685 us
+0 
+Prediction 867 took 1684 us
+0 
+Prediction 868 took 1696 us
+0 
+Prediction 869 took 1693 us
+0 
+Prediction 870 took 1694 us
+0 
+Prediction 871 took 1694 us
+0 
+Prediction 872 took 1697 us
+0 
+Prediction 873 took 1696 us
+0 
+Prediction 874 took 1694 us
+0 
+Prediction 875 took 1694 us
+0 
+Prediction 876 took 1694 us
+0 
+Prediction 877 took 1690 us
+0 
+Prediction 878 took 1695 us
+0 
+Prediction 879 took 1677 us
+0 
+Prediction 880 took 1693 us
+0 
+Prediction 881 took 1693 us
+0 
+Prediction 882 took 1696 us
+0 
+Prediction 883 took 1696 us
+0 
+Prediction 884 took 1694 us
+0 
+Prediction 885 took 1694 us
+0 
+Prediction 886 took 1694 us
+0 
+Prediction 887 took 1690 us
+0 
+Prediction 888 took 1696 us
+0 
+Prediction 889 took 1693 us
+0 
+Prediction 890 took 1693 us
+0 
+Prediction 891 took 1693 us
+0 
+Prediction 892 took 1681 us
+0 
+Prediction 893 took 1696 us
+0 
+Prediction 894 took 1696 us
+0 
+Prediction 895 took 1693 us
+0 
+Prediction 896 took 1694 us
+0 
+Prediction 897 took 1694 us
+0 
+Prediction 898 took 1696 us
+0 
+Prediction 899 took 1696 us
+0 
+Prediction 900 took 1693 us
+0 
+Prediction 901 took 1693 us
+0 
+Prediction 902 took 1695 us
+0 
+Prediction 903 took 1688 us
+0 
+Prediction 904 took 1696 us
+0 
+Prediction 905 took 1694 us
+0 
+Prediction 906 took 1693 us
+0 
+Prediction 907 took 1695 us
+0 
+Prediction 908 took 1696 us
+0 
+Prediction 909 took 1696 us
+0 
+Prediction 910 took 1694 us
+0 
+Prediction 911 took 1694 us
+0 
+Prediction 912 took 1695 us
+0 
+Prediction 913 took 1696 us
+0 
+Prediction 914 took 1695 us
+0 
+Prediction 915 took 1694 us
+0 
+Prediction 916 took 1682 us
+0 
+Prediction 917 took 1694 us
+0 
+Prediction 918 took 1652 us
+0 
+Prediction 919 took 1696 us
+0 
+Prediction 920 took 1695 us
+0 
+Prediction 921 took 1694 us
+0 
+Prediction 922 took 1695 us
+0 
+Prediction 923 took 1692 us
+0 
+Prediction 924 took 1696 us
+0 
+Prediction 925 took 1695 us
+0 
+Prediction 926 took 1694 us
+0 
+Prediction 927 took 1695 us
+0 
+Prediction 928 took 1695 us
+0 
+Prediction 929 took 1696 us
+0 
+Prediction 930 took 1664 us
+0 
+Prediction 931 took 1694 us
+0 
+Prediction 932 took 1694 us
+0 
+Prediction 933 took 1696 us
+0 
+Prediction 934 took 1696 us
+0 
+Prediction 935 took 1665 us
+0 
+Prediction 936 took 1694 us
+0 
+Prediction 937 took 1694 us
+0 
+Prediction 938 took 1653 us
+0 
+Prediction 939 took 1696 us
+0 
+Prediction 940 took 1693 us
+0 
+Prediction 941 took 1694 us
+0 
+Prediction 942 took 1694 us
+0 
+Prediction 943 took 1688 us
+0 
+Prediction 944 took 1696 us
+0 
+Prediction 945 took 1695 us
+0 
+Prediction 946 took 1694 us
+0 
+Prediction 947 took 1694 us
+0 
+Prediction 948 took 1653 us
+0 
+Prediction 949 took 1661 us
+0 
+Prediction 950 took 1667 us
+0 
+Prediction 951 took 1675 us
+0 
+Prediction 952 took 1696 us
+0 
+Prediction 953 took 1690 us
+0 
+Prediction 954 took 1693 us
+0 
+Prediction 955 took 1694 us
+0 
+Prediction 956 took 1694 us
+0 
+Prediction 957 took 1696 us
+0 
+Prediction 958 took 1690 us
+0 
+Prediction 959 took 1693 us
+0 
+Prediction 960 took 1694 us
+0 
+Prediction 961 took 1694 us
+0 
+Prediction 962 took 1697 us
+0 
+Prediction 963 took 1690 us
+0 
+Prediction 964 took 1695 us
+0 
+Prediction 965 took 1667 us
+0 
+Prediction 966 took 1694 us
+0 
+Prediction 967 took 1696 us
+0 
+Prediction 968 took 1696 us
+0 
+Prediction 969 took 1694 us
+0 
+Prediction 970 took 1694 us
+0 
+Prediction 971 took 1694 us
+0 
+Prediction 972 took 1696 us
+0 
+Prediction 973 took 1696 us
+0 
+Prediction 974 took 1696 us
+0 
+Prediction 975 took 1666 us
+0 
+Prediction 976 took 1693 us
+0 
+Prediction 977 took 1696 us
+0 
+Prediction 978 took 1655 us
+0 
+Prediction 979 took 1694 us
+0 
+Prediction 980 took 1682 us
+0 
+Prediction 981 took 1694 us
+0 
+Prediction 982 took 1696 us
+0 
+Prediction 983 took 1696 us
+0 
+Prediction 984 took 1693 us
+0 
+Prediction 985 took 1693 us
+0 
+Prediction 986 took 1694 us
+0 
+Prediction 987 took 1696 us
+0 
+Prediction 988 took 1654 us
+0 
+Prediction 989 took 1693 us
+0 
+Prediction 990 took 1694 us
+0 
+Prediction 991 took 1684 us
+0 
+Prediction 992 took 1696 us
+0 
+Prediction 993 took 1695 us
+0 
+Prediction 994 took 1660 us
+0 
+Prediction 995 took 1693 us
+0 
+Prediction 996 took 1693 us
+0 
+Prediction 997 took 1696 us
+0 
+Prediction 998 took 1691 us
+0 
+Prediction 999 took 1693 us
+
+Finished 1000 iter in 5201 - 414 = 4 s

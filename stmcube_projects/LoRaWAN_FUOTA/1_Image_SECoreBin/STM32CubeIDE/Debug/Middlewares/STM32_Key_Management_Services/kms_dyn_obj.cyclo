@@ -1,0 +1,6 @@
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Modules/kms_dyn_obj.c:113:8:KMS_CreateObject	9
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Modules/kms_dyn_obj.c:187:8:KMS_DestroyObject	8
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Modules/kms_dyn_obj.c:277:7:KMS_GetAttributeValue	17
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Modules/kms_dyn_obj.c:444:7:KMS_FindObjectsInit	9
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Modules/kms_dyn_obj.c:526:7:KMS_FindObjects	10
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Modules/kms_dyn_obj.c:584:7:KMS_FindObjectsFinal	5

@@ -1,0 +1,9 @@
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Modules/kms_enc_dec.c:135:14:encrypt_decrypt_init	48
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Modules/kms_enc_dec.c:774:16:KMS_EncryptInit	1
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Modules/kms_enc_dec.c:848:16:KMS_EncryptUpdate	13
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Modules/kms_enc_dec.c:802:16:KMS_Encrypt	2
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Modules/kms_enc_dec.c:1016:16:KMS_EncryptFinal	13
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Modules/kms_enc_dec.c:1168:16:KMS_DecryptInit	1
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Modules/kms_enc_dec.c:1238:16:KMS_DecryptUpdate	17
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Modules/kms_enc_dec.c:1192:16:KMS_Decrypt	2
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Modules/kms_enc_dec.c:1446:16:KMS_DecryptFinal	13

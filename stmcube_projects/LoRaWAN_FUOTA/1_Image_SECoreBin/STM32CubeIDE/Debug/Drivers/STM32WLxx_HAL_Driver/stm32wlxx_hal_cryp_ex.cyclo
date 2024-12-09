@@ -1,0 +1,4 @@
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_cryp_ex.c:98:19:HAL_CRYPEx_AESGCM_GenerateAuthTAG	9
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_cryp_ex.c:219:19:HAL_CRYPEx_AESCCM_GenerateAuthTAG	8
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_cryp_ex.c:340:7:HAL_CRYPEx_EnableAutoKeyDerivation	2
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Drivers/STM32WLxx_HAL_Driver/Src/stm32wlxx_hal_cryp_ex.c:356:7:HAL_CRYPEx_DisableAutoKeyDerivation	2

@@ -1,0 +1,4 @@
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Applications/LoRaWAN_FUOTA/1_Image_SECoreBin/Src/ca_low_level.c:71:6:HAL_CRYP_MspInit	2
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Applications/LoRaWAN_FUOTA/1_Image_SECoreBin/Src/ca_low_level.c:88:6:HAL_CRYP_MspDeInit	2
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Applications/LoRaWAN_FUOTA/1_Image_SECoreBin/Src/ca_low_level.c:109:6:HAL_PKA_MspInit	2
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Applications/LoRaWAN_FUOTA/1_Image_SECoreBin/Src/ca_low_level.c:126:6:HAL_PKA_MspDeInit	2

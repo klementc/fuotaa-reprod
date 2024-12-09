@@ -1,0 +1,8 @@
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Core/kms_init.c:85:8:KMS_Initialize	24	static
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Core/kms_init.c:206:7:KMS_Finalize	16	static
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Core/kms_init.c:254:7:KMS_GetTokenInfo	0	static
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Core/kms_init.c:317:7:KMS_OpenSession	20	static
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Core/kms_init.c:492:11:KMS_CheckSessionHdle	0	static
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Core/kms_init.c:449:7:KMS_CloseSession	16	static
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Core/kms_init.c:510:10:KMS_SetStateIdle	0	static
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Key_Management_Services/Core/kms_init.c:526:11:KMS_GetMechanismInfo	8	static

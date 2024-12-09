@@ -1,0 +1,2 @@
+/home/clementc/STM32CubeIDE/workspace_1.16.0/ml_libtest/Common/System/system_stm32wlxx.c:211:6:SystemInit	0	static
+/home/clementc/STM32CubeIDE/workspace_1.16.0/ml_libtest/Common/System/system_stm32wlxx.c:266:6:SystemCoreClockUpdate	8	static

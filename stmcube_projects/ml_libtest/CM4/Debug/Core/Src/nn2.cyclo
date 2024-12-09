@@ -1,0 +1,22 @@
+/opt/st/stm32cubeide_1.16.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.linux64_1.0.200.202406132123/tools/arm-none-eabi/include/c++/12.3.1/bits/std_abs.h:75:3:constexpr float std::abs(float)	1
+/opt/st/stm32cubeide_1.16.0/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.12.3.rel1.linux64_1.0.200.202406132123/tools/arm-none-eabi/include/c++/12.3.1/cmath:260:3:constexpr float std::floor(float)	1
+../Core/Src/nn2.cpp:24:14:float activation_function_none(float, bool)	1
+../Core/Src/nn2.cpp:30:14:float activation_function_identity(float, bool)	2
+../Core/Src/nn2.cpp:38:14:float activation_function_linear(float, bool)	2
+../Core/Src/nn2.cpp:46:14:float activation_function_relu(float, bool)	3
+../Core/Src/nn2.cpp:54:14:float activation_function_leaky_relu(float, bool)	4
+../Core/Src/nn2.cpp:62:14:float activation_function_elu(float, bool)	4
+../Core/Src/nn2.cpp:70:14:float activation_function_threshold(float, bool)	3
+../Core/Src/nn2.cpp:78:14:float activation_function_sigmoid(float, bool)	2
+../Core/Src/nn2.cpp:88:14:float activation_function_sigmoid_fast(float, bool)	4
+../Core/Src/nn2.cpp:110:14:float activation_function_tanh(float, bool)	2
+../Core/Src/nn2.cpp:118:14:float activation_function_tanh_fast(float, bool)	2
+../Core/Src/nn2.cpp:141:14:float frand()	1
+../Core/Src/nn2.cpp:147:14:float error(float, float)	1
+../Core/Src/nn2.cpp:153:14:float error_derivative(float, float)	1
+../Core/Src/nn2.cpp:158:13:void forward_propagation(nn_t*)	4
+../Core/Src/nn2.cpp:179:7:nn_t* NN::nn_init()	2
+../Core/Src/nn2.cpp:198:6:void NN::nn_free(nn_t*)	4
+../Core/Src/nn2.cpp:228:5:int NN::nn_add_layer(nn_t*, int, int, float)	20
+../Core/Src/nn2.cpp:295:7:float NN::nn_train(nn_t*, float*, float*, float)	11
+../Core/Src/nn2.cpp:339:8:float* NN::nn_predict(nn_t*, float*)	1

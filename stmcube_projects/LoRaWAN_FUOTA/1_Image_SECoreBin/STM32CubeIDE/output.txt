@@ -1,0 +1,4 @@
+prebuild.sh : started
+prepareimage with python script
+/home/clementc/miniconda3/bin/python /home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Middlewares/ST/STM32_Secure_Engine/Utilities/KeysAndImages/prepareimage.py
+SECBOOT_ECCDSA_WITH_AES128_CBC_SHA256 selected

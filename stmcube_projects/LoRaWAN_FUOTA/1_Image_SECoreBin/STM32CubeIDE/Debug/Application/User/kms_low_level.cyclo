@@ -1,0 +1,5 @@
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Applications/LoRaWAN_FUOTA/1_Image_SECoreBin/Src/kms_low_level.c:119:6:KMS_LL_IsBufferInSecureEnclave	3
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Applications/LoRaWAN_FUOTA/1_Image_SECoreBin/Src/kms_low_level.c:70:7:KMS_LL_Initialize	1
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Applications/LoRaWAN_FUOTA/1_Image_SECoreBin/Src/kms_low_level.c:79:7:KMS_LL_Finalize	1
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Applications/LoRaWAN_FUOTA/1_Image_SECoreBin/Src/kms_low_level.c:92:7:KMS_LL_FLASH_Read	1
+/home/clementc/Downloads/STM32Cube_FW_WL_V1.3.0/Projects/NUCLEO-WL55JC/Applications/LoRaWAN_FUOTA/1_Image_SECoreBin/Src/kms_low_level.c:167:6:KMS_LL_ReportError	1

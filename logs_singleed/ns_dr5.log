@@ -1,0 +1,538 @@
+BulkCommAppMulticast:main(): Using policy 4
++0.000000000s -1 BulkCommAppMulticast:main(): Using position: Fixed
++0.000000000s -1 BulkCommAppMulticast:main(): Add STA in ( 0 , -0 , 0 ) STA0
++0.000000000s -1 BulkCommAppMulticast:main(): Add GW in ( 0 , 0 , 0 ) GW1
++0.000000000s -1 LoraPhy:SetChannel(0x61dc803f3d60, 0x61dc803bb880)
++0.000000000s -1 LoraPhy:SetDevice(0x61dc803f3d60, 0x61dc803f39a0)
++0.000000000s -1 ObjectCommApplicationMulticast:ObjectCommApplicationMulticast()
++0.000000000s -1 ObjectCommApplicationMulticast:PrintLastUpdateTime(): Last update: 0 s.
++0.000000000s -1 ObjectCommApplicationMulticast:SetMCR(0)
++0.000000000s -1 ObjectCommApplicationMulticast:SetMCR(): CR is set to 0
++0.000000000s -1 ObjectCommApplicationMulticast:SetMinDelayReTx(30)
++0.000000000s -1 LoraPhy:SetChannel(0x61dc803f5020, 0x61dc803bb880)
++0.000000000s -1 LoraPhy:SetDevice(0x61dc803f5020, 0x61dc803f4f20)
++0.000000000s -1 LorawanMacHelper:SetSpreadingFactorsUp(): STA0 linked to GW1 SF 5
++0.000000000s -1 BulkCommAppMulticast:main(): SF INFO: 
++0.000000000s -1 BulkCommAppMulticast:main(): SF INFO 0 1
++0.000000000s -1 BulkCommAppMulticast:main(): SF INFO 1 0
++0.000000000s -1 BulkCommAppMulticast:main(): SF INFO 2 0
++0.000000000s -1 BulkCommAppMulticast:main(): SF INFO 3 0
++0.000000000s -1 BulkCommAppMulticast:main(): SF INFO 4 0
++0.000000000s -1 BulkCommAppMulticast:main(): SF INFO 5 0
++0.000000000s -1 BulkCommAppMulticast:main(): SF INFO 6 0
++0.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 0
++10.000000000s 0 ObjectCommApplicationMulticast:StartApplication()
++10.000000000s 0 ObjectCommApplicationMulticast:PeriodicUpdateScheduler(0x61dc803f4cc0)
++10.000000000s 0 ObjectCommApplicationMulticast:PeriodicUpdateScheduler(): Periodic scheduler, already started? false schedule next check after 86400 seconds. current age: 10
++10.000000000s 0 ObjectCommApplicationMulticast:SendMulticastInitRequest(0x61dc803f4cc0)
++10.000000000s 0 ObjectCommApplicationMulticast:SendMulticastInitRequest(): Send age: 0 0
++10.000000000s 0 LoraPhy:GetOnAirTime(0x61dc803f94a0, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 14 bytes
++10.000000000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 128, den = 28, payloadSymbNb = 33, tSym = 0.001024 crc = 1 CR = 1
++10.000000000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++10.000000000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.033792
++10.000000000s 0 LoraPhy:GetOnAirTime(): Total time = 0.046336
++10.000000000s 0 LoraPhy:GetMobility()
++10.000000000s 0 LoraPhy:GetMobility()
++10.000000000s 0 LoraPhy:GetOnAirTime(0x61dc803f94a0, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 14 bytes
++10.000000000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 128, den = 28, payloadSymbNb = 33, tSym = 0.001024 crc = 1 CR = 1
++10.000000000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++10.000000000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.033792
++10.000000000s 0 LoraPhy:GetOnAirTime(): Total time = 0.046336
++10.046336176s 2 NetworkControllerComponent:SwitchToState(): Network server switch state to 1
++12.046336010s 0 ClassAEndDeviceLorawanMac:OpenSecondReceiveWindow(): Using parameters: 869.525Hz, DR0
++12.308480010s 0 ObjectCommApplicationMulticast:callbackCheckEndTx(): Finished Tx, device: 0110110|0000000000000011101001000 success: false total: 0 first attempt: +1e+10ns fcnt: 1 FPort: 28
++20.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 0.135483
++40.000000000s 0 ObjectCommApplicationMulticast:SendMulticastInitRequest(0x61dc803f4cc0)
++40.000000000s 0 ObjectCommApplicationMulticast:SendMulticastInitRequest(): Send age: 30 30
++40.000000000s 0 LoraPhy:GetOnAirTime(0x61dc803a15b0, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 14 bytes
++40.000000000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 128, den = 28, payloadSymbNb = 33, tSym = 0.001024 crc = 1 CR = 1
++40.000000000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++40.000000000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.033792
++40.000000000s 0 LoraPhy:GetOnAirTime(): Total time = 0.046336
++40.000000000s 0 LoraPhy:GetMobility()
++40.000000000s 0 LoraPhy:GetMobility()
++40.000000000s 0 LoraPhy:GetOnAirTime(0x61dc803a15b0, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 14 bytes
++40.000000000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 128, den = 28, payloadSymbNb = 33, tSym = 0.001024 crc = 1 CR = 1
++40.000000000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++40.000000000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.033792
++40.000000000s 0 LoraPhy:GetOnAirTime(): Total time = 0.046336
++40.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 0.426244
++42.046336010s 0 ClassAEndDeviceLorawanMac:OpenSecondReceiveWindow(): Using parameters: 869.525Hz, DR0
++42.308480010s 0 ObjectCommApplicationMulticast:callbackCheckEndTx(): Finished Tx, device: 0110110|0000000000000011101001000 success: false total: 0 first attempt: +4e+10ns fcnt: 2 FPort: 28
++50.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 0.456728
++70.000000000s 0 ObjectCommApplicationMulticast:SendMulticastInitRequest(0x61dc803f4cc0)
++70.000000000s 0 ObjectCommApplicationMulticast:SendMulticastInitRequest(): Send age: 60 60
++70.000000000s 0 LoraPhy:GetOnAirTime(0x61dc803f9570, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 14 bytes
++70.000000000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 128, den = 28, payloadSymbNb = 33, tSym = 0.001024 crc = 1 CR = 1
++70.000000000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++70.000000000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.033792
++70.000000000s 0 LoraPhy:GetOnAirTime(): Total time = 0.046336
++70.000000000s 0 LoraPhy:GetMobility()
++70.000000000s 0 LoraPhy:GetMobility()
++70.000000000s 0 LoraPhy:GetOnAirTime(0x61dc803f9570, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 14 bytes
++70.000000000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 128, den = 28, payloadSymbNb = 33, tSym = 0.001024 crc = 1 CR = 1
++70.000000000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++70.000000000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.033792
++70.000000000s 0 LoraPhy:GetOnAirTime(): Total time = 0.046336
++70.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 0.747489
++72.046336010s 0 ClassAEndDeviceLorawanMac:OpenSecondReceiveWindow(): Using parameters: 869.525Hz, DR0
++72.308480010s 0 ObjectCommApplicationMulticast:callbackCheckEndTx(): Finished Tx, device: 0110110|0000000000000011101001000 success: false total: 0 first attempt: +7e+10ns fcnt: 3 FPort: 28
++80.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 0.777972
++100.000000000s 0 ObjectCommApplicationMulticast:SendMulticastInitRequest(0x61dc803f4cc0)
++100.000000000s 0 ObjectCommApplicationMulticast:SendMulticastInitRequest(): Send age: 90 90
++100.000000000s 0 LoraPhy:GetOnAirTime(0x61dc803f9710, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 14 bytes
++100.000000000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 128, den = 28, payloadSymbNb = 33, tSym = 0.001024 crc = 1 CR = 1
++100.000000000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++100.000000000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.033792
++100.000000000s 0 LoraPhy:GetOnAirTime(): Total time = 0.046336
++100.000000000s 0 LoraPhy:GetMobility()
++100.000000000s 0 LoraPhy:GetMobility()
++100.000000000s 0 LoraPhy:GetOnAirTime(0x61dc803f9710, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 14 bytes
++100.000000000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 128, den = 28, payloadSymbNb = 33, tSym = 0.001024 crc = 1 CR = 1
++100.000000000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++100.000000000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.033792
++100.000000000s 0 LoraPhy:GetOnAirTime(): Total time = 0.046336
++100.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 1.06873
++102.046336010s 0 ClassAEndDeviceLorawanMac:OpenSecondReceiveWindow(): Using parameters: 869.525Hz, DR0
++102.308480010s 0 ObjectCommApplicationMulticast:callbackCheckEndTx(): Finished Tx, device: 0110110|0000000000000011101001000 success: false total: 0 first attempt: +1e+11ns fcnt: 4 FPort: 28
++110.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 1.09922
++130.000000000s 0 ObjectCommApplicationMulticast:SendMulticastInitRequest(0x61dc803f4cc0)
++130.000000000s 0 ObjectCommApplicationMulticast:SendMulticastInitRequest(): Send age: 120 120
++130.000000000s 0 LoraPhy:GetOnAirTime(0x61dc803f9870, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 14 bytes
++130.000000000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 128, den = 28, payloadSymbNb = 33, tSym = 0.001024 crc = 1 CR = 1
++130.000000000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++130.000000000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.033792
++130.000000000s 0 LoraPhy:GetOnAirTime(): Total time = 0.046336
++130.000000000s 0 LoraPhy:GetMobility()
++130.000000000s 0 LoraPhy:GetMobility()
++130.000000000s 0 LoraPhy:GetOnAirTime(0x61dc803f9870, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 14 bytes
++130.000000000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 128, den = 28, payloadSymbNb = 33, tSym = 0.001024 crc = 1 CR = 1
++130.000000000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++130.000000000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.033792
++130.000000000s 0 LoraPhy:GetOnAirTime(): Total time = 0.046336
++130.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 1.38998
++132.046336010s 0 ClassAEndDeviceLorawanMac:OpenSecondReceiveWindow(): Using parameters: 869.525Hz, DR0
++132.308480010s 0 ObjectCommApplicationMulticast:callbackCheckEndTx(): Finished Tx, device: 0110110|0000000000000011101001000 success: false total: 0 first attempt: +1.3e+11ns fcnt: 5 FPort: 28
++140.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 1.42046
++160.000000000s 0 ObjectCommApplicationMulticast:SendMulticastInitRequest(0x61dc803f4cc0)
++160.000000000s 0 ObjectCommApplicationMulticast:SendMulticastInitRequest(): Send age: 150 150
++160.000000000s 0 LoraPhy:GetOnAirTime(0x61dc803f9c20, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 14 bytes
++160.000000000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 128, den = 28, payloadSymbNb = 33, tSym = 0.001024 crc = 1 CR = 1
++160.000000000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++160.000000000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.033792
++160.000000000s 0 LoraPhy:GetOnAirTime(): Total time = 0.046336
++160.000000000s 0 LoraPhy:GetMobility()
++160.000000000s 0 LoraPhy:GetMobility()
++160.000000000s 0 LoraPhy:GetOnAirTime(0x61dc803f9c20, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 14 bytes
++160.000000000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 128, den = 28, payloadSymbNb = 33, tSym = 0.001024 crc = 1 CR = 1
++160.000000000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++160.000000000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.033792
++160.000000000s 0 LoraPhy:GetOnAirTime(): Total time = 0.046336
++160.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 1.71122
++162.046336010s 0 ClassAEndDeviceLorawanMac:OpenSecondReceiveWindow(): Using parameters: 869.525Hz, DR0
++162.308480010s 0 ObjectCommApplicationMulticast:callbackCheckEndTx(): Finished Tx, device: 0110110|0000000000000011101001000 success: false total: 0 first attempt: +1.6e+11ns fcnt: 6 FPort: 28
++170.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 1.7417
++190.000000000s 0 ObjectCommApplicationMulticast:SendMulticastInitRequest(0x61dc803f4cc0)
++190.000000000s 0 ObjectCommApplicationMulticast:SendMulticastInitRequest(): Send age: 180 180
++190.000000000s 0 LoraPhy:GetOnAirTime(0x61dc803f9f20, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 14 bytes
++190.000000000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 128, den = 28, payloadSymbNb = 33, tSym = 0.001024 crc = 1 CR = 1
++190.000000000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++190.000000000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.033792
++190.000000000s 0 LoraPhy:GetOnAirTime(): Total time = 0.046336
++190.000000000s 0 LoraPhy:GetMobility()
++190.000000000s 0 LoraPhy:GetMobility()
++190.000000000s 0 LoraPhy:GetOnAirTime(0x61dc803f9f20, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 14 bytes
++190.000000000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 128, den = 28, payloadSymbNb = 33, tSym = 0.001024 crc = 1 CR = 1
++190.000000000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++190.000000000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.033792
++190.000000000s 0 LoraPhy:GetOnAirTime(): Total time = 0.046336
++190.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 2.03247
++192.046336010s 0 ClassAEndDeviceLorawanMac:OpenSecondReceiveWindow(): Using parameters: 869.525Hz, DR0
++192.308480010s 0 ObjectCommApplicationMulticast:callbackCheckEndTx(): Finished Tx, device: 0110110|0000000000000011101001000 success: false total: 0 first attempt: +1.9e+11ns fcnt: 7 FPort: 28
++200.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 2.06295
++220.000000000s 0 ObjectCommApplicationMulticast:SendMulticastInitRequest(0x61dc803f4cc0)
++220.000000000s 0 ObjectCommApplicationMulticast:SendMulticastInitRequest(): Send age: 210 210
++220.000000000s 0 LoraPhy:GetOnAirTime(0x61dc803fa220, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 14 bytes
++220.000000000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 128, den = 28, payloadSymbNb = 33, tSym = 0.001024 crc = 1 CR = 1
++220.000000000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++220.000000000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.033792
++220.000000000s 0 LoraPhy:GetOnAirTime(): Total time = 0.046336
++220.000000000s 0 LoraPhy:GetMobility()
++220.000000000s 0 LoraPhy:GetMobility()
++220.000000000s 0 LoraPhy:GetOnAirTime(0x61dc803fa220, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 14 bytes
++220.000000000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 128, den = 28, payloadSymbNb = 33, tSym = 0.001024 crc = 1 CR = 1
++220.000000000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++220.000000000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.033792
++220.000000000s 0 LoraPhy:GetOnAirTime(): Total time = 0.046336
++220.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 2.35371
++222.046336010s 0 ClassAEndDeviceLorawanMac:OpenSecondReceiveWindow(): Using parameters: 869.525Hz, DR0
++222.308480010s 0 ObjectCommApplicationMulticast:callbackCheckEndTx(): Finished Tx, device: 0110110|0000000000000011101001000 success: false total: 0 first attempt: +2.2e+11ns fcnt: 8 FPort: 28
++230.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 2.38419
++250.000000000s 0 ObjectCommApplicationMulticast:SendMulticastInitRequest(0x61dc803f4cc0)
++250.000000000s 0 ObjectCommApplicationMulticast:SendMulticastInitRequest(): Send age: 240 240
++250.000000000s 0 LoraPhy:GetOnAirTime(0x61dc803fa520, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 14 bytes
++250.000000000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 128, den = 28, payloadSymbNb = 33, tSym = 0.001024 crc = 1 CR = 1
++250.000000000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++250.000000000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.033792
++250.000000000s 0 LoraPhy:GetOnAirTime(): Total time = 0.046336
++250.000000000s 0 LoraPhy:GetMobility()
++250.000000000s 0 LoraPhy:GetMobility()
++250.000000000s 0 LoraPhy:GetOnAirTime(0x61dc803fa520, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 14 bytes
++250.000000000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 128, den = 28, payloadSymbNb = 33, tSym = 0.001024 crc = 1 CR = 1
++250.000000000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++250.000000000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.033792
++250.000000000s 0 LoraPhy:GetOnAirTime(): Total time = 0.046336
++250.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 2.67495
++252.046336010s 0 ClassAEndDeviceLorawanMac:OpenSecondReceiveWindow(): Using parameters: 869.525Hz, DR0
++252.308480010s 0 ObjectCommApplicationMulticast:callbackCheckEndTx(): Finished Tx, device: 0110110|0000000000000011101001000 success: false total: 0 first attempt: +2.5e+11ns fcnt: 9 FPort: 28
++260.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 2.70544
++280.000000000s 0 ObjectCommApplicationMulticast:SendMulticastInitRequest(0x61dc803f4cc0)
++280.000000000s 0 ObjectCommApplicationMulticast:SendMulticastInitRequest(): Send age: 270 270
++280.000000000s 0 LoraPhy:GetOnAirTime(0x61dc803fa820, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 14 bytes
++280.000000000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 128, den = 28, payloadSymbNb = 33, tSym = 0.001024 crc = 1 CR = 1
++280.000000000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++280.000000000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.033792
++280.000000000s 0 LoraPhy:GetOnAirTime(): Total time = 0.046336
++280.000000000s 0 LoraPhy:GetMobility()
++280.000000000s 0 LoraPhy:GetMobility()
++280.000000000s 0 LoraPhy:GetOnAirTime(0x61dc803fa820, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 14 bytes
++280.000000000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 128, den = 28, payloadSymbNb = 33, tSym = 0.001024 crc = 1 CR = 1
++280.000000000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++280.000000000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.033792
++280.000000000s 0 LoraPhy:GetOnAirTime(): Total time = 0.046336
++280.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 2.9962
++282.046336010s 0 ClassAEndDeviceLorawanMac:OpenSecondReceiveWindow(): Using parameters: 869.525Hz, DR0
++282.308480010s 0 ObjectCommApplicationMulticast:callbackCheckEndTx(): Finished Tx, device: 0110110|0000000000000011101001000 success: false total: 0 first attempt: +2.8e+11ns fcnt: 10 FPort: 28
++290.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 3.02668
++300.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 3.02668
++310.000000000s 0 ObjectCommApplicationMulticast:SendMulticastInitRequest(0x61dc803f4cc0)
++310.000000000s 0 ObjectCommApplicationMulticast:SendMulticastInitRequest(): Send age: 300 300
++310.000000000s 0 LoraPhy:GetOnAirTime(0x61dc803fab20, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 14 bytes
++310.000000000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 128, den = 28, payloadSymbNb = 33, tSym = 0.001024 crc = 1 CR = 1
++310.000000000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++310.000000000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.033792
++310.000000000s 0 LoraPhy:GetOnAirTime(): Total time = 0.046336
++310.000000000s 0 LoraPhy:GetMobility()
++310.000000000s 0 LoraPhy:GetMobility()
++310.000000000s 0 LoraPhy:GetOnAirTime(0x61dc803fab20, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 14 bytes
++310.000000000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 128, den = 28, payloadSymbNb = 33, tSym = 0.001024 crc = 1 CR = 1
++310.000000000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++310.000000000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.033792
++310.000000000s 0 LoraPhy:GetOnAirTime(): Total time = 0.046336
++310.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 3.31744
++310.046336176s 2 NetworkControllerComponent:SwitchToState(): Network server switch state to 2
++310.046336176s 2 NetworkControllerComponent:SelectParamsForBroadcast(): Make multicast using DR: 6.95272e-310 with freq: 869.525
++310.046336176s 2 NetworkControllerComponent:EmitObject(): Start emitting now
++310.046336176s 2 NetworkControllerComponent:EmitObject(): Start round 1
++310.046336176s 2 NetworkControllerComponent:EmitObject(): With PLSIZE 227 and 9
++310.046336176s 2 NetworkControllerComponent:EmitObject(): nb fragments no red: 9 with CR=0, nb fragments =9
++310.046336176s 2 NetworkControllerComponent:EmitObject(): Schedule SendThroughGW in 610.046 s, tot=0/8 DR: 5 Freq: 869.525 pl size: 227
++310.046336176s 2 NetworkControllerComponent:EmitObject(): Schedule SendThroughGW in 610.046 s, tot=1/8 DR: 5 Freq: 869.525 pl size: 227
++310.046336176s 2 NetworkControllerComponent:EmitObject(): Schedule SendThroughGW in 610.046 s, tot=2/8 DR: 5 Freq: 869.525 pl size: 227
++310.046336176s 2 NetworkControllerComponent:EmitObject(): Schedule SendThroughGW in 610.046 s, tot=3/8 DR: 5 Freq: 869.525 pl size: 227
++310.046336176s 2 NetworkControllerComponent:EmitObject(): Schedule SendThroughGW in 610.046 s, tot=4/8 DR: 5 Freq: 869.525 pl size: 227
++310.046336176s 2 NetworkControllerComponent:EmitObject(): Schedule SendThroughGW in 610.046 s, tot=5/8 DR: 5 Freq: 869.525 pl size: 227
++310.046336176s 2 NetworkControllerComponent:EmitObject(): Schedule SendThroughGW in 610.046 s, tot=6/8 DR: 5 Freq: 869.525 pl size: 227
++310.046336176s 2 NetworkControllerComponent:EmitObject(): Schedule SendThroughGW in 610.046 s, tot=7/8 DR: 5 Freq: 869.525 pl size: 227
++310.046336176s 2 NetworkControllerComponent:EmitObject(): Schedule SendThroughGW in 610.046 s, tot=8/8 DR: 5 Freq: 869.525 pl size: 227
++310.046336176s 2 NetworkControllerComponent:EmitObject(): Go back to init in 600seconds
++311.046336352s 1 LoraPhy:GetOnAirTime(0x61dc803fb420, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 20 bytes
++311.046336352s 1 LoraPhy:GetOnAirTime(): Time computation: num = 176, den = 28, payloadSymbNb = 43, tSym = 0.001024 crc = 1 CR = 1
++311.046336352s 1 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++311.046336352s 1 LoraPhy:GetOnAirTime(): tPayload = 0.044032
++311.046336352s 1 LoraPhy:GetOnAirTime(): Total time = 0.056576
++311.046336352s 1 LoraPhy:GetOnAirTime(0x61dc803fb420, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 20 bytes
++311.046336352s 1 LoraPhy:GetOnAirTime(): Time computation: num = 176, den = 28, payloadSymbNb = 43, tSym = 0.001024 crc = 1 CR = 1
++311.046336352s 1 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++311.046336352s 1 LoraPhy:GetOnAirTime(): tPayload = 0.044032
++311.046336352s 1 LoraPhy:GetOnAirTime(): Total time = 0.056576
++311.046336352s 1 LoraPhy:GetMobility()
++311.046336352s 1 LoraPhy:GetMobility()
++311.102912400s 0 ClassAEndDeviceLorawanMac:Receive(): Found a downlink packet.
++311.102912400s 0 ClassAEndDeviceLorawanMac:Receive(): The message is for us!
++311.102912400s 0 ObjectCommApplicationMulticast:callbackCheckEndTx(): Finished Tx, device: 0110110|0000000000000011101001000 success: true total: 0 first attempt: +3.1e+11ns fcnt: 11 FPort: 28
++311.102912400s 0 ObjectCommApplicationMulticast:ProcessFragSessionSetupReq(): Received pkt FRAGSETUP from 0110110|0000000000000011101001000
++311.102912400s 0 ObjectCommApplicationMulticast:ProcessFragSessionSetupReq(): ACK Frag setup: Object of 2043bytes, Nb fragments: 9 fragment Size: 230
++311.102912400s 0 ObjectCommApplicationMulticast:callbackReception(): Received ACK on 0110110|0000000000000011101001000 type: 0 multicastStarted: false FPort: 202
++311.602912400s 0 ObjectCommApplicationMulticast:SendClassCSetupRequest(): Send class C session request
++314.587264000s 0 LoraPhy:GetOnAirTime(0x61dc803fb120, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 9 bytes
++314.587264000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 88, den = 28, payloadSymbNb = 28, tSym = 0.001024 crc = 1 CR = 1
++314.587264000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++314.587264000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.028672
++314.587264000s 0 LoraPhy:GetOnAirTime(): Total time = 0.041216
++314.587264000s 0 LoraPhy:GetMobility()
++314.587264000s 0 LoraPhy:GetMobility()
++314.587264000s 0 LoraPhy:GetOnAirTime(0x61dc803fb120, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 9 bytes
++314.587264000s 0 LoraPhy:GetOnAirTime(): Time computation: num = 88, den = 28, payloadSymbNb = 28, tSym = 0.001024 crc = 1 CR = 1
++314.587264000s 0 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++314.587264000s 0 LoraPhy:GetOnAirTime(): tPayload = 0.028672
++314.587264000s 0 LoraPhy:GetOnAirTime(): Total time = 0.041216
++316.628480010s 0 ClassAEndDeviceLorawanMac:OpenSecondReceiveWindow(): Using parameters: 869.525Hz, DR0
++316.628480312s 1 LoraPhy:GetOnAirTime(0x61dc803fb8f0, SF: 12, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: true))
+Packet of size 20 bytes
++316.628480312s 1 LoraPhy:GetOnAirTime(): Time computation: num = 156, den = 40, payloadSymbNb = 28, tSym = 0.032768 crc = 1 CR = 1
++316.628480312s 1 LoraPhy:GetOnAirTime(): tPreamble = 0.401408
++316.628480312s 1 LoraPhy:GetOnAirTime(): tPayload = 0.917504
++316.628480312s 1 LoraPhy:GetOnAirTime(): Total time = 1.31891
++316.628480312s 1 LoraPhy:GetOnAirTime(0x61dc803fb8f0, SF: 12, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: true))
+Packet of size 20 bytes
++316.628480312s 1 LoraPhy:GetOnAirTime(): Time computation: num = 156, den = 40, payloadSymbNb = 28, tSym = 0.032768 crc = 1 CR = 1
++316.628480312s 1 LoraPhy:GetOnAirTime(): tPreamble = 0.401408
++316.628480312s 1 LoraPhy:GetOnAirTime(): tPayload = 0.917504
++316.628480312s 1 LoraPhy:GetOnAirTime(): Total time = 1.31891
++316.628480312s 1 LoraPhy:GetMobility()
++316.628480312s 1 LoraPhy:GetMobility()
++317.947392360s 0 ClassAEndDeviceLorawanMac:Receive(): Found a downlink packet.
++317.947392360s 0 ClassAEndDeviceLorawanMac:Receive(): The message is for us!
++317.947392360s 0 ObjectCommApplicationMulticast:callbackCheckEndTx(): Finished Tx, device: 0110110|0000000000000011101001000 success: true total: 0 first attempt: +3.14587e+11ns fcnt: 12 FPort: 29
++317.947392360s 0 ObjectCommApplicationMulticast:ProcessClassCSessionReq(): Received class C info: 869.525 5 609 scheduled at time +6.09e+11ns
++317.947392360s 0 ObjectCommApplicationMulticast:ProcessClassCSessionReq(): Open continuous receive window at time 609
++317.947392360s 0 ObjectCommApplicationMulticast:callbackReception(): Received ACK on 0110110|0000000000000011101001000 type: 0 multicastStarted: true FPort: 204
++320.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 3.42343
++400.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 3.42343
++500.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 3.42343
++600.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 3.42343
++610.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 6.47948
++610.046336176s 2 NetworkControllerComponent:SwitchToState(): Network server switch state to 3
++610.046338104s 1 LoraPhy:GetOnAirTime(0x61dc803fb960, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 239 bytes
++610.046338104s 1 LoraPhy:GetOnAirTime(): Time computation: num = 1928, den = 28, payloadSymbNb = 353, tSym = 0.001024 crc = 1 CR = 1
++610.046338104s 1 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++610.046338104s 1 LoraPhy:GetOnAirTime(): tPayload = 0.361472
++610.046338104s 1 LoraPhy:GetOnAirTime(): Total time = 0.374016
++610.046338104s 1 LoraPhy:GetOnAirTime(0x61dc803fb960, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 239 bytes
++610.046338104s 1 LoraPhy:GetOnAirTime(): Time computation: num = 1928, den = 28, payloadSymbNb = 353, tSym = 0.001024 crc = 1 CR = 1
++610.046338104s 1 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++610.046338104s 1 LoraPhy:GetOnAirTime(): tPayload = 0.361472
++610.046338104s 1 LoraPhy:GetOnAirTime(): Total time = 0.374016
++610.046338104s 1 LoraPhy:GetMobility()
++610.046338104s 1 LoraPhy:GetMobility()
++610.420354152s 0 ClassAEndDeviceLorawanMac:Receive(): Found a downlink packet.
++610.420354152s 0 ClassAEndDeviceLorawanMac:Receive(): The message is for us!
++610.420354152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Client received 227 bytes, total 227 fragsize:230
++610.420354152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Schedule timeout after 1024
++610.420354152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Fragment Map: [=........] (1/9)
++610.420354152s 0 ObjectCommApplicationMulticast:callbackReception(): Received ACK on 0110110|0000000000000011101001000 type: 0 multicastStarted: true FPort: 200
++613.412482104s 1 LoraPhy:GetOnAirTime(0x61dc803fbb90, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 239 bytes
++613.412482104s 1 LoraPhy:GetOnAirTime(): Time computation: num = 1928, den = 28, payloadSymbNb = 353, tSym = 0.001024 crc = 1 CR = 1
++613.412482104s 1 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++613.412482104s 1 LoraPhy:GetOnAirTime(): tPayload = 0.361472
++613.412482104s 1 LoraPhy:GetOnAirTime(): Total time = 0.374016
++613.412482104s 1 LoraPhy:GetOnAirTime(0x61dc803fbb90, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 239 bytes
++613.412482104s 1 LoraPhy:GetOnAirTime(): Time computation: num = 1928, den = 28, payloadSymbNb = 353, tSym = 0.001024 crc = 1 CR = 1
++613.412482104s 1 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++613.412482104s 1 LoraPhy:GetOnAirTime(): tPayload = 0.361472
++613.412482104s 1 LoraPhy:GetOnAirTime(): Total time = 0.374016
++613.412482104s 1 LoraPhy:GetMobility()
++613.412482104s 1 LoraPhy:GetMobility()
++613.786498152s 0 ClassAEndDeviceLorawanMac:Receive(): Found a downlink packet.
++613.786498152s 0 ClassAEndDeviceLorawanMac:Receive(): The message is for us!
++613.786498152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Client received 227 bytes, total 454 fragsize:230
++613.786498152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Schedule timeout after 1024
++613.786498152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Fragment Map: [=..=.....] (2/9)
++613.786498152s 0 ObjectCommApplicationMulticast:callbackReception(): Received ACK on 0110110|0000000000000011101001000 type: 0 multicastStarted: true FPort: 200
++616.778626104s 1 LoraPhy:GetOnAirTime(0x61dc803fc3f0, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 239 bytes
++616.778626104s 1 LoraPhy:GetOnAirTime(): Time computation: num = 1928, den = 28, payloadSymbNb = 353, tSym = 0.001024 crc = 1 CR = 1
++616.778626104s 1 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++616.778626104s 1 LoraPhy:GetOnAirTime(): tPayload = 0.361472
++616.778626104s 1 LoraPhy:GetOnAirTime(): Total time = 0.374016
++616.778626104s 1 LoraPhy:GetOnAirTime(0x61dc803fc3f0, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 239 bytes
++616.778626104s 1 LoraPhy:GetOnAirTime(): Time computation: num = 1928, den = 28, payloadSymbNb = 353, tSym = 0.001024 crc = 1 CR = 1
++616.778626104s 1 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++616.778626104s 1 LoraPhy:GetOnAirTime(): tPayload = 0.361472
++616.778626104s 1 LoraPhy:GetOnAirTime(): Total time = 0.374016
++616.778626104s 1 LoraPhy:GetMobility()
++616.778626104s 1 LoraPhy:GetMobility()
++617.152642152s 0 ClassAEndDeviceLorawanMac:Receive(): Found a downlink packet.
++617.152642152s 0 ClassAEndDeviceLorawanMac:Receive(): The message is for us!
++617.152642152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Client received 227 bytes, total 681 fragsize:230
++617.152642152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Schedule timeout after 1024
++617.152642152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Fragment Map: [=..=..=..] (3/9)
++617.152642152s 0 ObjectCommApplicationMulticast:callbackReception(): Received ACK on 0110110|0000000000000011101001000 type: 0 multicastStarted: true FPort: 200
++620.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 6.66536
++620.144770104s 1 LoraPhy:GetOnAirTime(0x61dc803fcc60, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 239 bytes
++620.144770104s 1 LoraPhy:GetOnAirTime(): Time computation: num = 1928, den = 28, payloadSymbNb = 353, tSym = 0.001024 crc = 1 CR = 1
++620.144770104s 1 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++620.144770104s 1 LoraPhy:GetOnAirTime(): tPayload = 0.361472
++620.144770104s 1 LoraPhy:GetOnAirTime(): Total time = 0.374016
++620.144770104s 1 LoraPhy:GetOnAirTime(0x61dc803fcc60, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 239 bytes
++620.144770104s 1 LoraPhy:GetOnAirTime(): Time computation: num = 1928, den = 28, payloadSymbNb = 353, tSym = 0.001024 crc = 1 CR = 1
++620.144770104s 1 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++620.144770104s 1 LoraPhy:GetOnAirTime(): tPayload = 0.361472
++620.144770104s 1 LoraPhy:GetOnAirTime(): Total time = 0.374016
++620.144770104s 1 LoraPhy:GetMobility()
++620.144770104s 1 LoraPhy:GetMobility()
++620.518786152s 0 ClassAEndDeviceLorawanMac:Receive(): Found a downlink packet.
++620.518786152s 0 ClassAEndDeviceLorawanMac:Receive(): The message is for us!
++620.518786152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Client received 227 bytes, total 908 fragsize:230
++620.518786152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Schedule timeout after 1024
++620.518786152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Fragment Map: [=..=..=.=] (4/9)
++620.518786152s 0 ObjectCommApplicationMulticast:callbackReception(): Received ACK on 0110110|0000000000000011101001000 type: 0 multicastStarted: true FPort: 200
++623.510914104s 1 LoraPhy:GetOnAirTime(0x61dc803fd200, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 239 bytes
++623.510914104s 1 LoraPhy:GetOnAirTime(): Time computation: num = 1928, den = 28, payloadSymbNb = 353, tSym = 0.001024 crc = 1 CR = 1
++623.510914104s 1 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++623.510914104s 1 LoraPhy:GetOnAirTime(): tPayload = 0.361472
++623.510914104s 1 LoraPhy:GetOnAirTime(): Total time = 0.374016
++623.510914104s 1 LoraPhy:GetOnAirTime(0x61dc803fd200, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 239 bytes
++623.510914104s 1 LoraPhy:GetOnAirTime(): Time computation: num = 1928, den = 28, payloadSymbNb = 353, tSym = 0.001024 crc = 1 CR = 1
++623.510914104s 1 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++623.510914104s 1 LoraPhy:GetOnAirTime(): tPayload = 0.361472
++623.510914104s 1 LoraPhy:GetOnAirTime(): Total time = 0.374016
++623.510914104s 1 LoraPhy:GetMobility()
++623.510914104s 1 LoraPhy:GetMobility()
++623.884930152s 0 ClassAEndDeviceLorawanMac:Receive(): Found a downlink packet.
++623.884930152s 0 ClassAEndDeviceLorawanMac:Receive(): The message is for us!
++623.884930152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Client received 227 bytes, total 1135 fragsize:230
++623.884930152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Schedule timeout after 1024
++623.884930152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Fragment Map: [=..=..===] (5/9)
++623.884930152s 0 ObjectCommApplicationMulticast:callbackReception(): Received ACK on 0110110|0000000000000011101001000 type: 0 multicastStarted: true FPort: 200
++626.877058104s 1 LoraPhy:GetOnAirTime(0x61dc803fcf30, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 239 bytes
++626.877058104s 1 LoraPhy:GetOnAirTime(): Time computation: num = 1928, den = 28, payloadSymbNb = 353, tSym = 0.001024 crc = 1 CR = 1
++626.877058104s 1 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++626.877058104s 1 LoraPhy:GetOnAirTime(): tPayload = 0.361472
++626.877058104s 1 LoraPhy:GetOnAirTime(): Total time = 0.374016
++626.877058104s 1 LoraPhy:GetOnAirTime(0x61dc803fcf30, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 239 bytes
++626.877058104s 1 LoraPhy:GetOnAirTime(): Time computation: num = 1928, den = 28, payloadSymbNb = 353, tSym = 0.001024 crc = 1 CR = 1
++626.877058104s 1 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++626.877058104s 1 LoraPhy:GetOnAirTime(): tPayload = 0.361472
++626.877058104s 1 LoraPhy:GetOnAirTime(): Total time = 0.374016
++626.877058104s 1 LoraPhy:GetMobility()
++626.877058104s 1 LoraPhy:GetMobility()
++627.251074152s 0 ClassAEndDeviceLorawanMac:Receive(): Found a downlink packet.
++627.251074152s 0 ClassAEndDeviceLorawanMac:Receive(): The message is for us!
++627.251074152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Client received 227 bytes, total 1362 fragsize:230
++627.251074152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Schedule timeout after 1024
++627.251074152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Fragment Map: [=..=.====] (6/9)
++627.251074152s 0 ObjectCommApplicationMulticast:callbackReception(): Received ACK on 0110110|0000000000000011101001000 type: 0 multicastStarted: true FPort: 200
++630.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 6.8956
++630.243202104s 1 LoraPhy:GetOnAirTime(0x61dc803fc990, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 239 bytes
++630.243202104s 1 LoraPhy:GetOnAirTime(): Time computation: num = 1928, den = 28, payloadSymbNb = 353, tSym = 0.001024 crc = 1 CR = 1
++630.243202104s 1 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++630.243202104s 1 LoraPhy:GetOnAirTime(): tPayload = 0.361472
++630.243202104s 1 LoraPhy:GetOnAirTime(): Total time = 0.374016
++630.243202104s 1 LoraPhy:GetOnAirTime(0x61dc803fc990, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 239 bytes
++630.243202104s 1 LoraPhy:GetOnAirTime(): Time computation: num = 1928, den = 28, payloadSymbNb = 353, tSym = 0.001024 crc = 1 CR = 1
++630.243202104s 1 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++630.243202104s 1 LoraPhy:GetOnAirTime(): tPayload = 0.361472
++630.243202104s 1 LoraPhy:GetOnAirTime(): Total time = 0.374016
++630.243202104s 1 LoraPhy:GetMobility()
++630.243202104s 1 LoraPhy:GetMobility()
++630.617218152s 0 ClassAEndDeviceLorawanMac:Receive(): Found a downlink packet.
++630.617218152s 0 ClassAEndDeviceLorawanMac:Receive(): The message is for us!
++630.617218152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Client received 227 bytes, total 1589 fragsize:230
++630.617218152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Schedule timeout after 1024
++630.617218152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Fragment Map: [=..======] (7/9)
++630.617218152s 0 ObjectCommApplicationMulticast:callbackReception(): Received ACK on 0110110|0000000000000011101001000 type: 0 multicastStarted: true FPort: 200
++633.609346104s 1 LoraPhy:GetOnAirTime(0x61dc803fc6c0, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 239 bytes
++633.609346104s 1 LoraPhy:GetOnAirTime(): Time computation: num = 1928, den = 28, payloadSymbNb = 353, tSym = 0.001024 crc = 1 CR = 1
++633.609346104s 1 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++633.609346104s 1 LoraPhy:GetOnAirTime(): tPayload = 0.361472
++633.609346104s 1 LoraPhy:GetOnAirTime(): Total time = 0.374016
++633.609346104s 1 LoraPhy:GetOnAirTime(0x61dc803fc6c0, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 239 bytes
++633.609346104s 1 LoraPhy:GetOnAirTime(): Time computation: num = 1928, den = 28, payloadSymbNb = 353, tSym = 0.001024 crc = 1 CR = 1
++633.609346104s 1 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++633.609346104s 1 LoraPhy:GetOnAirTime(): tPayload = 0.361472
++633.609346104s 1 LoraPhy:GetOnAirTime(): Total time = 0.374016
++633.609346104s 1 LoraPhy:GetMobility()
++633.609346104s 1 LoraPhy:GetMobility()
++633.983362152s 0 ClassAEndDeviceLorawanMac:Receive(): Found a downlink packet.
++633.983362152s 0 ClassAEndDeviceLorawanMac:Receive(): The message is for us!
++633.983362152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Client received 227 bytes, total 1816 fragsize:230
++633.983362152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Schedule timeout after 1024
++633.983362152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Fragment Map: [=.=======] (8/9)
++633.983362152s 0 ObjectCommApplicationMulticast:callbackReception(): Received ACK on 0110110|0000000000000011101001000 type: 0 multicastStarted: true FPort: 200
++636.975490104s 1 LoraPhy:GetOnAirTime(0x61dc803fbc00, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 239 bytes
++636.975490104s 1 LoraPhy:GetOnAirTime(): Time computation: num = 1928, den = 28, payloadSymbNb = 353, tSym = 0.001024 crc = 1 CR = 1
++636.975490104s 1 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++636.975490104s 1 LoraPhy:GetOnAirTime(): tPayload = 0.361472
++636.975490104s 1 LoraPhy:GetOnAirTime(): Total time = 0.374016
++636.975490104s 1 LoraPhy:GetOnAirTime(0x61dc803fbc00, SF: 7, headerDisabled: false, codingRate: 1, bandwidthHz: 125000, nPreamble: 8, crcEnabled: true, lowDataRateOptimizationEnabled: false))
+Packet of size 239 bytes
++636.975490104s 1 LoraPhy:GetOnAirTime(): Time computation: num = 1928, den = 28, payloadSymbNb = 353, tSym = 0.001024 crc = 1 CR = 1
++636.975490104s 1 LoraPhy:GetOnAirTime(): tPreamble = 0.012544
++636.975490104s 1 LoraPhy:GetOnAirTime(): tPayload = 0.361472
++636.975490104s 1 LoraPhy:GetOnAirTime(): Total time = 0.374016
++636.975490104s 1 LoraPhy:GetMobility()
++636.975490104s 1 LoraPhy:GetMobility()
++637.349506152s 0 ClassAEndDeviceLorawanMac:Receive(): Found a downlink packet.
++637.349506152s 0 ClassAEndDeviceLorawanMac:Receive(): The message is for us!
++637.349506152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Client received 227 bytes, total 2043 fragsize:230
++637.349506152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Update finished, started 609 finished 637.35 total 28.3495 DR.: 5
++637.349506152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Received 2043/2043 bytes: stopping now, we have enough fragments to reconstruct the original data. Nb_frag_rec / Nb_frag_total: 9/9 with CR= 0
++637.349506152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Multicast started 609 finished 637.35
++637.349506152s 0 ObjectCommApplicationMulticast:ProcessMulticastFragRecReq(): Fragment Map: [=========] (9/9)
++637.349506152s 0 ObjectCommApplicationMulticast:callbackReception(): Received ACK on 0110110|0000000000000011101001000 type: 0 multicastStarted: true FPort: 200
++640.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++700.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++800.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++900.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++910.046336176s 2 NetworkControllerComponent:SwitchToState(): Network server switch state to 0
++1000.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++1100.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++1200.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++1300.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++1400.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++1500.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++1600.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++1700.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++1800.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++1900.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++2000.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++2100.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++2200.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++2300.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++2400.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++2500.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++2600.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++2700.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++2800.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++2900.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++3000.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++3100.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++3200.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++3300.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++3400.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++3500.000000000s -1 BulkCommAppMulticast:logEnergy(): Total energy: 7.12585
++3600.000000000s -1 ObjectCommApplicationMulticast:PrintLastUpdateTime(): Last update: 637.35 s.

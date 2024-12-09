@@ -1,0 +1,32 @@
+../Core/Inc/nn.hpp:53:14:void* PushSize(memory_arena*, size_t)	8	static
+../Core/Inc/nn.hpp:62:6:void InitMemory()	0	static
+../Core/Inc/nn.hpp:76:5:f32 uniform_randf()	16	static
+../Core/Inc/nn.hpp:81:8:int8_t uniform_rand()	8	static
+../Core/Inc/nn.hpp:106:14:static M M::zeros(uint32_t, uint32_t)	24	static
+../Core/Inc/nn.hpp:146:10:void M::print()	24	static
+../Core/Inc/nn.hpp:501:4:M4 operator*(f32, M4)	40	static
+../Core/Inc/nn.hpp:511:4:M4 operator-(M4, M4)	32	static
+../Core/Inc/nn.hpp:522:3:M operator*(f32, M)	32	static
+../Core/Inc/nn.hpp:541:6:void mt_seed(mt_state*, unsigned int)	8	static
+../Core/Inc/nn.hpp:549:6:void mt_twist(mt_state*)	20	static
+../Core/Inc/nn.hpp:560:14:unsigned int mt_rand(mt_state*)	8	static
+../Core/Inc/nn.hpp:572:8:double mt_rand_double(mt_state*)	8	static
+../Core/Inc/nn.hpp:576:5:f32 clip_by_value(f32, f32, f32)	16	static
+../Core/Inc/nn.hpp:600:3:M Softmax(M)	48	static
+../Core/Inc/nn.hpp:618:3:M SoftmaxPrime(M)	64	static
+../Core/Inc/nn.hpp:639:3:M Sigmoid(M)	48	static
+../Core/Inc/nn.hpp:650:3:M SigmoidPrime(M)	48	static
+../Core/Inc/nn.hpp:661:3:M Relu(M)	48	static
+../Core/Inc/nn.hpp:671:3:M ReluPrime(M)	48	static
+../Core/Inc/nn.hpp:681:3:M Tanh(M)	40	static
+../Core/Inc/nn.hpp:691:3:M TanhPrime(M)	40	static
+../Core/Inc/nn.hpp:701:6:void setRandomUniform(double, double)	8	static
+../Core/Inc/nn.hpp:721:19:static Layer* Layer::create(uint32_t, uint32_t)	48	static
+../Core/Inc/nn.hpp:741:7:M Layer::forward(M)	48	static
+../Core/Inc/nn.hpp:813:10:void Layer::print()	8	static
+../Core/Inc/nn.hpp:875:8:Size3D get_output_from_kernel(uint32_t, uint32_t, uint32_t, uint32_t, uint32_t)	12	static
+../Core/Src/main.cpp:174:6:void SystemClock_Config()	112	static,ignoring_inline_asm
+../Core/Src/main.cpp:264:3:M predict(M)	80	static
+../Core/Src/main.cpp:281:6:void SystemClock_Decrease()	112	static
+../Core/Src/main.cpp:72:5:int main()	72	static,ignoring_inline_asm
+../Core/Src/main.cpp:314:6:void Error_Handler()	0	static,ignoring_inline_asm

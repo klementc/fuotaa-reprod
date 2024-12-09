@@ -1,0 +1,6087 @@
+Weights matrix: 1 x 8
+136 194 59 72 75 74 80 201 
+Bias matrix: 1 x8
+0 0 0 0 0 0 0 0 
+Weights matrix: 8 x 8
+57 4 159 195 191 56 202 29 
+159 193 215 63 50 125 8 30 
+38 74 241 237 46 101 96 10 
+153 251 187 0 148 72 117 145 
+194 82 9 185 34 56 188 166 
+83 179 53 11 137 31 39 73 
+148 66 103 128 186 192 23 189 
+221 88 97 153 79 72 94 239 
+Bias matrix: 1 x8
+0 0 0 0 0 0 0 0 
+Weights matrix: 8 x 1
+201 
+237 
+76 
+13 
+72 
+158 
+12 
+138 
+Bias matrix: 1 x1
+0 
+Starting
+0 
+Prediction 0 took 208 us
+0 
+Prediction 1 took 207 us
+0 
+Prediction 2 took 207 us
+0 
+Prediction 3 took 208 us
+0 
+Prediction 4 took 208 us
+0 
+Prediction 5 took 208 us
+0 
+Prediction 6 took 208 us
+0 
+Prediction 7 took 208 us
+0 
+Prediction 8 took 208 us
+0 
+Prediction 9 took 208 us
+0 
+Prediction 10 took 207 us
+0 
+Prediction 11 took 207 us
+0 
+Prediction 12 took 208 us
+0 
+Prediction 13 took 208 us
+0 
+Prediction 14 took 208 us
+0 
+Prediction 15 took 208 us
+0 
+Prediction 16 took 207 us
+0 
+Prediction 17 took 208 us
+0 
+Prediction 18 took 207 us
+0 
+Prediction 19 took 208 us
+0 
+Prediction 20 took 207 us
+0 
+Prediction 21 took 206 us
+0 
+Prediction 22 took 208 us
+0 
+Prediction 23 took 207 us
+0 
+Prediction 24 took 207 us
+0 
+Prediction 25 took 208 us
+0 
+Prediction 26 took 207 us
+0 
+Prediction 27 took 208 us
+0 
+Prediction 28 took 208 us
+0 
+Prediction 29 took 208 us
+0 
+Prediction 30 took 207 us
+0 
+Prediction 31 took 207 us
+0 
+Prediction 32 took 208 us
+0 
+Prediction 33 took 208 us
+0 
+Prediction 34 took 208 us
+0 
+Prediction 35 took 207 us
+0 
+Prediction 36 took 209 us
+0 
+Prediction 37 took 207 us
+0 
+Prediction 38 took 207 us
+0 
+Prediction 39 took 208 us
+0 
+Prediction 40 took 207 us
+0 
+Prediction 41 took 208 us
+0 
+Prediction 42 took 207 us
+0 
+Prediction 43 took 209 us
+0 
+Prediction 44 took 208 us
+0 
+Prediction 45 took 208 us
+0 
+Prediction 46 took 207 us
+0 
+Prediction 47 took 207 us
+0 
+Prediction 48 took 207 us
+0 
+Prediction 49 took 207 us
+0 
+Prediction 50 took 208 us
+0 
+Prediction 51 took 208 us
+0 
+Prediction 52 took 208 us
+0 
+Prediction 53 took 208 us
+0 
+Prediction 54 took 207 us
+0 
+Prediction 55 took 207 us
+0 
+Prediction 56 took 208 us
+0 
+Prediction 57 took 207 us
+0 
+Prediction 58 took 208 us
+0 
+Prediction 59 took 208 us
+0 
+Prediction 60 took 207 us
+0 
+Prediction 61 took 208 us
+0 
+Prediction 62 took 207 us
+0 
+Prediction 63 took 208 us
+0 
+Prediction 64 took 207 us
+0 
+Prediction 65 took 208 us
+0 
+Prediction 66 took 208 us
+0 
+Prediction 67 took 208 us
+0 
+Prediction 68 took 208 us
+0 
+Prediction 69 took 207 us
+0 
+Prediction 70 took 207 us
+0 
+Prediction 71 took 207 us
+0 
+Prediction 72 took 208 us
+0 
+Prediction 73 took 208 us
+0 
+Prediction 74 took 209 us
+0 
+Prediction 75 took 208 us
+0 
+Prediction 76 took 207 us
+0 
+Prediction 77 took 207 us
+0 
+Prediction 78 took 208 us
+0 
+Prediction 79 took 207 us
+0 
+Prediction 80 took 207 us
+0 
+Prediction 81 took 208 us
+0 
+Prediction 82 took 208 us
+0 
+Prediction 83 took 207 us
+0 
+Prediction 84 took 207 us
+0 
+Prediction 85 took 208 us
+0 
+Prediction 86 took 207 us
+0 
+Prediction 87 took 208 us
+0 
+Prediction 88 took 208 us
+0 
+Prediction 89 took 208 us
+0 
+Prediction 90 took 207 us
+0 
+Prediction 91 took 208 us
+0 
+Prediction 92 took 207 us
+0 
+Prediction 93 took 207 us
+0 
+Prediction 94 took 207 us
+0 
+Prediction 95 took 207 us
+0 
+Prediction 96 took 208 us
+0 
+Prediction 97 took 208 us
+0 
+Prediction 98 took 207 us
+0 
+Prediction 99 took 208 us
+0 
+Prediction 100 took 207 us
+0 
+Prediction 101 took 208 us
+0 
+Prediction 102 took 208 us
+0 
+Prediction 103 took 208 us
+0 
+Prediction 104 took 207 us
+0 
+Prediction 105 took 208 us
+0 
+Prediction 106 took 208 us
+0 
+Prediction 107 took 208 us
+0 
+Prediction 108 took 208 us
+0 
+Prediction 109 took 207 us
+0 
+Prediction 110 took 207 us
+0 
+Prediction 111 took 208 us
+0 
+Prediction 112 took 207 us
+0 
+Prediction 113 took 207 us
+0 
+Prediction 114 took 208 us
+0 
+Prediction 115 took 208 us
+0 
+Prediction 116 took 208 us
+0 
+Prediction 117 took 208 us
+0 
+Prediction 118 took 207 us
+0 
+Prediction 119 took 207 us
+0 
+Prediction 120 took 209 us
+0 
+Prediction 121 took 207 us
+0 
+Prediction 122 took 208 us
+0 
+Prediction 123 took 207 us
+0 
+Prediction 124 took 207 us
+0 
+Prediction 125 took 207 us
+0 
+Prediction 126 took 207 us
+0 
+Prediction 127 took 208 us
+0 
+Prediction 128 took 208 us
+0 
+Prediction 129 took 208 us
+0 
+Prediction 130 took 207 us
+0 
+Prediction 131 took 208 us
+0 
+Prediction 132 took 208 us
+0 
+Prediction 133 took 209 us
+0 
+Prediction 134 took 208 us
+0 
+Prediction 135 took 207 us
+0 
+Prediction 136 took 208 us
+0 
+Prediction 137 took 208 us
+0 
+Prediction 138 took 208 us
+0 
+Prediction 139 took 208 us
+0 
+Prediction 140 took 207 us
+0 
+Prediction 141 took 208 us
+0 
+Prediction 142 took 209 us
+0 
+Prediction 143 took 208 us
+0 
+Prediction 144 took 207 us
+0 
+Prediction 145 took 208 us
+0 
+Prediction 146 took 208 us
+0 
+Prediction 147 took 209 us
+0 
+Prediction 148 took 207 us
+0 
+Prediction 149 took 208 us
+0 
+Prediction 150 took 207 us
+0 
+Prediction 151 took 208 us
+0 
+Prediction 152 took 208 us
+0 
+Prediction 153 took 207 us
+0 
+Prediction 154 took 208 us
+0 
+Prediction 155 took 207 us
+0 
+Prediction 156 took 208 us
+0 
+Prediction 157 took 208 us
+0 
+Prediction 158 took 207 us
+0 
+Prediction 159 took 208 us
+0 
+Prediction 160 took 209 us
+0 
+Prediction 161 took 207 us
+0 
+Prediction 162 took 208 us
+0 
+Prediction 163 took 207 us
+0 
+Prediction 164 took 207 us
+0 
+Prediction 165 took 207 us
+0 
+Prediction 166 took 207 us
+0 
+Prediction 167 took 207 us
+0 
+Prediction 168 took 207 us
+0 
+Prediction 169 took 208 us
+0 
+Prediction 170 took 207 us
+0 
+Prediction 171 took 208 us
+0 
+Prediction 172 took 208 us
+0 
+Prediction 173 took 209 us
+0 
+Prediction 174 took 207 us
+0 
+Prediction 175 took 207 us
+0 
+Prediction 176 took 208 us
+0 
+Prediction 177 took 208 us
+0 
+Prediction 178 took 208 us
+0 
+Prediction 179 took 207 us
+0 
+Prediction 180 took 207 us
+0 
+Prediction 181 took 207 us
+0 
+Prediction 182 took 209 us
+0 
+Prediction 183 took 207 us
+0 
+Prediction 184 took 208 us
+0 
+Prediction 185 took 207 us
+0 
+Prediction 186 took 207 us
+0 
+Prediction 187 took 208 us
+0 
+Prediction 188 took 207 us
+0 
+Prediction 189 took 208 us
+0 
+Prediction 190 took 208 us
+0 
+Prediction 191 took 208 us
+0 
+Prediction 192 took 208 us
+0 
+Prediction 193 took 207 us
+0 
+Prediction 194 took 208 us
+0 
+Prediction 195 took 208 us
+0 
+Prediction 196 took 208 us
+0 
+Prediction 197 took 208 us
+0 
+Prediction 198 took 207 us
+0 
+Prediction 199 took 207 us
+0 
+Prediction 200 took 208 us
+0 
+Prediction 201 took 208 us
+0 
+Prediction 202 took 207 us
+0 
+Prediction 203 took 208 us
+0 
+Prediction 204 took 207 us
+0 
+Prediction 205 took 208 us
+0 
+Prediction 206 took 208 us
+0 
+Prediction 207 took 207 us
+0 
+Prediction 208 took 207 us
+0 
+Prediction 209 took 208 us
+0 
+Prediction 210 took 208 us
+0 
+Prediction 211 took 207 us
+0 
+Prediction 212 took 207 us
+0 
+Prediction 213 took 209 us
+0 
+Prediction 214 took 207 us
+0 
+Prediction 215 took 208 us
+0 
+Prediction 216 took 207 us
+0 
+Prediction 217 took 207 us
+0 
+Prediction 218 took 208 us
+0 
+Prediction 219 took 208 us
+0 
+Prediction 220 took 207 us
+0 
+Prediction 221 took 208 us
+0 
+Prediction 222 took 209 us
+0 
+Prediction 223 took 207 us
+0 
+Prediction 224 took 208 us
+0 
+Prediction 225 took 207 us
+0 
+Prediction 226 took 207 us
+0 
+Prediction 227 took 208 us
+0 
+Prediction 228 took 207 us
+0 
+Prediction 229 took 208 us
+0 
+Prediction 230 took 208 us
+0 
+Prediction 231 took 208 us
+0 
+Prediction 232 took 208 us
+0 
+Prediction 233 took 207 us
+0 
+Prediction 234 took 208 us
+0 
+Prediction 235 took 208 us
+0 
+Prediction 236 took 208 us
+0 
+Prediction 237 took 207 us
+0 
+Prediction 238 took 208 us
+0 
+Prediction 239 took 208 us
+0 
+Prediction 240 took 208 us
+0 
+Prediction 241 took 208 us
+0 
+Prediction 242 took 208 us
+0 
+Prediction 243 took 207 us
+0 
+Prediction 244 took 208 us
+0 
+Prediction 245 took 208 us
+0 
+Prediction 246 took 208 us
+0 
+Prediction 247 took 207 us
+0 
+Prediction 248 took 207 us
+0 
+Prediction 249 took 208 us
+0 
+Prediction 250 took 208 us
+0 
+Prediction 251 took 207 us
+0 
+Prediction 252 took 207 us
+0 
+Prediction 253 took 208 us
+0 
+Prediction 254 took 207 us
+0 
+Prediction 255 took 208 us
+0 
+Prediction 256 took 207 us
+0 
+Prediction 257 took 207 us
+0 
+Prediction 258 took 209 us
+0 
+Prediction 259 took 208 us
+0 
+Prediction 260 took 207 us
+0 
+Prediction 261 took 208 us
+0 
+Prediction 262 took 208 us
+0 
+Prediction 263 took 208 us
+0 
+Prediction 264 took 207 us
+0 
+Prediction 265 took 208 us
+0 
+Prediction 266 took 208 us
+0 
+Prediction 267 took 208 us
+0 
+Prediction 268 took 208 us
+0 
+Prediction 269 took 207 us
+0 
+Prediction 270 took 207 us
+0 
+Prediction 271 took 208 us
+0 
+Prediction 272 took 207 us
+0 
+Prediction 273 took 208 us
+0 
+Prediction 274 took 207 us
+0 
+Prediction 275 took 207 us
+0 
+Prediction 276 took 208 us
+0 
+Prediction 277 took 207 us
+0 
+Prediction 278 took 208 us
+0 
+Prediction 279 took 208 us
+0 
+Prediction 280 took 208 us
+0 
+Prediction 281 took 208 us
+0 
+Prediction 282 took 207 us
+0 
+Prediction 283 took 208 us
+0 
+Prediction 284 took 207 us
+0 
+Prediction 285 took 208 us
+0 
+Prediction 286 took 208 us
+0 
+Prediction 287 took 207 us
+0 
+Prediction 288 took 207 us
+0 
+Prediction 289 took 209 us
+0 
+Prediction 290 took 207 us
+0 
+Prediction 291 took 208 us
+0 
+Prediction 292 took 207 us
+0 
+Prediction 293 took 207 us
+0 
+Prediction 294 took 208 us
+0 
+Prediction 295 took 207 us
+0 
+Prediction 296 took 207 us
+0 
+Prediction 297 took 207 us
+0 
+Prediction 298 took 207 us
+0 
+Prediction 299 took 208 us
+0 
+Prediction 300 took 207 us
+0 
+Prediction 301 took 208 us
+0 
+Prediction 302 took 208 us
+0 
+Prediction 303 took 208 us
+0 
+Prediction 304 took 208 us
+0 
+Prediction 305 took 207 us
+0 
+Prediction 306 took 208 us
+0 
+Prediction 307 took 209 us
+0 
+Prediction 308 took 207 us
+0 
+Prediction 309 took 208 us
+0 
+Prediction 310 took 207 us
+0 
+Prediction 311 took 208 us
+0 
+Prediction 312 took 208 us
+0 
+Prediction 313 took 207 us
+0 
+Prediction 314 took 208 us
+0 
+Prediction 315 took 207 us
+0 
+Prediction 316 took 208 us
+0 
+Prediction 317 took 207 us
+0 
+Prediction 318 took 207 us
+0 
+Prediction 319 took 208 us
+0 
+Prediction 320 took 208 us
+0 
+Prediction 321 took 207 us
+0 
+Prediction 322 took 208 us
+0 
+Prediction 323 took 207 us
+0 
+Prediction 324 took 208 us
+0 
+Prediction 325 took 208 us
+0 
+Prediction 326 took 208 us
+0 
+Prediction 327 took 207 us
+0 
+Prediction 328 took 207 us
+0 
+Prediction 329 took 207 us
+0 
+Prediction 330 took 207 us
+0 
+Prediction 331 took 208 us
+0 
+Prediction 332 took 207 us
+0 
+Prediction 333 took 207 us
+0 
+Prediction 334 took 207 us
+0 
+Prediction 335 took 208 us
+0 
+Prediction 336 took 207 us
+0 
+Prediction 337 took 207 us
+0 
+Prediction 338 took 208 us
+0 
+Prediction 339 took 207 us
+0 
+Prediction 340 took 208 us
+0 
+Prediction 341 took 208 us
+0 
+Prediction 342 took 209 us
+0 
+Prediction 343 took 207 us
+0 
+Prediction 344 took 208 us
+0 
+Prediction 345 took 207 us
+0 
+Prediction 346 took 207 us
+0 
+Prediction 347 took 208 us
+0 
+Prediction 348 took 207 us
+0 
+Prediction 349 took 208 us
+0 
+Prediction 350 took 208 us
+0 
+Prediction 351 took 209 us
+0 
+Prediction 352 took 207 us
+0 
+Prediction 353 took 207 us
+0 
+Prediction 354 took 208 us
+0 
+Prediction 355 took 208 us
+0 
+Prediction 356 took 208 us
+0 
+Prediction 357 took 208 us
+0 
+Prediction 358 took 207 us
+0 
+Prediction 359 took 207 us
+0 
+Prediction 360 took 208 us
+0 
+Prediction 361 took 207 us
+0 
+Prediction 362 took 208 us
+0 
+Prediction 363 took 207 us
+0 
+Prediction 364 took 207 us
+0 
+Prediction 365 took 208 us
+0 
+Prediction 366 took 207 us
+0 
+Prediction 367 took 208 us
+0 
+Prediction 368 took 208 us
+0 
+Prediction 369 took 208 us
+0 
+Prediction 370 took 208 us
+0 
+Prediction 371 took 207 us
+0 
+Prediction 372 took 208 us
+0 
+Prediction 373 took 208 us
+0 
+Prediction 374 took 208 us
+0 
+Prediction 375 took 208 us
+0 
+Prediction 376 took 207 us
+0 
+Prediction 377 took 207 us
+0 
+Prediction 378 took 209 us
+0 
+Prediction 379 took 207 us
+0 
+Prediction 380 took 208 us
+0 
+Prediction 381 took 207 us
+0 
+Prediction 382 took 208 us
+0 
+Prediction 383 took 208 us
+0 
+Prediction 384 took 207 us
+0 
+Prediction 385 took 208 us
+0 
+Prediction 386 took 208 us
+0 
+Prediction 387 took 208 us
+0 
+Prediction 388 took 207 us
+0 
+Prediction 389 took 207 us
+0 
+Prediction 390 took 207 us
+0 
+Prediction 391 took 209 us
+0 
+Prediction 392 took 207 us
+0 
+Prediction 393 took 208 us
+0 
+Prediction 394 took 207 us
+0 
+Prediction 395 took 207 us
+0 
+Prediction 396 took 208 us
+0 
+Prediction 397 took 207 us
+0 
+Prediction 398 took 207 us
+0 
+Prediction 399 took 208 us
+0 
+Prediction 400 took 208 us
+0 
+Prediction 401 took 207 us
+0 
+Prediction 402 took 208 us
+0 
+Prediction 403 took 207 us
+0 
+Prediction 404 took 207 us
+0 
+Prediction 405 took 209 us
+0 
+Prediction 406 took 207 us
+0 
+Prediction 407 took 208 us
+0 
+Prediction 408 took 208 us
+0 
+Prediction 409 took 208 us
+0 
+Prediction 410 took 208 us
+0 
+Prediction 411 took 207 us
+0 
+Prediction 412 took 208 us
+0 
+Prediction 413 took 208 us
+0 
+Prediction 414 took 208 us
+0 
+Prediction 415 took 207 us
+0 
+Prediction 416 took 208 us
+0 
+Prediction 417 took 208 us
+0 
+Prediction 418 took 207 us
+0 
+Prediction 419 took 208 us
+0 
+Prediction 420 took 207 us
+0 
+Prediction 421 took 208 us
+0 
+Prediction 422 took 207 us
+0 
+Prediction 423 took 208 us
+0 
+Prediction 424 took 207 us
+0 
+Prediction 425 took 208 us
+0 
+Prediction 426 took 208 us
+0 
+Prediction 427 took 208 us
+0 
+Prediction 428 took 207 us
+0 
+Prediction 429 took 208 us
+0 
+Prediction 430 took 207 us
+0 
+Prediction 431 took 208 us
+0 
+Prediction 432 took 208 us
+0 
+Prediction 433 took 207 us
+0 
+Prediction 434 took 208 us
+0 
+Prediction 435 took 207 us
+0 
+Prediction 436 took 208 us
+0 
+Prediction 437 took 208 us
+0 
+Prediction 438 took 207 us
+0 
+Prediction 439 took 208 us
+0 
+Prediction 440 took 208 us
+0 
+Prediction 441 took 208 us
+0 
+Prediction 442 took 207 us
+0 
+Prediction 443 took 207 us
+0 
+Prediction 444 took 208 us
+0 
+Prediction 445 took 208 us
+0 
+Prediction 446 took 208 us
+0 
+Prediction 447 took 207 us
+0 
+Prediction 448 took 207 us
+0 
+Prediction 449 took 208 us
+0 
+Prediction 450 took 208 us
+0 
+Prediction 451 took 207 us
+0 
+Prediction 452 took 208 us
+0 
+Prediction 453 took 207 us
+0 
+Prediction 454 took 208 us
+0 
+Prediction 455 took 208 us
+0 
+Prediction 456 took 207 us
+0 
+Prediction 457 took 207 us
+0 
+Prediction 458 took 209 us
+0 
+Prediction 459 took 207 us
+0 
+Prediction 460 took 208 us
+0 
+Prediction 461 took 207 us
+0 
+Prediction 462 took 207 us
+0 
+Prediction 463 took 208 us
+0 
+Prediction 464 took 207 us
+0 
+Prediction 465 took 207 us
+0 
+Prediction 466 took 207 us
+0 
+Prediction 467 took 207 us
+0 
+Prediction 468 took 208 us
+0 
+Prediction 469 took 207 us
+0 
+Prediction 470 took 208 us
+0 
+Prediction 471 took 208 us
+0 
+Prediction 472 took 208 us
+0 
+Prediction 473 took 208 us
+0 
+Prediction 474 took 207 us
+0 
+Prediction 475 took 208 us
+0 
+Prediction 476 took 209 us
+0 
+Prediction 477 took 207 us
+0 
+Prediction 478 took 208 us
+0 
+Prediction 479 took 207 us
+0 
+Prediction 480 took 208 us
+0 
+Prediction 481 took 208 us
+0 
+Prediction 482 took 207 us
+0 
+Prediction 483 took 208 us
+0 
+Prediction 484 took 207 us
+0 
+Prediction 485 took 208 us
+0 
+Prediction 486 took 207 us
+0 
+Prediction 487 took 207 us
+0 
+Prediction 488 took 208 us
+0 
+Prediction 489 took 208 us
+0 
+Prediction 490 took 207 us
+0 
+Prediction 491 took 208 us
+0 
+Prediction 492 took 207 us
+0 
+Prediction 493 took 208 us
+0 
+Prediction 494 took 208 us
+0 
+Prediction 495 took 208 us
+0 
+Prediction 496 took 207 us
+0 
+Prediction 497 took 207 us
+0 
+Prediction 498 took 207 us
+0 
+Prediction 499 took 207 us
+0 
+Prediction 500 took 208 us
+0 
+Prediction 501 took 207 us
+0 
+Prediction 502 took 207 us
+0 
+Prediction 503 took 207 us
+0 
+Prediction 504 took 208 us
+0 
+Prediction 505 took 207 us
+0 
+Prediction 506 took 207 us
+0 
+Prediction 507 took 208 us
+0 
+Prediction 508 took 207 us
+0 
+Prediction 509 took 208 us
+0 
+Prediction 510 took 208 us
+0 
+Prediction 511 took 209 us
+0 
+Prediction 512 took 207 us
+0 
+Prediction 513 took 208 us
+0 
+Prediction 514 took 207 us
+0 
+Prediction 515 took 207 us
+0 
+Prediction 516 took 208 us
+0 
+Prediction 517 took 207 us
+0 
+Prediction 518 took 208 us
+0 
+Prediction 519 took 208 us
+0 
+Prediction 520 took 209 us
+0 
+Prediction 521 took 207 us
+0 
+Prediction 522 took 207 us
+0 
+Prediction 523 took 208 us
+0 
+Prediction 524 took 208 us
+0 
+Prediction 525 took 208 us
+0 
+Prediction 526 took 208 us
+0 
+Prediction 527 took 207 us
+0 
+Prediction 528 took 207 us
+0 
+Prediction 529 took 208 us
+0 
+Prediction 530 took 207 us
+0 
+Prediction 531 took 208 us
+0 
+Prediction 532 took 207 us
+0 
+Prediction 533 took 207 us
+0 
+Prediction 534 took 208 us
+0 
+Prediction 535 took 207 us
+0 
+Prediction 536 took 208 us
+0 
+Prediction 537 took 208 us
+0 
+Prediction 538 took 208 us
+0 
+Prediction 539 took 208 us
+0 
+Prediction 540 took 207 us
+0 
+Prediction 541 took 208 us
+0 
+Prediction 542 took 208 us
+0 
+Prediction 543 took 208 us
+0 
+Prediction 544 took 208 us
+0 
+Prediction 545 took 207 us
+0 
+Prediction 546 took 207 us
+0 
+Prediction 547 took 209 us
+0 
+Prediction 548 took 207 us
+0 
+Prediction 549 took 208 us
+0 
+Prediction 550 took 207 us
+0 
+Prediction 551 took 208 us
+0 
+Prediction 552 took 208 us
+0 
+Prediction 553 took 207 us
+0 
+Prediction 554 took 208 us
+0 
+Prediction 555 took 208 us
+0 
+Prediction 556 took 208 us
+0 
+Prediction 557 took 207 us
+0 
+Prediction 558 took 207 us
+0 
+Prediction 559 took 207 us
+0 
+Prediction 560 took 209 us
+0 
+Prediction 561 took 207 us
+0 
+Prediction 562 took 208 us
+0 
+Prediction 563 took 207 us
+0 
+Prediction 564 took 207 us
+0 
+Prediction 565 took 208 us
+0 
+Prediction 566 took 207 us
+0 
+Prediction 567 took 207 us
+0 
+Prediction 568 took 208 us
+0 
+Prediction 569 took 208 us
+0 
+Prediction 570 took 207 us
+0 
+Prediction 571 took 208 us
+0 
+Prediction 572 took 207 us
+0 
+Prediction 573 took 207 us
+0 
+Prediction 574 took 209 us
+0 
+Prediction 575 took 207 us
+0 
+Prediction 576 took 208 us
+0 
+Prediction 577 took 208 us
+0 
+Prediction 578 took 208 us
+0 
+Prediction 579 took 208 us
+0 
+Prediction 580 took 207 us
+0 
+Prediction 581 took 208 us
+0 
+Prediction 582 took 208 us
+0 
+Prediction 583 took 208 us
+0 
+Prediction 584 took 207 us
+0 
+Prediction 585 took 208 us
+0 
+Prediction 586 took 208 us
+0 
+Prediction 587 took 207 us
+0 
+Prediction 588 took 208 us
+0 
+Prediction 589 took 207 us
+0 
+Prediction 590 took 208 us
+0 
+Prediction 591 took 207 us
+0 
+Prediction 592 took 208 us
+0 
+Prediction 593 took 207 us
+0 
+Prediction 594 took 208 us
+0 
+Prediction 595 took 208 us
+0 
+Prediction 596 took 208 us
+0 
+Prediction 597 took 207 us
+0 
+Prediction 598 took 208 us
+0 
+Prediction 599 took 207 us
+0 
+Prediction 600 took 208 us
+0 
+Prediction 601 took 208 us
+0 
+Prediction 602 took 207 us
+0 
+Prediction 603 took 208 us
+0 
+Prediction 604 took 207 us
+0 
+Prediction 605 took 208 us
+0 
+Prediction 606 took 208 us
+0 
+Prediction 607 took 207 us
+0 
+Prediction 608 took 208 us
+0 
+Prediction 609 took 208 us
+0 
+Prediction 610 took 208 us
+0 
+Prediction 611 took 207 us
+0 
+Prediction 612 took 207 us
+0 
+Prediction 613 took 208 us
+0 
+Prediction 614 took 208 us
+0 
+Prediction 615 took 208 us
+0 
+Prediction 616 took 207 us
+0 
+Prediction 617 took 207 us
+0 
+Prediction 618 took 208 us
+0 
+Prediction 619 took 208 us
+0 
+Prediction 620 took 207 us
+0 
+Prediction 621 took 208 us
+0 
+Prediction 622 took 207 us
+0 
+Prediction 623 took 208 us
+0 
+Prediction 624 took 208 us
+0 
+Prediction 625 took 207 us
+0 
+Prediction 626 took 207 us
+0 
+Prediction 627 took 209 us
+0 
+Prediction 628 took 207 us
+0 
+Prediction 629 took 208 us
+0 
+Prediction 630 took 207 us
+0 
+Prediction 631 took 207 us
+0 
+Prediction 632 took 208 us
+0 
+Prediction 633 took 207 us
+0 
+Prediction 634 took 207 us
+0 
+Prediction 635 took 207 us
+0 
+Prediction 636 took 207 us
+0 
+Prediction 637 took 208 us
+0 
+Prediction 638 took 207 us
+0 
+Prediction 639 took 208 us
+0 
+Prediction 640 took 208 us
+0 
+Prediction 641 took 208 us
+0 
+Prediction 642 took 208 us
+0 
+Prediction 643 took 207 us
+0 
+Prediction 644 took 208 us
+0 
+Prediction 645 took 209 us
+0 
+Prediction 646 took 207 us
+0 
+Prediction 647 took 208 us
+0 
+Prediction 648 took 207 us
+0 
+Prediction 649 took 208 us
+0 
+Prediction 650 took 208 us
+0 
+Prediction 651 took 207 us
+0 
+Prediction 652 took 208 us
+0 
+Prediction 653 took 207 us
+0 
+Prediction 654 took 208 us
+0 
+Prediction 655 took 207 us
+0 
+Prediction 656 took 207 us
+0 
+Prediction 657 took 208 us
+0 
+Prediction 658 took 208 us
+0 
+Prediction 659 took 207 us
+0 
+Prediction 660 took 208 us
+0 
+Prediction 661 took 207 us
+0 
+Prediction 662 took 208 us
+0 
+Prediction 663 took 208 us
+0 
+Prediction 664 took 208 us
+0 
+Prediction 665 took 207 us
+0 
+Prediction 666 took 207 us
+0 
+Prediction 667 took 207 us
+0 
+Prediction 668 took 207 us
+0 
+Prediction 669 took 208 us
+0 
+Prediction 670 took 207 us
+0 
+Prediction 671 took 207 us
+0 
+Prediction 672 took 207 us
+0 
+Prediction 673 took 208 us
+0 
+Prediction 674 took 207 us
+0 
+Prediction 675 took 207 us
+0 
+Prediction 676 took 208 us
+0 
+Prediction 677 took 207 us
+0 
+Prediction 678 took 208 us
+0 
+Prediction 679 took 208 us
+0 
+Prediction 680 took 209 us
+0 
+Prediction 681 took 207 us
+0 
+Prediction 682 took 208 us
+0 
+Prediction 683 took 207 us
+0 
+Prediction 684 took 207 us
+0 
+Prediction 685 took 208 us
+0 
+Prediction 686 took 207 us
+0 
+Prediction 687 took 208 us
+0 
+Prediction 688 took 208 us
+0 
+Prediction 689 took 209 us
+0 
+Prediction 690 took 207 us
+0 
+Prediction 691 took 207 us
+0 
+Prediction 692 took 208 us
+0 
+Prediction 693 took 208 us
+0 
+Prediction 694 took 208 us
+0 
+Prediction 695 took 208 us
+0 
+Prediction 696 took 207 us
+0 
+Prediction 697 took 207 us
+0 
+Prediction 698 took 208 us
+0 
+Prediction 699 took 207 us
+0 
+Prediction 700 took 208 us
+0 
+Prediction 701 took 207 us
+0 
+Prediction 702 took 207 us
+0 
+Prediction 703 took 208 us
+0 
+Prediction 704 took 207 us
+0 
+Prediction 705 took 208 us
+0 
+Prediction 706 took 208 us
+0 
+Prediction 707 took 208 us
+0 
+Prediction 708 took 208 us
+0 
+Prediction 709 took 207 us
+0 
+Prediction 710 took 208 us
+0 
+Prediction 711 took 208 us
+0 
+Prediction 712 took 208 us
+0 
+Prediction 713 took 208 us
+0 
+Prediction 714 took 207 us
+0 
+Prediction 715 took 207 us
+0 
+Prediction 716 took 209 us
+0 
+Prediction 717 took 207 us
+0 
+Prediction 718 took 208 us
+0 
+Prediction 719 took 207 us
+0 
+Prediction 720 took 208 us
+0 
+Prediction 721 took 208 us
+0 
+Prediction 722 took 207 us
+0 
+Prediction 723 took 208 us
+0 
+Prediction 724 took 208 us
+0 
+Prediction 725 took 208 us
+0 
+Prediction 726 took 207 us
+0 
+Prediction 727 took 207 us
+0 
+Prediction 728 took 207 us
+0 
+Prediction 729 took 209 us
+0 
+Prediction 730 took 207 us
+0 
+Prediction 731 took 208 us
+0 
+Prediction 732 took 207 us
+0 
+Prediction 733 took 207 us
+0 
+Prediction 734 took 208 us
+0 
+Prediction 735 took 207 us
+0 
+Prediction 736 took 207 us
+0 
+Prediction 737 took 208 us
+0 
+Prediction 738 took 208 us
+0 
+Prediction 739 took 207 us
+0 
+Prediction 740 took 208 us
+0 
+Prediction 741 took 207 us
+0 
+Prediction 742 took 207 us
+0 
+Prediction 743 took 209 us
+0 
+Prediction 744 took 207 us
+0 
+Prediction 745 took 208 us
+0 
+Prediction 746 took 208 us
+0 
+Prediction 747 took 208 us
+0 
+Prediction 748 took 208 us
+0 
+Prediction 749 took 207 us
+0 
+Prediction 750 took 208 us
+0 
+Prediction 751 took 208 us
+0 
+Prediction 752 took 208 us
+0 
+Prediction 753 took 207 us
+0 
+Prediction 754 took 208 us
+0 
+Prediction 755 took 208 us
+0 
+Prediction 756 took 207 us
+0 
+Prediction 757 took 208 us
+0 
+Prediction 758 took 207 us
+0 
+Prediction 759 took 208 us
+0 
+Prediction 760 took 207 us
+0 
+Prediction 761 took 208 us
+0 
+Prediction 762 took 207 us
+0 
+Prediction 763 took 208 us
+0 
+Prediction 764 took 208 us
+0 
+Prediction 765 took 208 us
+0 
+Prediction 766 took 207 us
+0 
+Prediction 767 took 208 us
+0 
+Prediction 768 took 207 us
+0 
+Prediction 769 took 208 us
+0 
+Prediction 770 took 208 us
+0 
+Prediction 771 took 207 us
+0 
+Prediction 772 took 208 us
+0 
+Prediction 773 took 207 us
+0 
+Prediction 774 took 208 us
+0 
+Prediction 775 took 208 us
+0 
+Prediction 776 took 207 us
+0 
+Prediction 777 took 208 us
+0 
+Prediction 778 took 208 us
+0 
+Prediction 779 took 208 us
+0 
+Prediction 780 took 207 us
+0 
+Prediction 781 took 207 us
+0 
+Prediction 782 took 208 us
+0 
+Prediction 783 took 208 us
+0 
+Prediction 784 took 208 us
+0 
+Prediction 785 took 207 us
+0 
+Prediction 786 took 207 us
+0 
+Prediction 787 took 208 us
+0 
+Prediction 788 took 208 us
+0 
+Prediction 789 took 207 us
+0 
+Prediction 790 took 208 us
+0 
+Prediction 791 took 207 us
+0 
+Prediction 792 took 208 us
+0 
+Prediction 793 took 208 us
+0 
+Prediction 794 took 207 us
+0 
+Prediction 795 took 207 us
+0 
+Prediction 796 took 209 us
+0 
+Prediction 797 took 207 us
+0 
+Prediction 798 took 208 us
+0 
+Prediction 799 took 207 us
+0 
+Prediction 800 took 207 us
+0 
+Prediction 801 took 208 us
+0 
+Prediction 802 took 207 us
+0 
+Prediction 803 took 208 us
+0 
+Prediction 804 took 208 us
+0 
+Prediction 805 took 208 us
+0 
+Prediction 806 took 207 us
+0 
+Prediction 807 took 207 us
+0 
+Prediction 808 took 207 us
+0 
+Prediction 809 took 208 us
+0 
+Prediction 810 took 208 us
+0 
+Prediction 811 took 208 us
+0 
+Prediction 812 took 207 us
+0 
+Prediction 813 took 207 us
+0 
+Prediction 814 took 209 us
+0 
+Prediction 815 took 207 us
+0 
+Prediction 816 took 208 us
+0 
+Prediction 817 took 208 us
+0 
+Prediction 818 took 208 us
+0 
+Prediction 819 took 208 us
+0 
+Prediction 820 took 208 us
+0 
+Prediction 821 took 207 us
+0 
+Prediction 822 took 208 us
+0 
+Prediction 823 took 208 us
+0 
+Prediction 824 took 208 us
+0 
+Prediction 825 took 207 us
+0 
+Prediction 826 took 207 us
+0 
+Prediction 827 took 208 us
+0 
+Prediction 828 took 208 us
+0 
+Prediction 829 took 207 us
+0 
+Prediction 830 took 208 us
+0 
+Prediction 831 took 208 us
+0 
+Prediction 832 took 208 us
+0 
+Prediction 833 took 207 us
+0 
+Prediction 834 took 208 us
+0 
+Prediction 835 took 207 us
+0 
+Prediction 836 took 208 us
+0 
+Prediction 837 took 208 us
+0 
+Prediction 838 took 207 us
+0 
+Prediction 839 took 207 us
+0 
+Prediction 840 took 208 us
+0 
+Prediction 841 took 207 us
+0 
+Prediction 842 took 208 us
+0 
+Prediction 843 took 207 us
+0 
+Prediction 844 took 208 us
+0 
+Prediction 845 took 208 us
+0 
+Prediction 846 took 207 us
+0 
+Prediction 847 took 208 us
+0 
+Prediction 848 took 207 us
+0 
+Prediction 849 took 208 us
+0 
+Prediction 850 took 208 us
+0 
+Prediction 851 took 207 us
+0 
+Prediction 852 took 208 us
+0 
+Prediction 853 took 208 us
+0 
+Prediction 854 took 209 us
+0 
+Prediction 855 took 207 us
+0 
+Prediction 856 took 208 us
+0 
+Prediction 857 took 208 us
+0 
+Prediction 858 took 208 us
+0 
+Prediction 859 took 207 us
+0 
+Prediction 860 took 208 us
+0 
+Prediction 861 took 207 us
+0 
+Prediction 862 took 207 us
+0 
+Prediction 863 took 209 us
+0 
+Prediction 864 took 207 us
+0 
+Prediction 865 took 208 us
+0 
+Prediction 866 took 208 us
+0 
+Prediction 867 took 208 us
+0 
+Prediction 868 took 208 us
+0 
+Prediction 869 took 208 us
+0 
+Prediction 870 took 207 us
+0 
+Prediction 871 took 208 us
+0 
+Prediction 872 took 209 us
+0 
+Prediction 873 took 207 us
+0 
+Prediction 874 took 208 us
+0 
+Prediction 875 took 208 us
+0 
+Prediction 876 took 208 us
+0 
+Prediction 877 took 207 us
+0 
+Prediction 878 took 208 us
+0 
+Prediction 879 took 207 us
+0 
+Prediction 880 took 207 us
+0 
+Prediction 881 took 207 us
+0 
+Prediction 882 took 207 us
+0 
+Prediction 883 took 208 us
+0 
+Prediction 884 took 208 us
+0 
+Prediction 885 took 208 us
+0 
+Prediction 886 took 208 us
+0 
+Prediction 887 took 207 us
+0 
+Prediction 888 took 208 us
+0 
+Prediction 889 took 208 us
+0 
+Prediction 890 took 207 us
+0 
+Prediction 891 took 208 us
+0 
+Prediction 892 took 207 us
+0 
+Prediction 893 took 207 us
+0 
+Prediction 894 took 208 us
+0 
+Prediction 895 took 207 us
+0 
+Prediction 896 took 208 us
+0 
+Prediction 897 took 207 us
+0 
+Prediction 898 took 209 us
+0 
+Prediction 899 took 207 us
+0 
+Prediction 900 took 208 us
+0 
+Prediction 901 took 207 us
+0 
+Prediction 902 took 207 us
+0 
+Prediction 903 took 208 us
+0 
+Prediction 904 took 208 us
+0 
+Prediction 905 took 207 us
+0 
+Prediction 906 took 207 us
+0 
+Prediction 907 took 208 us
+0 
+Prediction 908 took 207 us
+0 
+Prediction 909 took 207 us
+0 
+Prediction 910 took 208 us
+0 
+Prediction 911 took 207 us
+0 
+Prediction 912 took 208 us
+0 
+Prediction 913 took 208 us
+0 
+Prediction 914 took 207 us
+0 
+Prediction 915 took 207 us
+0 
+Prediction 916 took 208 us
+0 
+Prediction 917 took 208 us
+0 
+Prediction 918 took 207 us
+0 
+Prediction 919 took 208 us
+0 
+Prediction 920 took 208 us
+0 
+Prediction 921 took 208 us
+0 
+Prediction 922 took 208 us
+0 
+Prediction 923 took 207 us
+0 
+Prediction 924 took 207 us
+0 
+Prediction 925 took 209 us
+0 
+Prediction 926 took 208 us
+0 
+Prediction 927 took 207 us
+0 
+Prediction 928 took 208 us
+0 
+Prediction 929 took 209 us
+0 
+Prediction 930 took 207 us
+0 
+Prediction 931 took 208 us
+0 
+Prediction 932 took 207 us
+0 
+Prediction 933 took 208 us
+0 
+Prediction 934 took 207 us
+0 
+Prediction 935 took 207 us
+0 
+Prediction 936 took 208 us
+0 
+Prediction 937 took 207 us
+0 
+Prediction 938 took 208 us
+0 
+Prediction 939 took 208 us
+0 
+Prediction 940 took 207 us
+0 
+Prediction 941 took 208 us
+0 
+Prediction 942 took 208 us
+0 
+Prediction 943 took 209 us
+0 
+Prediction 944 took 207 us
+0 
+Prediction 945 took 208 us
+0 
+Prediction 946 took 208 us
+0 
+Prediction 947 took 208 us
+0 
+Prediction 948 took 208 us
+0 
+Prediction 949 took 207 us
+0 
+Prediction 950 took 208 us
+0 
+Prediction 951 took 208 us
+0 
+Prediction 952 took 208 us
+0 
+Prediction 953 took 208 us
+0 
+Prediction 954 took 207 us
+0 
+Prediction 955 took 207 us
+0 
+Prediction 956 took 208 us
+0 
+Prediction 957 took 208 us
+0 
+Prediction 958 took 208 us
+0 
+Prediction 959 took 207 us
+0 
+Prediction 960 took 208 us
+0 
+Prediction 961 took 208 us
+0 
+Prediction 962 took 208 us
+0 
+Prediction 963 took 207 us
+0 
+Prediction 964 took 207 us
+0 
+Prediction 965 took 208 us
+0 
+Prediction 966 took 208 us
+0 
+Prediction 967 took 207 us
+0 
+Prediction 968 took 207 us
+0 
+Prediction 969 took 208 us
+0 
+Prediction 970 took 208 us
+0 
+Prediction 971 took 207 us
+0 
+Prediction 972 took 208 us
+0 
+Prediction 973 took 208 us
+0 
+Prediction 974 took 209 us
+0 
+Prediction 975 took 207 us
+0 
+Prediction 976 took 208 us
+0 
+Prediction 977 took 208 us
+0 
+Prediction 978 took 208 us
+0 
+Prediction 979 took 208 us
+0 
+Prediction 980 took 208 us
+0 
+Prediction 981 took 207 us
+0 
+Prediction 982 took 207 us
+0 
+Prediction 983 took 209 us
+0 
+Prediction 984 took 207 us
+0 
+Prediction 985 took 208 us
+0 
+Prediction 986 took 208 us
+0 
+Prediction 987 took 208 us
+0 
+Prediction 988 took 208 us
+0 
+Prediction 989 took 207 us
+0 
+Prediction 990 took 208 us
+0 
+Prediction 991 took 208 us
+0 
+Prediction 992 took 208 us
+0 
+Prediction 993 took 207 us
+0 
+Prediction 994 took 208 us
+0 
+Prediction 995 took 208 us
+0 
+Prediction 996 took 208 us
+0 
+Prediction 997 took 208 us
+0 
+Prediction 998 took 207 us
+0 
+Prediction 999 took 207 us
+
+Finished 1000 iter in 3258 - 47 = 3 s
+Weights matrix: 1 x 8
+136 194 59 72 75 74 80 201 
+Bias matrix: 1 x8
+0 0 0 0 0 0 0 0 
+Weights matrix: 8 x 8
+57 4 159 195 191 56 202 29 
+159 193 215 63 50 125 8 30 
+38 74 241 237 46 101 96 10 
+153 251 187 0 148 72 117 145 
+194 82 9 185 34 56 188 166 
+83 179 53 11 137 31 39 73 
+148 66 103 128 186 192 23 189 
+221 88 97 153 79 72 94 239 
+Bias matrix: 1 x8
+0 0 0 0 0 0 0 0 
+Weights matrix: 8 x 1
+201 
+237 
+76 
+13 
+72 
+158 
+12 
+138 
+Bias matrix: 1 x1
+0 
+Starting
+0 
+Prediction 0 took 208 us
+0 
+Prediction 1 took 207 us
+0 
+Prediction 2 took 207 us
+0 
+Prediction 3 took 208 us
+0 
+Prediction 4 took 208 us
+0 
+Prediction 5 took 208 us
+0 
+Prediction 6 took 208 us
+0 
+Prediction 7 took 208 us
+0 
+Prediction 8 took 208 us
+0 
+Prediction 9 took 208 us
+0 
+Prediction 10 took 207 us
+0 
+Prediction 11 took 207 us
+0 
+Prediction 12 took 208 us
+0 
+Prediction 13 took 208 us
+0 
+Prediction 14 took 208 us
+0 
+Prediction 15 took 208 us
+0 
+Prediction 16 took 207 us
+0 
+Prediction 17 took 208 us
+0 
+Prediction 18 took 207 us
+0 
+Prediction 19 took 208 us
+0 
+Prediction 20 took 207 us
+0 
+Prediction 21 took 206 us
+0 
+Prediction 22 took 208 us
+0 
+Prediction 23 took 207 us
+0 
+Prediction 24 took 207 us
+0 
+Prediction 25 took 208 us
+0 
+Prediction 26 took 207 us
+0 
+Prediction 27 took 208 us
+0 
+Prediction 28 took 208 us
+0 
+Prediction 29 took 208 us
+0 
+Prediction 30 took 207 us
+0 
+Prediction 31 took 207 us
+0 
+Prediction 32 took 208 us
+0 
+Prediction 33 took 208 us
+0 
+Prediction 34 took 208 us
+0 
+Prediction 35 took 207 us
+0 
+Prediction 36 took 209 us
+0 
+Prediction 37 took 207 us
+0 
+Prediction 38 took 207 us
+0 
+Prediction 39 took 208 us
+0 
+Prediction 40 took 207 us
+0 
+Prediction 41 took 208 us
+0 
+Prediction 42 took 207 us
+0 
+Prediction 43 took 209 us
+0 
+Prediction 44 took 208 us
+0 
+Prediction 45 took 208 us
+0 
+Prediction 46 took 207 us
+0 
+Prediction 47 took 207 us
+0 
+Prediction 48 took 207 us
+0 
+Prediction 49 took 207 us
+0 
+Prediction 50 took 208 us
+0 
+Prediction 51 took 208 us
+0 
+Prediction 52 took 208 us
+0 
+Prediction 53 took 208 us
+0 
+Prediction 54 took 207 us
+0 
+Prediction 55 took 207 us
+0 
+Prediction 56 took 208 us
+0 
+Prediction 57 took 207 us
+0 
+Prediction 58 took 208 us
+0 
+Prediction 59 took 208 us
+0 
+Prediction 60 took 207 us
+0 
+Prediction 61 took 208 us
+0 
+Prediction 62 took 207 us
+0 
+Prediction 63 took 208 us
+0 
+Prediction 64 took 207 us
+0 
+Prediction 65 took 208 us
+0 
+Prediction 66 took 208 us
+0 
+Prediction 67 took 208 us
+0 
+Prediction 68 took 208 us
+0 
+Prediction 69 took 207 us
+0 
+Prediction 70 took 207 us
+0 
+Prediction 71 took 207 us
+0 
+Prediction 72 took 208 us
+0 
+Prediction 73 took 208 us
+0 
+Prediction 74 took 209 us
+0 
+Prediction 75 took 208 us
+0 
+Prediction 76 took 207 us
+0 
+Prediction 77 took 207 us
+0 
+Prediction 78 took 208 us
+0 
+Prediction 79 took 207 us
+0 
+Prediction 80 took 207 us
+0 
+Prediction 81 took 208 us
+0 
+Prediction 82 took 208 us
+0 
+Prediction 83 took 207 us
+0 
+Prediction 84 took 207 us
+0 
+Prediction 85 took 208 us
+0 
+Prediction 86 took 207 us
+0 
+Prediction 87 took 208 us
+0 
+Prediction 88 took 208 us
+0 
+Prediction 89 took 208 us
+0 
+Prediction 90 took 207 us
+0 
+Prediction 91 took 208 us
+0 
+Prediction 92 took 207 us
+0 
+Prediction 93 took 207 us
+0 
+Prediction 94 took 207 us
+0 
+Prediction 95 took 207 us
+0 
+Prediction 96 took 208 us
+0 
+Prediction 97 took 208 us
+0 
+Prediction 98 took 207 us
+0 
+Prediction 99 took 208 us
+0 
+Prediction 100 took 207 us
+0 
+Prediction 101 took 208 us
+0 
+Prediction 102 took 208 us
+0 
+Prediction 103 took 208 us
+0 
+Prediction 104 took 207 us
+0 
+Prediction 105 took 208 us
+0 
+Prediction 106 took 208 us
+0 
+Prediction 107 took 208 us
+0 
+Prediction 108 took 208 us
+0 
+Prediction 109 took 207 us
+0 
+Prediction 110 took 207 us
+0 
+Prediction 111 took 208 us
+0 
+Prediction 112 took 207 us
+0 
+Prediction 113 took 207 us
+0 
+Prediction 114 took 208 us
+0 
+Prediction 115 took 208 us
+0 
+Prediction 116 took 208 us
+0 
+Prediction 117 took 208 us
+0 
+Prediction 118 took 207 us
+0 
+Prediction 119 took 207 us
+0 
+Prediction 120 took 209 us
+0 
+Prediction 121 took 207 us
+0 
+Prediction 122 took 208 us
+0 
+Prediction 123 took 207 us
+0 
+Prediction 124 took 207 us
+0 
+Prediction 125 took 207 us
+0 
+Prediction 126 took 207 us
+0 
+Prediction 127 took 208 us
+0 
+Prediction 128 took 208 us
+0 
+Prediction 129 took 208 us
+0 
+Prediction 130 took 207 us
+0 
+Prediction 131 took 208 us
+0 
+Prediction 132 took 208 us
+0 
+Prediction 133 took 209 us
+0 
+Prediction 134 took 208 us
+0 
+Prediction 135 took 207 us
+0 
+Prediction 136 took 208 us
+0 
+Prediction 137 took 208 us
+0 
+Prediction 138 took 208 us
+0 
+Prediction 139 took 208 us
+0 
+Prediction 140 took 207 us
+0 
+Prediction 141 took 208 us
+0 
+Prediction 142 took 209 us
+0 
+Prediction 143 took 208 us
+0 
+Prediction 144 took 207 us
+0 
+Prediction 145 took 208 us
+0 
+Prediction 146 took 208 us
+0 
+Prediction 147 took 209 us
+0 
+Prediction 148 took 207 us
+0 
+Prediction 149 took 208 us
+0 
+Prediction 150 took 207 us
+0 
+Prediction 151 took 208 us
+0 
+Prediction 152 took 208 us
+0 
+Prediction 153 took 207 us
+0 
+Prediction 154 took 208 us
+0 
+Prediction 155 took 207 us
+0 
+Prediction 156 took 208 us
+0 
+Prediction 157 took 208 us
+0 
+Prediction 158 took 207 us
+0 
+Prediction 159 took 208 us
+0 
+Prediction 160 took 209 us
+0 
+Prediction 161 took 207 us
+0 
+Prediction 162 took 208 us
+0 
+Prediction 163 took 207 us
+0 
+Prediction 164 took 207 us
+0 
+Prediction 165 took 207 us
+0 
+Prediction 166 took 207 us
+0 
+Prediction 167 took 207 us
+0 
+Prediction 168 took 207 us
+0 
+Prediction 169 took 208 us
+0 
+Prediction 170 took 207 us
+0 
+Prediction 171 took 208 us
+0 
+Prediction 172 took 208 us
+0 
+Prediction 173 took 209 us
+0 
+Prediction 174 took 207 us
+0 
+Prediction 175 took 207 us
+0 
+Prediction 176 took 208 us
+0 
+Prediction 177 took 208 us
+0 
+Prediction 178 took 208 us
+0 
+Prediction 179 took 207 us
+0 
+Prediction 180 took 207 us
+0 
+Prediction 181 took 207 us
+0 
+Prediction 182 took 209 us
+0 
+Prediction 183 took 207 us
+0 
+Prediction 184 took 208 us
+0 
+Prediction 185 took 207 us
+0 
+Prediction 186 took 207 us
+0 
+Prediction 187 took 208 us
+0 
+Prediction 188 took 207 us
+0 
+Prediction 189 took 208 us
+0 
+Prediction 190 took 208 us
+0 
+Prediction 191 took 208 us
+0 
+Prediction 192 took 208 us
+0 
+Prediction 193 took 207 us
+0 
+Prediction 194 took 208 us
+0 
+Prediction 195 took 208 us
+0 
+Prediction 196 took 208 us
+0 
+Prediction 197 took 208 us
+0 
+Prediction 198 took 207 us
+0 
+Prediction 199 took 207 us
+0 
+Prediction 200 took 208 us
+0 
+Prediction 201 took 208 us
+0 
+Prediction 202 took 207 us
+0 
+Prediction 203 took 208 us
+0 
+Prediction 204 took 207 us
+0 
+Prediction 205 took 208 us
+0 
+Prediction 206 took 208 us
+0 
+Prediction 207 took 207 us
+0 
+Prediction 208 took 207 us
+0 
+Prediction 209 took 208 us
+0 
+Prediction 210 took 208 us
+0 
+Prediction 211 took 207 us
+0 
+Prediction 212 took 207 us
+0 
+Prediction 213 took 209 us
+0 
+Prediction 214 took 207 us
+0 
+Prediction 215 took 208 us
+0 
+Prediction 216 took 207 us
+0 
+Prediction 217 took 207 us
+0 
+Prediction 218 took 208 us
+0 
+Prediction 219 took 208 us
+0 
+Prediction 220 took 207 us
+0 
+Prediction 221 took 208 us
+0 
+Prediction 222 took 209 us
+0 
+Prediction 223 took 207 us
+0 
+Prediction 224 took 208 us
+0 
+Prediction 225 took 207 us
+0 
+Prediction 226 took 207 us
+0 
+Prediction 227 took 208 us
+0 
+Prediction 228 took 207 us
+0 
+Prediction 229 took 208 us
+0 
+Prediction 230 took 208 us
+0 
+Prediction 231 took 208 us
+0 
+Prediction 232 took 208 us
+0 
+Prediction 233 took 207 us
+0 
+Prediction 234 took 208 us
+0 
+Prediction 235 took 208 us
+0 
+Prediction 236 took 208 us
+0 
+Prediction 237 took 207 us
+0 
+Prediction 238 took 208 us
+0 
+Prediction 239 took 208 us
+0 
+Prediction 240 took 208 us
+0 
+Prediction 241 took 208 us
+0 
+Prediction 242 took 208 us
+0 
+Prediction 243 took 207 us
+0 
+Prediction 244 took 208 us
+0 
+Prediction 245 took 208 us
+0 
+Prediction 246 took 208 us
+0 
+Prediction 247 took 207 us
+0 
+Prediction 248 took 207 us
+0 
+Prediction 249 took 208 us
+0 
+Prediction 250 took 208 us
+0 
+Prediction 251 took 207 us
+0 
+Prediction 252 took 207 us
+0 
+Prediction 253 took 208 us
+0 
+Prediction 254 took 207 us
+0 
+Prediction 255 took 208 us
+0 
+Prediction 256 took 207 us
+0 
+Prediction 257 took 207 us
+0 
+Prediction 258 took 209 us
+0 
+Prediction 259 took 208 us
+0 
+Prediction 260 took 207 us
+0 
+Prediction 261 took 208 us
+0 
+Prediction 262 took 208 us
+0 
+Prediction 263 took 208 us
+0 
+Prediction 264 took 207 us
+0 
+Prediction 265 took 208 us
+0 
+Prediction 266 took 208 us
+0 
+Prediction 267 took 208 us
+0 
+Prediction 268 took 208 us
+0 
+Prediction 269 took 207 us
+0 
+Prediction 270 took 207 us
+0 
+Prediction 271 took 208 us
+0 
+Prediction 272 took 207 us
+0 
+Prediction 273 took 208 us
+0 
+Prediction 274 took 207 us
+0 
+Prediction 275 took 207 us
+0 
+Prediction 276 took 208 us
+0 
+Prediction 277 took 207 us
+0 
+Prediction 278 took 208 us
+0 
+Prediction 279 took 208 us
+0 
+Prediction 280 took 208 us
+0 
+Prediction 281 took 208 us
+0 
+Prediction 282 took 207 us
+0 
+Prediction 283 took 208 us
+0 
+Prediction 284 took 207 us
+0 
+Prediction 285 took 208 us
+0 
+Prediction 286 took 208 us
+0 
+Prediction 287 took 207 us
+0 
+Prediction 288 took 207 us
+0 
+Prediction 289 took 209 us
+0 
+Prediction 290 took 207 us
+0 
+Prediction 291 took 208 us
+0 
+Prediction 292 took 207 us
+0 
+Prediction 293 took 207 us
+0 
+Prediction 294 took 208 us
+0 
+Prediction 295 took 207 us
+0 
+Prediction 296 took 207 us
+0 
+Prediction 297 took 207 us
+0 
+Prediction 298 took 207 us
+0 
+Prediction 299 took 208 us
+0 
+Prediction 300 took 207 us
+0 
+Prediction 301 took 208 us
+0 
+Prediction 302 took 208 us
+0 
+Prediction 303 took 208 us
+0 
+Prediction 304 took 208 us
+0 
+Prediction 305 took 207 us
+0 
+Prediction 306 took 208 us
+0 
+Prediction 307 took 209 us
+0 
+Prediction 308 took 207 us
+0 
+Prediction 309 took 208 us
+0 
+Prediction 310 took 207 us
+0 
+Prediction 311 took 208 us
+0 
+Prediction 312 took 208 us
+0 
+Prediction 313 took 207 us
+0 
+Prediction 314 took 208 us
+0 
+Prediction 315 took 207 us
+0 
+Prediction 316 took 208 us
+0 
+Prediction 317 took 207 us
+0 
+Prediction 318 took 207 us
+0 
+Prediction 319 took 208 us
+0 
+Prediction 320 took 208 us
+0 
+Prediction 321 took 207 us
+0 
+Prediction 322 took 208 us
+0 
+Prediction 323 took 207 us
+0 
+Prediction 324 took 208 us
+0 
+Prediction 325 took 208 us
+0 
+Prediction 326 took 208 us
+0 
+Prediction 327 took 207 us
+0 
+Prediction 328 took 207 us
+0 
+Prediction 329 took 207 us
+0 
+Prediction 330 took 207 us
+0 
+Prediction 331 took 208 us
+0 
+Prediction 332 took 207 us
+0 
+Prediction 333 took 207 us
+0 
+Prediction 334 took 207 us
+0 
+Prediction 335 took 208 us
+0 
+Prediction 336 took 207 us
+0 
+Prediction 337 took 207 us
+0 
+Prediction 338 took 208 us
+0 
+Prediction 339 took 207 us
+0 
+Prediction 340 took 208 us
+0 
+Prediction 341 took 208 us
+0 
+Prediction 342 took 209 us
+0 
+Prediction 343 took 207 us
+0 
+Prediction 344 took 208 us
+0 
+Prediction 345 took 207 us
+0 
+Prediction 346 took 207 us
+0 
+Prediction 347 took 208 us
+0 
+Prediction 348 took 207 us
+0 
+Prediction 349 took 208 us
+0 
+Prediction 350 took 208 us
+0 
+Prediction 351 took 209 us
+0 
+Prediction 352 took 207 us
+0 
+Prediction 353 took 207 us
+0 
+Prediction 354 took 208 us
+0 
+Prediction 355 took 208 us
+0 
+Prediction 356 took 208 us
+0 
+Prediction 357 took 208 us
+0 
+Prediction 358 took 207 us
+0 
+Prediction 359 took 207 us
+0 
+Prediction 360 took 208 us
+0 
+Prediction 361 took 207 us
+0 
+Prediction 362 took 208 us
+0 
+Prediction 363 took 207 us
+0 
+Prediction 364 took 207 us
+0 
+Prediction 365 took 208 us
+0 
+Prediction 366 took 207 us
+0 
+Prediction 367 took 208 us
+0 
+Prediction 368 took 208 us
+0 
+Prediction 369 took 208 us
+0 
+Prediction 370 took 208 us
+0 
+Prediction 371 took 207 us
+0 
+Prediction 372 took 208 us
+0 
+Prediction 373 took 208 us
+0 
+Prediction 374 took 208 us
+0 
+Prediction 375 took 208 us
+0 
+Prediction 376 took 207 us
+0 
+Prediction 377 took 207 us
+0 
+Prediction 378 took 209 us
+0 
+Prediction 379 took 207 us
+0 
+Prediction 380 took 208 us
+0 
+Prediction 381 took 207 us
+0 
+Prediction 382 took 208 us
+0 
+Prediction 383 took 208 us
+0 
+Prediction 384 took 207 us
+0 
+Prediction 385 took 208 us
+0 
+Prediction 386 took 208 us
+0 
+Prediction 387 took 208 us
+0 
+Prediction 388 took 207 us
+0 
+Prediction 389 took 207 us
+0 
+Prediction 390 took 207 us
+0 
+Prediction 391 took 209 us
+0 
+Prediction 392 took 207 us
+0 
+Prediction 393 took 208 us
+0 
+Prediction 394 took 207 us
+0 
+Prediction 395 took 207 us
+0 
+Prediction 396 took 208 us
+0 
+Prediction 397 took 207 us
+0 
+Prediction 398 took 207 us
+0 
+Prediction 399 took 208 us
+0 
+Prediction 400 took 208 us
+0 
+Prediction 401 took 207 us
+0 
+Prediction 402 took 208 us
+0 
+Prediction 403 took 207 us
+0 
+Prediction 404 took 207 us
+0 
+Prediction 405 took 209 us
+0 
+Prediction 406 took 207 us
+0 
+Prediction 407 took 208 us
+0 
+Prediction 408 took 208 us
+0 
+Prediction 409 took 208 us
+0 
+Prediction 410 took 208 us
+0 
+Prediction 411 took 207 us
+0 
+Prediction 412 took 208 us
+0 
+Prediction 413 took 208 us
+0 
+Prediction 414 took 208 us
+0 
+Prediction 415 took 207 us
+0 
+Prediction 416 took 208 us
+0 
+Prediction 417 took 208 us
+0 
+Prediction 418 took 207 us
+0 
+Prediction 419 took 208 us
+0 
+Prediction 420 took 207 us
+0 
+Prediction 421 took 208 us
+0 
+Prediction 422 took 207 us
+0 
+Prediction 423 took 208 us
+0 
+Prediction 424 took 207 us
+0 
+Prediction 425 took 208 us
+0 
+Prediction 426 took 208 us
+0 
+Prediction 427 took 208 us
+0 
+Prediction 428 took 207 us
+0 
+Prediction 429 took 208 us
+0 
+Prediction 430 took 207 us
+0 
+Prediction 431 took 208 us
+0 
+Prediction 432 took 208 us
+0 
+Prediction 433 took 207 us
+0 
+Prediction 434 took 208 us
+0 
+Prediction 435 took 207 us
+0 
+Prediction 436 took 208 us
+0 
+Prediction 437 took 208 us
+0 
+Prediction 438 took 207 us
+0 
+Prediction 439 took 208 us
+0 
+Prediction 440 took 208 us
+0 
+Prediction 441 took 208 us
+0 
+Prediction 442 took 207 us
+0 
+Prediction 443 took 207 us
+0 
+Prediction 444 took 208 us
+0 
+Prediction 445 took 208 us
+0 
+Prediction 446 took 208 us
+0 
+Prediction 447 took 207 us
+0 
+Prediction 448 took 207 us
+0 
+Prediction 449 took 208 us
+0 
+Prediction 450 took 208 us
+0 
+Prediction 451 took 207 us
+0 
+Prediction 452 took 208 us
+0 
+Prediction 453 took 207 us
+0 
+Prediction 454 took 208 us
+0 
+Prediction 455 took 208 us
+0 
+Prediction 456 took 207 us
+0 
+Prediction 457 took 207 us
+0 
+Prediction 458 took 209 us
+0 
+Prediction 459 took 207 us
+0 
+Prediction 460 took 208 us
+0 
+Prediction 461 took 207 us
+0 
+Prediction 462 took 207 us
+0 
+Prediction 463 took 208 us
+0 
+Prediction 464 took 207 us
+0 
+Prediction 465 took 207 us
+0 
+Prediction 466 took 207 us
+0 
+Prediction 467 took 207 us
+0 
+Prediction 468 took 208 us
+0 
+Prediction 469 took 207 us
+0 
+Prediction 470 took 208 us
+0 
+Prediction 471 took 208 us
+0 
+Prediction 472 took 208 us
+0 
+Prediction 473 took 208 us
+0 
+Prediction 474 took 207 us
+0 
+Prediction 475 took 208 us
+0 
+Prediction 476 took 209 us
+0 
+Prediction 477 took 207 us
+0 
+Prediction 478 took 208 us
+0 
+Prediction 479 took 207 us
+0 
+Prediction 480 took 208 us
+0 
+Prediction 481 took 208 us
+0 
+Prediction 482 took 207 us
+0 
+Prediction 483 took 208 us
+0 
+Prediction 484 took 207 us
+0 
+Prediction 485 took 208 us
+0 
+Prediction 486 took 207 us
+0 
+Prediction 487 took 207 us
+0 
+Prediction 488 took 208 us
+0 
+Prediction 489 took 208 us
+0 
+Prediction 490 took 207 us
+0 
+Prediction 491 took 208 us
+0 
+Prediction 492 took 207 us
+0 
+Prediction 493 took 208 us
+0 
+Prediction 494 took 208 us
+0 
+Prediction 495 took 208 us
+0 
+Prediction 496 took 207 us
+0 
+Prediction 497 took 207 us
+0 
+Prediction 498 took 207 us
+0 
+Prediction 499 took 207 us
+0 
+Prediction 500 took 208 us
+0 
+Prediction 501 took 207 us
+0 
+Prediction 502 took 207 us
+0 
+Prediction 503 took 207 us
+0 
+Prediction 504 took 208 us
+0 
+Prediction 505 took 207 us
+0 
+Prediction 506 took 207 us
+0 
+Prediction 507 took 208 us
+0 
+Prediction 508 took 207 us
+0 
+Prediction 509 took 208 us
+0 
+Prediction 510 took 208 us
+0 
+Prediction 511 took 209 us
+0 
+Prediction 512 took 207 us
+0 
+Prediction 513 took 208 us
+0 
+Prediction 514 took 207 us
+0 
+Prediction 515 took 207 us
+0 
+Prediction 516 took 208 us
+0 
+Prediction 517 took 207 us
+0 
+Prediction 518 took 208 us
+0 
+Prediction 519 took 208 us
+0 
+Prediction 520 took 209 us
+0 
+Prediction 521 took 207 us
+0 
+Prediction 522 took 207 us
+0 
+Prediction 523 took 208 us
+0 
+Prediction 524 took 208 us
+0 
+Prediction 525 took 208 us
+0 
+Prediction 526 took 208 us
+0 
+Prediction 527 took 207 us
+0 
+Prediction 528 took 207 us
+0 
+Prediction 529 took 208 us
+0 
+Prediction 530 took 207 us
+0 
+Prediction 531 took 208 us
+0 
+Prediction 532 took 207 us
+0 
+Prediction 533 took 207 us
+0 
+Prediction 534 took 208 us
+0 
+Prediction 535 took 207 us
+0 
+Prediction 536 took 208 us
+0 
+Prediction 537 took 208 us
+0 
+Prediction 538 took 208 us
+0 
+Prediction 539 took 208 us
+0 
+Prediction 540 took 207 us
+0 
+Prediction 541 took 208 us
+0 
+Prediction 542 took 208 us
+0 
+Prediction 543 took 208 us
+0 
+Prediction 544 took 208 us
+0 
+Prediction 545 took 207 us
+0 
+Prediction 546 took 207 us
+0 
+Prediction 547 took 209 us
+0 
+Prediction 548 took 207 us
+0 
+Prediction 549 took 208 us
+0 
+Prediction 550 took 207 us
+0 
+Prediction 551 took 208 us
+0 
+Prediction 552 took 208 us
+0 
+Prediction 553 took 207 us
+0 
+Prediction 554 took 208 us
+0 
+Prediction 555 took 208 us
+0 
+Prediction 556 took 208 us
+0 
+Prediction 557 took 207 us
+0 
+Prediction 558 took 207 us
+0 
+Prediction 559 took 207 us
+0 
+Prediction 560 took 209 us
+0 
+Prediction 561 took 207 us
+0 
+Prediction 562 took 208 us
+0 
+Prediction 563 took 207 us
+0 
+Prediction 564 took 207 us
+0 
+Prediction 565 took 208 us
+0 
+Prediction 566 took 207 us
+0 
+Prediction 567 took 207 us
+0 
+Prediction 568 took 208 us
+0 
+Prediction 569 took 208 us
+0 
+Prediction 570 took 207 us
+0 
+Prediction 571 took 208 us
+0 
+Prediction 572 took 207 us
+0 
+Prediction 573 took 207 us
+0 
+Prediction 574 took 209 us
+0 
+Prediction 575 took 207 us
+0 
+Prediction 576 took 208 us
+0 
+Prediction 577 took 208 us
+0 
+Prediction 578 took 208 us
+0 
+Prediction 579 took 208 us
+0 
+Prediction 580 took 207 us
+0 
+Prediction 581 took 208 us
+0 
+Prediction 582 took 208 us
+0 
+Prediction 583 took 208 us
+0 
+Prediction 584 took 207 us
+0 
+Prediction 585 took 208 us
+0 
+Prediction 586 took 208 us
+0 
+Prediction 587 took 207 us
+0 
+Prediction 588 took 208 us
+0 
+Prediction 589 took 207 us
+0 
+Prediction 590 took 208 us
+0 
+Prediction 591 took 207 us
+0 
+Prediction 592 took 208 us
+0 
+Prediction 593 took 207 us
+0 
+Prediction 594 took 208 us
+0 
+Prediction 595 took 208 us
+0 
+Prediction 596 took 208 us
+0 
+Prediction 597 took 207 us
+0 
+Prediction 598 took 208 us
+0 
+Prediction 599 took 207 us
+0 
+Prediction 600 took 208 us
+0 
+Prediction 601 took 208 us
+0 
+Prediction 602 took 207 us
+0 
+Prediction 603 took 208 us
+0 
+Prediction 604 took 207 us
+0 
+Prediction 605 took 208 us
+0 
+Prediction 606 took 208 us
+0 
+Prediction 607 took 207 us
+0 
+Prediction 608 took 208 us
+0 
+Prediction 609 took 208 us
+0 
+Prediction 610 took 208 us
+0 
+Prediction 611 took 207 us
+0 
+Prediction 612 took 207 us
+0 
+Prediction 613 took 208 us
+0 
+Prediction 614 took 208 us
+0 
+Prediction 615 took 208 us
+0 
+Prediction 616 took 207 us
+0 
+Prediction 617 took 207 us
+0 
+Prediction 618 took 208 us
+0 
+Prediction 619 took 208 us
+0 
+Prediction 620 took 207 us
+0 
+Prediction 621 took 208 us
+0 
+Prediction 622 took 207 us
+0 
+Prediction 623 took 208 us
+0 
+Prediction 624 took 208 us
+0 
+Prediction 625 took 207 us
+0 
+Prediction 626 took 207 us
+0 
+Prediction 627 took 209 us
+0 
+Prediction 628 took 207 us
+0 
+Prediction 629 took 208 us
+0 
+Prediction 630 took 207 us
+0 
+Prediction 631 took 207 us
+0 
+Prediction 632 took 208 us
+0 
+Prediction 633 took 207 us
+0 
+Prediction 634 took 207 us
+0 
+Prediction 635 took 207 us
+0 
+Prediction 636 took 207 us
+0 
+Prediction 637 took 208 us
+0 
+Prediction 638 took 207 us
+0 
+Prediction 639 took 208 us
+0 
+Prediction 640 took 208 us
+0 
+Prediction 641 took 208 us
+0 
+Prediction 642 took 208 us
+0 
+Prediction 643 took 207 us
+0 
+Prediction 644 took 208 us
+0 
+Prediction 645 took 209 us
+0 
+Prediction 646 took 207 us
+0 
+Prediction 647 took 208 us
+0 
+Prediction 648 took 207 us
+0 
+Prediction 649 took 208 us
+0 
+Prediction 650 took 208 us
+0 
+Prediction 651 took 207 us
+0 
+Prediction 652 took 208 us
+0 
+Prediction 653 took 207 us
+0 
+Prediction 654 took 208 us
+0 
+Prediction 655 took 207 us
+0 
+Prediction 656 took 207 us
+0 
+Prediction 657 took 208 us
+0 
+Prediction 658 took 208 us
+0 
+Prediction 659 took 207 us
+0 
+Prediction 660 took 208 us
+0 
+Prediction 661 took 207 us
+0 
+Prediction 662 took 208 us
+0 
+Prediction 663 took 208 us
+0 
+Prediction 664 took 208 us
+0 
+Prediction 665 took 207 us
+0 
+Prediction 666 took 207 us
+0 
+Prediction 667 took 207 us
+0 
+Prediction 668 took 207 us
+0 
+Prediction 669 took 208 us
+0 
+Prediction 670 took 207 us
+0 
+Prediction 671 took 207 us
+0 
+Prediction 672 took 207 us
+0 
+Prediction 673 took 208 us
+0 
+Prediction 674 took 207 us
+0 
+Prediction 675 took 207 us
+0 
+Prediction 676 took 208 us
+0 
+Prediction 677 took 207 us
+0 
+Prediction 678 took 208 us
+0 
+Prediction 679 took 208 us
+0 
+Prediction 680 took 209 us
+0 
+Prediction 681 took 207 us
+0 
+Prediction 682 took 208 us
+0 
+Prediction 683 took 207 us
+0 
+Prediction 684 took 207 us
+0 
+Prediction 685 took 208 us
+0 
+Prediction 686 took 207 us
+0 
+Prediction 687 took 208 us
+0 
+Prediction 688 took 208 us
+0 
+Prediction 689 took 209 us
+0 
+Prediction 690 took 207 us
+0 
+Prediction 691 took 207 us
+0 
+Prediction 692 took 208 us
+0 
+Prediction 693 took 208 us
+0 
+Prediction 694 took 208 us
+0 
+Prediction 695 took 208 us
+0 
+Prediction 696 took 207 us
+0 
+Prediction 697 took 207 us
+0 
+Prediction 698 took 208 us
+0 
+Prediction 699 took 207 us
+0 
+Prediction 700 took 208 us
+0 
+Prediction 701 took 207 us
+0 
+Prediction 702 took 207 us
+0 
+Prediction 703 took 208 us
+0 
+Prediction 704 took 207 us
+0 
+Prediction 705 took 208 us
+0 
+Prediction 706 took 208 us
+0 
+Prediction 707 took 208 us
+0 
+Prediction 708 took 208 us
+0 
+Prediction 709 took 207 us
+0 
+Prediction 710 took 208 us
+0 
+Prediction 711 took 208 us
+0 
+Prediction 712 took 208 us
+0 
+Prediction 713 took 208 us
+0 
+Prediction 714 took 207 us
+0 
+Prediction 715 took 207 us
+0 
+Prediction 716 took 209 us
+0 
+Prediction 717 took 207 us
+0 
+Prediction 718 took 208 us
+0 
+Prediction 719 took 207 us
+0 
+Prediction 720 took 208 us
+0 
+Prediction 721 took 208 us
+0 
+Prediction 722 took 207 us
+0 
+Prediction 723 took 208 us
+0 
+Prediction 724 took 208 us
+0 
+Prediction 725 took 208 us
+0 
+Prediction 726 took 207 us
+0 
+Prediction 727 took 207 us
+0 
+Prediction 728 took 207 us
+0 
+Prediction 729 took 209 us
+0 
+Prediction 730 took 207 us
+0 
+Prediction 731 took 208 us
+0 
+Prediction 732 took 207 us
+0 
+Prediction 733 took 207 us
+0 
+Prediction 734 took 208 us
+0 
+Prediction 735 took 207 us
+0 
+Prediction 736 took 207 us
+0 
+Prediction 737 took 208 us
+0 
+Prediction 738 took 208 us
+0 
+Prediction 739 took 207 us
+0 
+Prediction 740 took 208 us
+0 
+Prediction 741 took 207 us
+0 
+Prediction 742 took 207 us
+0 
+Prediction 743 took 209 us
+0 
+Prediction 744 took 207 us
+0 
+Prediction 745 took 208 us
+0 
+Prediction 746 took 208 us
+0 
+Prediction 747 took 208 us
+0 
+Prediction 748 took 208 us
+0 
+Prediction 749 took 207 us
+0 
+Prediction 750 took 208 us
+0 
+Prediction 751 took 208 us
+0 
+Prediction 752 took 208 us
+0 
+Prediction 753 took 207 us
+0 
+Prediction 754 took 208 us
+0 
+Prediction 755 took 208 us
+0 
+Prediction 756 took 207 us
+0 
+Prediction 757 took 208 us
+0 
+Prediction 758 took 207 us
+0 
+Prediction 759 took 208 us
+0 
+Prediction 760 took 207 us
+0 
+Prediction 761 took 208 us
+0 
+Prediction 762 took 207 us
+0 
+Prediction 763 took 208 us
+0 
+Prediction 764 took 208 us
+0 
+Prediction 765 took 208 us
+0 
+Prediction 766 took 207 us
+0 
+Prediction 767 took 208 us
+0 
+Prediction 768 took 207 us
+0 
+Prediction 769 took 208 us
+0 
+Prediction 770 took 208 us
+0 
+Prediction 771 took 207 us
+0 
+Prediction 772 took 208 us
+0 
+Prediction 773 took 207 us
+0 
+Prediction 774 took 208 us
+0 
+Prediction 775 took 208 us
+0 
+Prediction 776 took 207 us
+0 
+Prediction 777 took 208 us
+0 
+Prediction 778 took 208 us
+0 
+Prediction 779 took 208 us
+0 
+Prediction 780 took 207 us
+0 
+Prediction 781 took 207 us
+0 
+Prediction 782 took 208 us
+0 
+Prediction 783 took 208 us
+0 
+Prediction 784 took 208 us
+0 
+Prediction 785 took 207 us
+0 
+Prediction 786 took 207 us
+0 
+Prediction 787 took 208 us
+0 
+Prediction 788 took 208 us
+0 
+Prediction 789 took 207 us
+0 
+Prediction 790 took 208 us
+0 
+Prediction 791 took 207 us
+0 
+Prediction 792 took 208 us
+0 
+Prediction 793 took 208 us
+0 
+Prediction 794 took 207 us
+0 
+Prediction 795 took 207 us
+0 
+Prediction 796 took 209 us
+0 
+Prediction 797 took 207 us
+0 
+Prediction 798 took 208 us
+0 
+Prediction 799 took 207 us
+0 
+Prediction 800 took 207 us
+0 
+Prediction 801 took 208 us
+0 
+Prediction 802 took 207 us
+0 
+Prediction 803 took 208 us
+0 
+Prediction 804 took 208 us
+0 
+Prediction 805 took 208 us
+0 
+Prediction 806 took 207 us
+0 
+Prediction 807 took 207 us
+0 
+Prediction 808 took 207 us
+0 
+Prediction 809 took 208 us
+0 
+Prediction 810 took 208 us
+0 
+Prediction 811 took 208 us
+0 
+Prediction 812 took 207 us
+0 
+Prediction 813 took 207 us
+0 
+Prediction 814 took 209 us
+0 
+Prediction 815 took 207 us
+0 
+Prediction 816 took 208 us
+0 
+Prediction 817 took 208 us
+0 
+Prediction 818 took 208 us
+0 
+Prediction 819 took 208 us
+0 
+Prediction 820 took 208 us
+0 
+Prediction 821 took 207 us
+0 
+Prediction 822 took 208 us
+0 
+Prediction 823 took 208 us
+0 
+Prediction 824 took 208 us
+0 
+Prediction 825 took 207 us
+0 
+Prediction 826 took 207 us
+0 
+Prediction 827 took 208 us
+0 
+Prediction 828 took 208 us
+0 
+Prediction 829 took 207 us
+0 
+Prediction 830 took 208 us
+0 
+Prediction 831 took 208 us
+0 
+Prediction 832 took 208 us
+0 
+Prediction 833 took 207 us
+0 
+Prediction 834 took 208 us
+0 
+Prediction 835 took 207 us
+0 
+Prediction 836 took 208 us
+0 
+Prediction 837 took 208 us
+0 
+Prediction 838 took 207 us
+0 
+Prediction 839 took 207 us
+0 
+Prediction 840 took 208 us
+0 
+Prediction 841 took 207 us
+0 
+Prediction 842 took 208 us
+0 
+Prediction 843 took 207 us
+0 
+Prediction 844 took 208 us
+0 
+Prediction 845 took 208 us
+0 
+Prediction 846 took 207 us
+0 
+Prediction 847 took 208 us
+0 
+Prediction 848 took 207 us
+0 
+Prediction 849 took 208 us
+0 
+Prediction 850 took 208 us
+0 
+Prediction 851 took 207 us
+0 
+Prediction 852 took 208 us
+0 
+Prediction 853 took 208 us
+0 
+Prediction 854 took 209 us
+0 
+Prediction 855 took 207 us
+0 
+Prediction 856 took 208 us
+0 
+Prediction 857 took 208 us
+0 
+Prediction 858 took 208 us
+0 
+Prediction 859 took 207 us
+0 
+Prediction 860 took 208 us
+0 
+Prediction 861 took 207 us
+0 
+Prediction 862 took 207 us
+0 
+Prediction 863 took 209 us
+0 
+Prediction 864 took 207 us
+0 
+Prediction 865 took 208 us
+0 
+Prediction 866 took 208 us
+0 
+Prediction 867 took 208 us
+0 
+Prediction 868 took 208 us
+0 
+Prediction 869 took 208 us
+0 
+Prediction 870 took 207 us
+0 
+Prediction 871 took 208 us
+0 
+Prediction 872 took 209 us
+0 
+Prediction 873 took 207 us
+0 
+Prediction 874 took 208 us
+0 
+Prediction 875 took 208 us
+0 
+Prediction 876 took 208 us
+0 
+Prediction 877 took 207 us
+0 
+Prediction 878 took 208 us
+0 
+Prediction 879 took 207 us
+0 
+Prediction 880 took 207 us
+0 
+Prediction 881 took 207 us
+0 
+Prediction 882 took 207 us
+0 
+Prediction 883 took 208 us
+0 
+Prediction 884 took 208 us
+0 
+Prediction 885 took 208 us
+0 
+Prediction 886 took 208 us
+0 
+Prediction 887 took 207 us
+0 
+Prediction 888 took 208 us
+0 
+Prediction 889 took 208 us
+0 
+Prediction 890 took 207 us
+0 
+Prediction 891 took 208 us
+0 
+Prediction 892 took 207 us
+0 
+Prediction 893 took 207 us
+0 
+Prediction 894 took 208 us
+0 
+Prediction 895 took 207 us
+0 
+Prediction 896 took 208 us
+0 
+Prediction 897 took 207 us
+0 
+Prediction 898 took 209 us
+0 
+Prediction 899 took 207 us
+0 
+Prediction 900 took 208 us
+0 
+Prediction 901 took 207 us
+0 
+Prediction 902 took 207 us
+0 
+Prediction 903 took 208 us
+0 
+Prediction 904 took 208 us
+0 
+Prediction 905 took 207 us
+0 
+Prediction 906 took 207 us
+0 
+Prediction 907 took 208 us
+0 
+Prediction 908 took 207 us
+0 
+Prediction 909 took 207 us
+0 
+Prediction 910 took 208 us
+0 
+Prediction 911 took 207 us
+0 
+Prediction 912 took 208 us
+0 
+Prediction 913 took 208 us
+0 
+Prediction 914 took 207 us
+0 
+Prediction 915 took 207 us
+0 
+Prediction 916 took 208 us
+0 
+Prediction 917 took 208 us
+0 
+Prediction 918 took 207 us
+0 
+Prediction 919 took 208 us
+0 
+Prediction 920 took 208 us
+0 
+Prediction 921 took 208 us
+0 
+Prediction 922 took 208 us
+0 
+Prediction 923 took 207 us
+0 
+Prediction 924 took 207 us
+0 
+Prediction 925 took 209 us
+0 
+Prediction 926 took 208 us
+0 
+Prediction 927 took 207 us
+0 
+Prediction 928 took 208 us
+0 
+Prediction 929 took 209 us
+0 
+Prediction 930 took 207 us
+0 
+Prediction 931 took 208 us
+0 
+Prediction 932 took 207 us
+0 
+Prediction 933 took 208 us
+0 
+Prediction 934 took 207 us
+0 
+Prediction 935 took 207 us
+0 
+Prediction 936 took 208 us
+0 
+Prediction 937 took 207 us
+0 
+Prediction 938 took 208 us
+0 
+Prediction 939 took 208 us
+0 
+Prediction 940 took 207 us
+0 
+Prediction 941 took 208 us
+0 
+Prediction 942 took 208 us
+0 
+Prediction 943 took 209 us
+0 
+Prediction 944 took 207 us
+0 
+Prediction 945 took 208 us
+0 
+Prediction 946 took 208 us
+0 
+Prediction 947 took 208 us
+0 
+Prediction 948 took 208 us
+0 
+Prediction 949 took 207 us
+0 
+Prediction 950 took 208 us
+0 
+Prediction 951 took 208 us
+0 
+Prediction 952 took 208 us
+0 
+Prediction 953 took 208 us
+0 
+Prediction 954 took 207 us
+0 
+Prediction 955 took 207 us
+0 
+Prediction 956 took 208 us
+0 
+Prediction 957 took 208 us
+0 
+Prediction 958 took 208 us
+0 
+Prediction 959 took 207 us
+0 
+Prediction 960 took 208 us
+0 
+Prediction 961 took 208 us
+0 
+Prediction 962 took 208 us
+0 
+Prediction 963 took 207 us
+0 
+Prediction 964 took 207 us
+0 
+Prediction 965 took 208 us
+0 
+Prediction 966 took 208 us
+0 
+Prediction 967 took 207 us
+0 
+Prediction 968 took 207 us
+0 
+Prediction 969 took 208 us
+0 
+Prediction 970 took 208 us
+0 
+Prediction 971 took 207 us
+0 
+Prediction 972 took 208 us
+0 
+Prediction 973 took 208 us
+0 
+Prediction 974 took 209 us
+0 
+Prediction 975 took 207 us
+0 
+Prediction 976 took 208 us
+0 
+Prediction 977 took 208 us
+0 
+Prediction 978 took 208 us
+0 
+Prediction 979 took 208 us
+0 
+Prediction 980 took 208 us
+0 
+Prediction 981 took 207 us
+0 
+Prediction 982 took 207 us
+0 
+Prediction 983 took 209 us
+0 
+Prediction 984 took 207 us
+0 
+Prediction 985 took 208 us
+0 
+Prediction 986 took 208 us
+0 
+Prediction 987 took 208 us
+0 
+Prediction 988 took 208 us
+0 
+Prediction 989 took 207 us
+0 
+Prediction 990 took 208 us
+0 
+Prediction 991 took 208 us
+0 
+Prediction 992 took 208 us
+0 
+Prediction 993 took 207 us
+0 
+Prediction 994 took 208 us
+0 
+Prediction 995 took 208 us
+0 
+Prediction 996 took 208 us
+0 
+Prediction 997 took 208 us
+0 
+Prediction 998 took 207 us
+0 
+Prediction 999 took 207 us
+
+Finished 1000 iter in 3258 - 47 = 3 s
+Weights matrix: 1 x 8
+136 194 59 72 75 74 80 201 
+Bias matrix: 1 x8
+0 0 0 0 0 0 0 0 
+Weights matrix: 8 x 8
+57 4 159 195 191 56 202 29 
+159 193 215 63 50 125 8 30 
+38 74 241 237 46 101 96 10 
+153 251 187 0 148 72 117 145 
+194 82 9 185 34 56 188 166 
+83 179 53 11 137 31 39 73 
+148 66 103 128 186 192 23 189 
+221 88 97 153 79 72 94 239 
+Bias matrix: 1 x8
+0 0 0 0 0 0 0 0 
+Weights matrix: 8 x 1
+201 
+237 
+76 
+13 
+72 
+158 
+12 
+138 
+Bias matrix: 1 x1
+0 
+Starting
+0 
+Prediction 0 took 208 us
+0 
+Prediction 1 took 207 us
+0 
+Prediction 2 took 207 us
+0 
+Prediction 3 took 208 us
+0 
+Prediction 4 took 208 us
+0 
+Prediction 5 took 208 us
+0 
+Prediction 6 took 208 us
+0 
+Prediction 7 took 208 us
+0 
+Prediction 8 took 208 us
+0 
+Prediction 9 took 208 us
+0 
+Prediction 10 took 207 us
+0 
+Prediction 11 took 207 us
+0 
+Prediction 12 took 208 us
+0 
+Prediction 13 took 208 us
+0 
+Prediction 14 took 208 us
+0 
+Prediction 15 took 208 us
+0 
+Prediction 16 took 207 us
+0 
+Prediction 17 took 208 us
+0 
+Prediction 18 took 207 us
+0 
+Prediction 19 took 208 us
+0 
+Prediction 20 took 207 us
+0 
+Prediction 21 took 206 us
+0 
+Prediction 22 took 208 us
+0 
+Prediction 23 took 207 us
+0 
+Prediction 24 took 207 us
+0 
+Prediction 25 took 208 us
+0 
+Prediction 26 took 207 us
+0 
+Prediction 27 took 208 us
+0 
+Prediction 28 took 208 us
+0 
+Prediction 29 took 208 us
+0 
+Prediction 30 took 207 us
+0 
+Prediction 31 took 207 us
+0 
+Prediction 32 took 208 us
+0 
+Prediction 33 took 208 us
+0 
+Prediction 34 took 208 us
+0 
+Prediction 35 took 207 us
+0 
+Prediction 36 took 209 us
+0 
+Prediction 37 took 207 us
+0 
+Prediction 38 took 207 us
+0 
+Prediction 39 took 208 us
+0 
+Prediction 40 took 207 us
+0 
+Prediction 41 took 208 us
+0 
+Prediction 42 took 207 us
+0 
+Prediction 43 took 209 us
+0 
+Prediction 44 took 208 us
+0 
+Prediction 45 took 208 us
+0 
+Prediction 46 took 207 us
+0 
+Prediction 47 took 207 us
+0 
+Prediction 48 took 207 us
+0 
+Prediction 49 took 207 us
+0 
+Prediction 50 took 208 us
+0 
+Prediction 51 took 208 us
+0 
+Prediction 52 took 208 us
+0 
+Prediction 53 took 208 us
+0 
+Prediction 54 took 207 us
+0 
+Prediction 55 took 207 us
+0 
+Prediction 56 took 208 us
+0 
+Prediction 57 took 207 us
+0 
+Prediction 58 took 208 us
+0 
+Prediction 59 took 208 us
+0 
+Prediction 60 took 207 us
+0 
+Prediction 61 took 208 us
+0 
+Prediction 62 took 207 us
+0 
+Prediction 63 took 208 us
+0 
+Prediction 64 took 207 us
+0 
+Prediction 65 took 208 us
+0 
+Prediction 66 took 208 us
+0 
+Prediction 67 took 208 us
+0 
+Prediction 68 took 208 us
+0 
+Prediction 69 took 207 us
+0 
+Prediction 70 took 207 us
+0 
+Prediction 71 took 207 us
+0 
+Prediction 72 took 208 us
+0 
+Prediction 73 took 208 us
+0 
+Prediction 74 took 209 us
+0 
+Prediction 75 took 208 us
+0 
+Prediction 76 took 207 us
+0 
+Prediction 77 took 207 us
+0 
+Prediction 78 took 208 us
+0 
+Prediction 79 took 207 us
+0 
+Prediction 80 took 207 us
+0 
+Prediction 81 took 208 us
+0 
+Prediction 82 took 208 us
+0 
+Prediction 83 took 207 us
+0 
+Prediction 84 took 207 us
+0 
+Prediction 85 took 208 us
+0 
+Prediction 86 took 207 us
+0 
+Prediction 87 took 208 us
+0 
+Prediction 88 took 208 us
+0 
+Prediction 89 took 208 us
+0 
+Prediction 90 took 207 us
+0 
+Prediction 91 took 208 us
+0 
+Prediction 92 took 207 us
+0 
+Prediction 93 took 207 us
+0 
+Prediction 94 took 207 us
+0 
+Prediction 95 took 207 us
+0 
+Prediction 96 took 208 us
+0 
+Prediction 97 took 208 us
+0 
+Prediction 98 took 207 us
+0 
+Prediction 99 took 208 us
+0 
+Prediction 100 took 207 us
+0 
+Prediction 101 took 208 us
+0 
+Prediction 102 took 208 us
+0 
+Prediction 103 took 208 us
+0 
+Prediction 104 took 207 us
+0 
+Prediction 105 took 208 us
+0 
+Prediction 106 took 208 us
+0 
+Prediction 107 took 208 us
+0 
+Prediction 108 took 208 us
+0 
+Prediction 109 took 207 us
+0 
+Prediction 110 took 207 us
+0 
+Prediction 111 took 208 us
+0 
+Prediction 112 took 207 us
+0 
+Prediction 113 took 207 us
+0 
+Prediction 114 took 208 us
+0 
+Prediction 115 took 208 us
+0 
+Prediction 116 took 208 us
+0 
+Prediction 117 took 208 us
+0 
+Prediction 118 took 207 us
+0 
+Prediction 119 took 207 us
+0 
+Prediction 120 took 209 us
+0 
+Prediction 121 took 207 us
+0 
+Prediction 122 took 208 us
+0 
+Prediction 123 took 207 us
+0 
+Prediction 124 took 207 us
+0 
+Prediction 125 took 207 us
+0 
+Prediction 126 took 207 us
+0 
+Prediction 127 took 208 us
+0 
+Prediction 128 took 208 us
+0 
+Prediction 129 took 208 us
+0 
+Prediction 130 took 207 us
+0 
+Prediction 131 took 208 us
+0 
+Prediction 132 took 208 us
+0 
+Prediction 133 took 209 us
+0 
+Prediction 134 took 208 us
+0 
+Prediction 135 took 207 us
+0 
+Prediction 136 took 208 us
+0 
+Prediction 137 took 208 us
+0 
+Prediction 138 took 208 us
+0 
+Prediction 139 took 208 us
+0 
+Prediction 140 took 207 us
+0 
+Prediction 141 took 208 us
+0 
+Prediction 142 took 209 us
+0 
+Prediction 143 took 208 us
+0 
+Prediction 144 took 207 us
+0 
+Prediction 145 took 208 us
+0 
+Prediction 146 took 208 us
+0 
+Prediction 147 took 209 us
+0 
+Prediction 148 took 207 us
+0 
+Prediction 149 took 208 us
+0 
+Prediction 150 took 207 us
+0 
+Prediction 151 took 208 us
+0 
+Prediction 152 took 208 us
+0 
+Prediction 153 took 207 us
+0 
+Prediction 154 took 208 us
+0 
+Prediction 155 took 207 us
+0 
+Prediction 156 took 208 us
+0 
+Prediction 157 took 208 us
+0 
+Prediction 158 took 207 us
+0 
+Prediction 159 took 208 us
+0 
+Prediction 160 took 209 us
+0 
+Prediction 161 took 207 us
+0 
+Prediction 162 took 208 us
+0 
+Prediction 163 took 207 us
+0 
+Prediction 164 took 207 us
+0 
+Prediction 165 took 207 us
+0 
+Prediction 166 took 207 us
+0 
+Prediction 167 took 207 us
+0 
+Prediction 168 took 207 us
+0 
+Prediction 169 took 208 us
+0 
+Prediction 170 took 207 us
+0 
+Prediction 171 took 208 us
+0 
+Prediction 172 took 208 us
+0 
+Prediction 173 took 209 us
+0 
+Prediction 174 took 207 us
+0 
+Prediction 175 took 207 us
+0 
+Prediction 176 took 208 us
+0 
+Prediction 177 took 208 us
+0 
+Prediction 178 took 208 us
+0 
+Prediction 179 took 207 us
+0 
+Prediction 180 took 207 us
+0 
+Prediction 181 took 207 us
+0 
+Prediction 182 took 209 us
+0 
+Prediction 183 took 207 us
+0 
+Prediction 184 took 208 us
+0 
+Prediction 185 took 207 us
+0 
+Prediction 186 took 207 us
+0 
+Prediction 187 took 208 us
+0 
+Prediction 188 took 207 us
+0 
+Prediction 189 took 208 us
+0 
+Prediction 190 took 208 us
+0 
+Prediction 191 took 208 us
+0 
+Prediction 192 took 208 us
+0 
+Prediction 193 took 207 us
+0 
+Prediction 194 took 208 us
+0 
+Prediction 195 took 208 us
+0 
+Prediction 196 took 208 us
+0 
+Prediction 197 took 208 us
+0 
+Prediction 198 took 207 us
+0 
+Prediction 199 took 207 us
+0 
+Prediction 200 took 208 us
+0 
+Prediction 201 took 208 us
+0 
+Prediction 202 took 207 us
+0 
+Prediction 203 took 208 us
+0 
+Prediction 204 took 207 us
+0 
+Prediction 205 took 208 us
+0 
+Prediction 206 took 208 us
+0 
+Prediction 207 took 207 us
+0 
+Prediction 208 took 207 us
+0 
+Prediction 209 took 208 us
+0 
+Prediction 210 took 208 us
+0 
+Prediction 211 took 207 us
+0 
+Prediction 212 took 207 us
+0 
+Prediction 213 took 209 us
+0 
+Prediction 214 took 207 us
+0 
+Prediction 215 took 208 us
+0 
+Prediction 216 took 207 us
+0 
+Prediction 217 took 207 us
+0 
+Prediction 218 took 208 us
+0 
+Prediction 219 took 208 us
+0 
+Prediction 220 took 207 us
+0 
+Prediction 221 took 208 us
+0 
+Prediction 222 took 209 us
+0 
+Prediction 223 took 207 us
+0 
+Prediction 224 took 208 us
+0 
+Prediction 225 took 207 us
+0 
+Prediction 226 took 207 us
+0 
+Prediction 227 took 208 us
+0 
+Prediction 228 took 207 us
+0 
+Prediction 229 took 208 us
+0 
+Prediction 230 took 208 us
+0 
+Prediction 231 took 208 us
+0 
+Prediction 232 took 208 us
+0 
+Prediction 233 took 207 us
+0 
+Prediction 234 took 208 us
+0 
+Prediction 235 took 208 us
+0 
+Prediction 236 took 208 us
+0 
+Prediction 237 took 207 us
+0 
+Prediction 238 took 208 us
+0 
+Prediction 239 took 208 us
+0 
+Prediction 240 took 208 us
+0 
+Prediction 241 took 208 us
+0 
+Prediction 242 took 208 us
+0 
+Prediction 243 took 207 us
+0 
+Prediction 244 took 208 us
+0 
+Prediction 245 took 208 us
+0 
+Prediction 246 took 208 us
+0 
+Prediction 247 took 207 us
+0 
+Prediction 248 took 207 us
+0 
+Prediction 249 took 208 us
+0 
+Prediction 250 took 208 us
+0 
+Prediction 251 took 207 us
+0 
+Prediction 252 took 207 us
+0 
+Prediction 253 took 208 us
+0 
+Prediction 254 took 207 us
+0 
+Prediction 255 took 208 us
+0 
+Prediction 256 took 207 us
+0 
+Prediction 257 took 207 us
+0 
+Prediction 258 took 209 us
+0 
+Prediction 259 took 208 us
+0 
+Prediction 260 took 207 us
+0 
+Prediction 261 took 208 us
+0 
+Prediction 262 took 208 us
+0 
+Prediction 263 took 208 us
+0 
+Prediction 264 took 207 us
+0 
+Prediction 265 took 208 us
+0 
+Prediction 266 took 208 us
+0 
+Prediction 267 took 208 us
+0 
+Prediction 268 took 208 us
+0 
+Prediction 269 took 207 us
+0 
+Prediction 270 took 207 us
+0 
+Prediction 271 took 208 us
+0 
+Prediction 272 took 207 us
+0 
+Prediction 273 took 208 us
+0 
+Prediction 274 took 207 us
+0 
+Prediction 275 took 207 us
+0 
+Prediction 276 took 208 us
+0 
+Prediction 277 took 207 us
+0 
+Prediction 278 took 208 us
+0 
+Prediction 279 took 208 us
+0 
+Prediction 280 took 208 us
+0 
+Prediction 281 took 208 us
+0 
+Prediction 282 took 207 us
+0 
+Prediction 283 took 208 us
+0 
+Prediction 284 took 207 us
+0 
+Prediction 285 took 208 us
+0 
+Prediction 286 took 208 us
+0 
+Prediction 287 took 207 us
+0 
+Prediction 288 took 207 us
+0 
+Prediction 289 took 209 us
+0 
+Prediction 290 took 207 us
+0 
+Prediction 291 took 208 us
+0 
+Prediction 292 took 207 us
+0 
+Prediction 293 took 207 us
+0 
+Prediction 294 took 208 us
+0 
+Prediction 295 took 207 us
+0 
+Prediction 296 took 207 us
+0 
+Prediction 297 took 207 us
+0 
+Prediction 298 took 207 us
+0 
+Prediction 299 took 208 us
+0 
+Prediction 300 took 207 us
+0 
+Prediction 301 took 208 us
+0 
+Prediction 302 took 208 us
+0 
+Prediction 303 took 208 us
+0 
+Prediction 304 took 208 us
+0 
+Prediction 305 took 207 us
+0 
+Prediction 306 took 208 us
+0 
+Prediction 307 took 209 us
+0 
+Prediction 308 took 207 us
+0 
+Prediction 309 took 208 us
+0 
+Prediction 310 took 207 us
+0 
+Prediction 311 took 208 us
+0 
+Prediction 312 took 208 us
+0 
+Prediction 313 took 207 us
+0 
+Prediction 314 took 208 us
+0 
+Prediction 315 took 207 us
+0 
+Prediction 316 took 208 us
+0 
+Prediction 317 took 207 us
+0 
+Prediction 318 took 207 us
+0 
+Prediction 319 took 208 us
+0 
+Prediction 320 took 208 us
+0 
+Prediction 321 took 207 us
+0 
+Prediction 322 took 208 us
+0 
+Prediction 323 took 207 us
+0 
+Prediction 324 took 208 us
+0 
+Prediction 325 took 208 us
+0 
+Prediction 326 took 208 us
+0 
+Prediction 327 took 207 us
+0 
+Prediction 328 took 207 us
+0 
+Prediction 329 took 207 us
+0 
+Prediction 330 took 207 us
+0 
+Prediction 331 took 208 us
+0 
+Prediction 332 took 207 us
+0 
+Prediction 333 took 207 us
+0 
+Prediction 334 took 207 us
+0 
+Prediction 335 took 208 us
+0 
+Prediction 336 took 207 us
+0 
+Prediction 337 took 207 us
+0 
+Prediction 338 took 208 us
+0 
+Prediction 339 took 207 us
+0 
+Prediction 340 took 208 us
+0 
+Prediction 341 took 208 us
+0 
+Prediction 342 took 209 us
+0 
+Prediction 343 took 207 us
+0 
+Prediction 344 took 208 us
+0 
+Prediction 345 took 207 us
+0 
+Prediction 346 took 207 us
+0 
+Prediction 347 took 208 us
+0 
+Prediction 348 took 207 us
+0 
+Prediction 349 took 208 us
+0 
+Prediction 350 took 208 us
+0 
+Prediction 351 took 209 us
+0 
+Prediction 352 took 207 us
+0 
+Prediction 353 took 207 us
+0 
+Prediction 354 took 208 us
+0 
+Prediction 355 took 208 us
+0 
+Prediction 356 took 208 us
+0 
+Prediction 357 took 208 us
+0 
+Prediction 358 took 207 us
+0 
+Prediction 359 took 207 us
+0 
+Prediction 360 took 208 us
+0 
+Prediction 361 took 207 us
+0 
+Prediction 362 took 208 us
+0 
+Prediction 363 took 207 us
+0 
+Prediction 364 took 207 us
+0 
+Prediction 365 took 208 us
+0 
+Prediction 366 took 207 us
+0 
+Prediction 367 took 208 us
+0 
+Prediction 368 took 208 us
+0 
+Prediction 369 took 208 us
+0 
+Prediction 370 took 208 us
+0 
+Prediction 371 took 207 us
+0 
+Prediction 372 took 208 us
+0 
+Prediction 373 took 208 us
+0 
+Prediction 374 took 208 us
+0 
+Prediction 375 took 208 us
+0 
+Prediction 376 took 207 us
+0 
+Prediction 377 took 207 us
+0 
+Prediction 378 took 209 us
+0 
+Prediction 379 took 207 us
+0 
+Prediction 380 took 208 us
+0 
+Prediction 381 took 207 us
+0 
+Prediction 382 took 208 us
+0 
+Prediction 383 took 208 us
+0 
+Prediction 384 took 207 us
+0 
+Prediction 385 took 208 us
+0 
+Prediction 386 took 208 us
+0 
+Prediction 387 took 208 us
+0 
+Prediction 388 took 207 us
+0 
+Prediction 389 took 207 us
+0 
+Prediction 390 took 207 us
+0 
+Prediction 391 took 209 us
+0 
+Prediction 392 took 207 us
+0 
+Prediction 393 took 208 us
+0 
+Prediction 394 took 207 us
+0 
+Prediction 395 took 207 us
+0 
+Prediction 396 took 208 us
+0 
+Prediction 397 took 207 us
+0 
+Prediction 398 took 207 us
+0 
+Prediction 399 took 208 us
+0 
+Prediction 400 took 208 us
+0 
+Prediction 401 took 207 us
+0 
+Prediction 402 took 208 us
+0 
+Prediction 403 took 207 us
+0 
+Prediction 404 took 207 us
+0 
+Prediction 405 took 209 us
+0 
+Prediction 406 took 207 us
+0 
+Prediction 407 took 208 us
+0 
+Prediction 408 took 208 us
+0 
+Prediction 409 took 208 us
+0 
+Prediction 410 took 208 us
+0 
+Prediction 411 took 207 us
+0 
+Prediction 412 took 208 us
+0 
+Prediction 413 took 208 us
+0 
+Prediction 414 took 208 us
+0 
+Prediction 415 took 207 us
+0 
+Prediction 416 took 208 us
+0 
+Prediction 417 took 208 us
+0 
+Prediction 418 took 207 us
+0 
+Prediction 419 took 208 us
+0 
+Prediction 420 took 207 us
+0 
+Prediction 421 took 208 us
+0 
+Prediction 422 took 207 us
+0 
+Prediction 423 took 208 us
+0 
+Prediction 424 took 207 us
+0 
+Prediction 425 took 208 us
+0 
+Prediction 426 took 208 us
+0 
+Prediction 427 took 208 us
+0 
+Prediction 428 took 207 us
+0 
+Prediction 429 took 208 us
+0 
+Prediction 430 took 207 us
+0 
+Prediction 431 took 208 us
+0 
+Prediction 432 took 208 us
+0 
+Prediction 433 took 207 us
+0 
+Prediction 434 took 208 us
+0 
+Prediction 435 took 207 us
+0 
+Prediction 436 took 208 us
+0 
+Prediction 437 took 208 us
+0 
+Prediction 438 took 207 us
+0 
+Prediction 439 took 208 us
+0 
+Prediction 440 took 208 us
+0 
+Prediction 441 took 208 us
+0 
+Prediction 442 took 207 us
+0 
+Prediction 443 took 207 us
+0 
+Prediction 444 took 208 us
+0 
+Prediction 445 took 208 us
+0 
+Prediction 446 took 208 us
+0 
+Prediction 447 took 207 us
+0 
+Prediction 448 took 207 us
+0 
+Prediction 449 took 208 us
+0 
+Prediction 450 took 208 us
+0 
+Prediction 451 took 207 us
+0 
+Prediction 452 took 208 us
+0 
+Prediction 453 took 207 us
+0 
+Prediction 454 took 208 us
+0 
+Prediction 455 took 208 us
+0 
+Prediction 456 took 207 us
+0 
+Prediction 457 took 207 us
+0 
+Prediction 458 took 209 us
+0 
+Prediction 459 took 207 us
+0 
+Prediction 460 took 208 us
+0 
+Prediction 461 took 207 us
+0 
+Prediction 462 took 207 us
+0 
+Prediction 463 took 208 us
+0 
+Prediction 464 took 207 us
+0 
+Prediction 465 took 207 us
+0 
+Prediction 466 took 207 us
+0 
+Prediction 467 took 207 us
+0 
+Prediction 468 took 208 us
+0 
+Prediction 469 took 207 us
+0 
+Prediction 470 took 208 us
+0 
+Prediction 471 took 208 us
+0 
+Prediction 472 took 208 us
+0 
+Prediction 473 took 208 us
+0 
+Prediction 474 took 207 us
+0 
+Prediction 475 took 208 us
+0 
+Prediction 476 took 209 us
+0 
+Prediction 477 took 207 us
+0 
+Prediction 478 took 208 us
+0 
+Prediction 479 took 207 us
+0 
+Prediction 480 took 208 us
+0 
+Prediction 481 took 208 us
+0 
+Prediction 482 took 207 us
+0 
+Prediction 483 took 208 us
+0 
+Prediction 484 took 207 us
+0 
+Prediction 485 took 208 us
+0 
+Prediction 486 took 207 us
+0 
+Prediction 487 took 207 us
+0 
+Prediction 488 took 208 us
+0 
+Prediction 489 took 208 us
+0 
+Prediction 490 took 207 us
+0 
+Prediction 491 took 208 us
+0 
+Prediction 492 took 207 us
+0 
+Prediction 493 took 208 us
+0 
+Prediction 494 took 208 us
+0 
+Prediction 495 took 208 us
+0 
+Prediction 496 took 207 us
+0 
+Prediction 497 took 207 us
+0 
+Prediction 498 took 207 us
+0 
+Prediction 499 took 207 us
+0 
+Prediction 500 took 208 us
+0 
+Prediction 501 took 207 us
+0 
+Prediction 502 took 207 us
+0 
+Prediction 503 took 207 us
+0 
+Prediction 504 took 208 us
+0 
+Prediction 505 took 207 us
+0 
+Prediction 506 took 207 us
+0 
+Prediction 507 took 208 us
+0 
+Prediction 508 took 207 us
+0 
+Prediction 509 took 208 us
+0 
+Prediction 510 took 208 us
+0 
+Prediction 511 took 209 us
+0 
+Prediction 512 took 207 us
+0 
+Prediction 513 took 208 us
+0 
+Prediction 514 took 207 us
+0 
+Prediction 515 took 207 us
+0 
+Prediction 516 took 208 us
+0 
+Prediction 517 took 207 us
+0 
+Prediction 518 took 208 us
+0 
+Prediction 519 took 208 us
+0 
+Prediction 520 took 209 us
+0 
+Prediction 521 took 207 us
+0 
+Prediction 522 took 207 us
+0 
+Prediction 523 took 208 us
+0 
+Prediction 524 took 208 us
+0 
+Prediction 525 took 208 us
+0 
+Prediction 526 took 208 us
+0 
+Prediction 527 took 207 us
+0 
+Prediction 528 took 207 us
+0 
+Prediction 529 took 208 us
+0 
+Prediction 530 took 207 us
+0 
+Prediction 531 took 208 us
+0 
+Prediction 532 took 207 us
+0 
+Prediction 533 took 207 us
+0 
+Prediction 534 took 208 us
+0 
+Prediction 535 took 207 us
+0 
+Prediction 536 took 208 us
+0 
+Prediction 537 took 208 us
+0 
+Prediction 538 took 208 us
+0 
+Prediction 539 took 208 us
+0 
+Prediction 540 took 207 us
+0 
+Prediction 541 took 208 us
+0 
+Prediction 542 took 208 us
+0 
+Prediction 543 took 208 us
+0 
+Prediction 544 took 208 us
+0 
+Prediction 545 took 207 us
+0 
+Prediction 546 took 207 us
+0 
+Prediction 547 took 209 us
+0 
+Prediction 548 took 207 us
+0 
+Prediction 549 took 208 us
+0 
+Prediction 550 took 207 us
+0 
+Prediction 551 took 208 us
+0 
+Prediction 552 took 208 us
+0 
+Prediction 553 took 207 us
+0 
+Prediction 554 took 208 us
+0 
+Prediction 555 took 208 us
+0 
+Prediction 556 took 208 us
+0 
+Prediction 557 took 207 us
+0 
+Prediction 558 took 207 us
+0 
+Prediction 559 took 207 us
+0 
+Prediction 560 took 209 us
+0 
+Prediction 561 took 207 us
+0 
+Prediction 562 took 208 us
+0 
+Prediction 563 took 207 us
+0 
+Prediction 564 took 207 us
+0 
+Prediction 565 took 208 us
+0 
+Prediction 566 took 207 us
+0 
+Prediction 567 took 207 us
+0 
+Prediction 568 took 208 us
+0 
+Prediction 569 took 208 us
+0 
+Prediction 570 took 207 us
+0 
+Prediction 571 took 208 us
+0 
+Prediction 572 took 207 us
+0 
+Prediction 573 took 207 us
+0 
+Prediction 574 took 209 us
+0 
+Prediction 575 took 207 us
+0 
+Prediction 576 took 208 us
+0 
+Prediction 577 took 208 us
+0 
+Prediction 578 took 208 us
+0 
+Prediction 579 took 208 us
+0 
+Prediction 580 took 207 us
+0 
+Prediction 581 took 208 us
+0 
+Prediction 582 took 208 us
+0 
+Prediction 583 took 208 us
+0 
+Prediction 584 took 207 us
+0 
+Prediction 585 took 208 us
+0 
+Prediction 586 took 208 us
+0 
+Prediction 587 took 207 us
+0 
+Prediction 588 took 208 us
+0 
+Prediction 589 took 207 us
+0 
+Prediction 590 took 208 us
+0 
+Prediction 591 took 207 us
+0 
+Prediction 592 took 208 us
+0 
+Prediction 593 took 207 us
+0 
+Prediction 594 took 208 us
+0 
+Prediction 595 took 208 us
+0 
+Prediction 596 took 208 us
+0 
+Prediction 597 took 207 us
+0 
+Prediction 598 took 208 us
+0 
+Prediction 599 took 207 us
+0 
+Prediction 600 took 208 us
+0 
+Prediction 601 took 208 us
+0 
+Prediction 602 took 207 us
+0 
+Prediction 603 took 208 us
+0 
+Prediction 604 took 207 us
+0 
+Prediction 605 took 208 us
+0 
+Prediction 606 took 208 us
+0 
+Prediction 607 took 207 us
+0 
+Prediction 608 took 208 us
+0 
+Prediction 609 took 208 us
+0 
+Prediction 610 took 208 us
+0 
+Prediction 611 took 207 us
+0 
+Prediction 612 took 207 us
+0 
+Prediction 613 took 208 us
+0 
+Prediction 614 took 208 us
+0 
+Prediction 615 took 208 us
+0 
+Prediction 616 took 207 us
+0 
+Prediction 617 took 207 us
+0 
+Prediction 618 took 208 us
+0 
+Prediction 619 took 208 us
+0 
+Prediction 620 took 207 us
+0 
+Prediction 621 took 208 us
+0 
+Prediction 622 took 207 us
+0 
+Prediction 623 took 208 us
+0 
+Prediction 624 took 208 us
+0 
+Prediction 625 took 207 us
+0 
+Prediction 626 took 207 us
+0 
+Prediction 627 took 209 us
+0 
+Prediction 628 took 207 us
+0 
+Prediction 629 took 208 us
+0 
+Prediction 630 took 207 us
+0 
+Prediction 631 took 207 us
+0 
+Prediction 632 took 208 us
+0 
+Prediction 633 took 207 us
+0 
+Prediction 634 took 207 us
+0 
+Prediction 635 took 207 us
+0 
+Prediction 636 took 207 us
+0 
+Prediction 637 took 208 us
+0 
+Prediction 638 took 207 us
+0 
+Prediction 639 took 208 us
+0 
+Prediction 640 took 208 us
+0 
+Prediction 641 took 208 us
+0 
+Prediction 642 took 208 us
+0 
+Prediction 643 took 207 us
+0 
+Prediction 644 took 208 us
+0 
+Prediction 645 took 209 us
+0 
+Prediction 646 took 207 us
+0 
+Prediction 647 took 208 us
+0 
+Prediction 648 took 207 us
+0 
+Prediction 649 took 208 us
+0 
+Prediction 650 took 208 us
+0 
+Prediction 651 took 207 us
+0 
+Prediction 652 took 208 us
+0 
+Prediction 653 took 207 us
+0 
+Prediction 654 took 208 us
+0 
+Prediction 655 took 207 us
+0 
+Prediction 656 took 207 us
+0 
+Prediction 657 took 208 us
+0 
+Prediction 658 took 208 us
+0 
+Prediction 659 took 207 us
+0 
+Prediction 660 took 208 us
+0 
+Prediction 661 took 207 us
+0 
+Prediction 662 took 208 us
+0 
+Prediction 663 took 208 us
+0 
+Prediction 664 took 208 us
+0 
+Prediction 665 took 207 us
+0 
+Prediction 666 took 207 us
+0 
+Prediction 667 took 207 us
+0 
+Prediction 668 took 207 us
+0 
+Prediction 669 took 208 us
+0 
+Prediction 670 took 207 us
+0 
+Prediction 671 took 207 us
+0 
+Prediction 672 took 207 us
+0 
+Prediction 673 took 208 us
+0 
+Prediction 674 took 207 us
+0 
+Prediction 675 took 207 us
+0 
+Prediction 676 took 208 us
+0 
+Prediction 677 took 207 us
+0 
+Prediction 678 took 208 us
+0 
+Prediction 679 took 208 us
+0 
+Prediction 680 took 209 us
+0 
+Prediction 681 took 207 us
+0 
+Prediction 682 took 208 us
+0 
+Prediction 683 took 207 us
+0 
+Prediction 684 took 207 us
+0 
+Prediction 685 took 208 us
+0 
+Prediction 686 took 207 us
+0 
+Prediction 687 took 208 us
+0 
+Prediction 688 took 208 us
+0 
+Prediction 689 took 209 us
+0 
+Prediction 690 took 207 us
+0 
+Prediction 691 took 207 us
+0 
+Prediction 692 took 208 us
+0 
+Prediction 693 took 208 us
+0 
+Prediction 694 took 208 us
+0 
+Prediction 695 took 208 us
+0 
+Prediction 696 took 207 us
+0 
+Prediction 697 took 207 us
+0 
+Prediction 698 took 208 us
+0 
+Prediction 699 took 207 us
+0 
+Prediction 700 took 208 us
+0 
+Prediction 701 took 207 us
+0 
+Prediction 702 took 207 us
+0 
+Prediction 703 took 208 us
+0 
+Prediction 704 took 207 us
+0 
+Prediction 705 took 208 us
+0 
+Prediction 706 took 208 us
+0 
+Prediction 707 took 208 us
+0 
+Prediction 708 took 208 us
+0 
+Prediction 709 took 207 us
+0 
+Prediction 710 took 208 us
+0 
+Prediction 711 took 208 us
+0 
+Prediction 712 took 208 us
+0 
+Prediction 713 took 208 us
+0 
+Prediction 714 took 207 us
+0 
+Prediction 715 took 207 us
+0 
+Prediction 716 took 209 us
+0 
+Prediction 717 took 207 us
+0 
+Prediction 718 took 208 us
+0 
+Prediction 719 took 207 us
+0 
+Prediction 720 took 208 us
+0 
+Prediction 721 took 208 us
+0 
+Prediction 722 took 207 us
+0 
+Prediction 723 took 208 us
+0 
+Prediction 724 took 208 us
+0 
+Prediction 725 took 208 us
+0 
+Prediction 726 took 207 us
+0 
+Prediction 727 took 207 us
+0 
+Prediction 728 took 207 us
+0 
+Prediction 729 took 209 us
+0 
+Prediction 730 took 207 us
+0 
+Prediction 731 took 208 us
+0 
+Prediction 732 took 207 us
+0 
+Prediction 733 took 207 us
+0 
+Prediction 734 took 208 us
+0 
+Prediction 735 took 207 us
+0 
+Prediction 736 took 207 us
+0 
+Prediction 737 took 208 us
+0 
+Prediction 738 took 208 us
+0 
+Prediction 739 took 207 us
+0 
+Prediction 740 took 208 us
+0 
+Prediction 741 took 207 us
+0 
+Prediction 742 took 207 us
+0 
+Prediction 743 took 209 us
+0 
+Prediction 744 took 207 us
+0 
+Prediction 745 took 208 us
+0 
+Prediction 746 took 208 us
+0 
+Prediction 747 took 208 us
+0 
+Prediction 748 took 208 us
+0 
+Prediction 749 took 207 us
+0 
+Prediction 750 took 208 us
+0 
+Prediction 751 took 208 us
+0 
+Prediction 752 took 208 us
+0 
+Prediction 753 took 207 us
+0 
+Prediction 754 took 208 us
+0 
+Prediction 755 took 208 us
+0 
+Prediction 756 took 207 us
+0 
+Prediction 757 took 208 us
+0 
+Prediction 758 took 207 us
+0 
+Prediction 759 took 208 us
+0 
+Prediction 760 took 207 us
+0 
+Prediction 761 took 208 us
+0 
+Prediction 762 took 207 us
+0 
+Prediction 763 took 208 us
+0 
+Prediction 764 took 208 us
+0 
+Prediction 765 took 208 us
+0 
+Prediction 766 took 207 us
+0 
+Prediction 767 took 208 us
+0 
+Prediction 768 took 207 us
+0 
+Prediction 769 took 208 us
+0 
+Prediction 770 took 208 us
+0 
+Prediction 771 took 207 us
+0 
+Prediction 772 took 208 us
+0 
+Prediction 773 took 207 us
+0 
+Prediction 774 took 208 us
+0 
+Prediction 775 took 208 us
+0 
+Prediction 776 took 207 us
+0 
+Prediction 777 took 208 us
+0 
+Prediction 778 took 208 us
+0 
+Prediction 779 took 208 us
+0 
+Prediction 780 took 207 us
+0 
+Prediction 781 took 207 us
+0 
+Prediction 782 took 208 us
+0 
+Prediction 783 took 208 us
+0 
+Prediction 784 took 208 us
+0 
+Prediction 785 took 207 us
+0 
+Prediction 786 took 207 us
+0 
+Prediction 787 took 208 us
+0 
+Prediction 788 took 208 us
+0 
+Prediction 789 took 207 us
+0 
+Prediction 790 took 208 us
+0 
+Prediction 791 took 207 us
+0 
+Prediction 792 took 208 us
+0 
+Prediction 793 took 208 us
+0 
+Prediction 794 took 207 us
+0 
+Prediction 795 took 207 us
+0 
+Prediction 796 took 209 us
+0 
+Prediction 797 took 207 us
+0 
+Prediction 798 took 208 us
+0 
+Prediction 799 took 207 us
+0 
+Prediction 800 took 207 us
+0 
+Prediction 801 took 208 us
+0 
+Prediction 802 took 207 us
+0 
+Prediction 803 took 208 us
+0 
+Prediction 804 took 208 us
+0 
+Prediction 805 took 208 us
+0 
+Prediction 806 took 207 us
+0 
+Prediction 807 took 207 us
+0 
+Prediction 808 took 207 us
+0 
+Prediction 809 took 208 us
+0 
+Prediction 810 took 208 us
+0 
+Prediction 811 took 208 us
+0 
+Prediction 812 took 207 us
+0 
+Prediction 813 took 207 us
+0 
+Prediction 814 took 209 us
+0 
+Prediction 815 took 207 us
+0 
+Prediction 816 took 208 us
+0 
+Prediction 817 took 208 us
+0 
+Prediction 818 took 208 us
+0 
+Prediction 819 took 208 us
+0 
+Prediction 820 took 208 us
+0 
+Prediction 821 took 207 us
+0 
+Prediction 822 took 208 us
+0 
+Prediction 823 took 208 us
+0 
+Prediction 824 took 208 us
+0 
+Prediction 825 took 207 us
+0 
+Prediction 826 took 207 us
+0 
+Prediction 827 took 208 us
+0 
+Prediction 828 took 208 us
+0 
+Prediction 829 took 207 us
+0 
+Prediction 830 took 208 us
+0 
+Prediction 831 took 208 us
+0 
+Prediction 832 took 208 us
+0 
+Prediction 833 took 207 us
+0 
+Prediction 834 took 208 us
+0 
+Prediction 835 took 207 us
+0 
+Prediction 836 took 208 us
+0 
+Prediction 837 took 208 us
+0 
+Prediction 838 took 207 us
+0 
+Prediction 839 took 207 us
+0 
+Prediction 840 took 208 us
+0 
+Prediction 841 took 207 us
+0 
+Prediction 842 took 208 us
+0 
+Prediction 843 took 207 us
+0 
+Prediction 844 took 208 us
+0 
+Prediction 845 took 208 us
+0 
+Prediction 846 took 207 us
+0 
+Prediction 847 took 208 us
+0 
+Prediction 848 took 207 us
+0 
+Prediction 849 took 208 us
+0 
+Prediction 850 took 208 us
+0 
+Prediction 851 took 207 us
+0 
+Prediction 852 took 208 us
+0 
+Prediction 853 took 208 us
+0 
+Prediction 854 took 209 us
+0 
+Prediction 855 took 207 us
+0 
+Prediction 856 took 208 us
+0 
+Prediction 857 took 208 us
+0 
+Prediction 858 took 208 us
+0 
+Prediction 859 took 207 us
+0 
+Prediction 860 took 208 us
+0 
+Prediction 861 took 207 us
+0 
+Prediction 862 took 207 us
+0 
+Prediction 863 took 209 us
+0 
+Prediction 864 took 207 us
+0 
+Prediction 865 took 208 us
+0 
+Prediction 866 took 208 us
+0 
+Prediction 867 took 208 us
+0 
+Prediction 868 took 208 us
+0 
+Prediction 869 took 208 us
+0 
+Prediction 870 took 207 us
+0 
+Prediction 871 took 208 us
+0 
+Prediction 872 took 209 us
+0 
+Prediction 873 took 207 us
+0 
+Prediction 874 took 208 us
+0 
+Prediction 875 took 208 us
+0 
+Prediction 876 took 208 us
+0 
+Prediction 877 took 207 us
+0 
+Prediction 878 took 208 us
+0 
+Prediction 879 took 207 us
+0 
+Prediction 880 took 207 us
+0 
+Prediction 881 took 207 us
+0 
+Prediction 882 took 207 us
+0 
+Prediction 883 took 208 us
+0 
+Prediction 884 took 208 us
+0 
+Prediction 885 took 208 us
+0 
+Prediction 886 took 208 us
+0 
+Prediction 887 took 207 us
+0 
+Prediction 888 took 208 us
+0 
+Prediction 889 took 208 us
+0 
+Prediction 890 took 207 us
+0 
+Prediction 891 took 208 us
+0 
+Prediction 892 took 207 us
+0 
+Prediction 893 took 207 us
+0 
+Prediction 894 took 208 us
+0 
+Prediction 895 took 207 us
+0 
+Prediction 896 took 208 us
+0 
+Prediction 897 took 207 us
+0 
+Prediction 898 took 209 us
+0 
+Prediction 899 took 207 us
+0 
+Prediction 900 took 208 us
+0 
+Prediction 901 took 207 us
+0 
+Prediction 902 took 207 us
+0 
+Prediction 903 took 208 us
+0 
+Prediction 904 took 208 us
+0 
+Prediction 905 took 207 us
+0 
+Prediction 906 took 207 us
+0 
+Prediction 907 took 208 us
+0 
+Prediction 908 took 207 us
+0 
+Prediction 909 took 207 us
+0 
+Prediction 910 took 208 us
+0 
+Prediction 911 took 207 us
+0 
+Prediction 912 took 208 us
+0 
+Prediction 913 took 208 us
+0 
+Prediction 914 took 207 us
+0 
+Prediction 915 took 207 us
+0 
+Prediction 916 took 208 us
+0 
+Prediction 917 took 208 us
+0 
+Prediction 918 took 207 us
+0 
+Prediction 919 took 208 us
+0 
+Prediction 920 took 208 us
+0 
+Prediction 921 took 208 us
+0 
+Prediction 922 took 208 us
+0 
+Prediction 923 took 207 us
+0 
+Prediction 924 took 207 us
+0 
+Prediction 925 took 209 us
+0 
+Prediction 926 took 208 us
+0 
+Prediction 927 took 207 us
+0 
+Prediction 928 took 208 us
+0 
+Prediction 929 took 209 us
+0 
+Prediction 930 took 207 us
+0 
+Prediction 931 took 208 us
+0 
+Prediction 932 took 207 us
+0 
+Prediction 933 took 208 us
+0 
+Prediction 934 took 207 us
+0 
+Prediction 935 took 207 us
+0 
+Prediction 936 took 208 us
+0 
+Prediction 937 took 207 us
+0 
+Prediction 938 took 208 us
+0 
+Prediction 939 took 208 us
+0 
+Prediction 940 took 207 us
+0 
+Prediction 941 took 208 us
+0 
+Prediction 942 took 208 us
+0 
+Prediction 943 took 209 us
+0 
+Prediction 944 took 207 us
+0 
+Prediction 945 took 208 us
+0 
+Prediction 946 took 208 us
+0 
+Prediction 947 took 208 us
+0 
+Prediction 948 took 208 us
+0 
+Prediction 949 took 207 us
+0 
+Prediction 950 took 208 us
+0 
+Prediction 951 took 208 us
+0 
+Prediction 952 took 208 us
+0 
+Prediction 953 took 208 us
+0 
+Prediction 954 took 207 us
+0 
+Prediction 955 took 207 us
+0 
+Prediction 956 took 208 us
+0 
+Prediction 957 took 208 us
+0 
+Prediction 958 took 208 us
+0 
+Prediction 959 took 207 us
+0 
+Prediction 960 took 208 us
+0 
+Prediction 961 took 208 us
+0 
+Prediction 962 took 208 us
+0 
+Prediction 963 took 207 us
+0 
+Prediction 964 took 207 us
+0 
+Prediction 965 took 208 us
+0 
+Prediction 966 took 208 us
+0 
+Prediction 967 took 207 us
+0 
+Prediction 968 took 207 us
+0 
+Prediction 969 took 208 us
+0 
+Prediction 970 took 208 us
+0 
+Prediction 971 took 207 us
+0 
+Prediction 972 took 208 us
+0 
+Prediction 973 took 208 us
+0 
+Prediction 974 took 209 us
+0 
+Prediction 975 took 207 us
+0 
+Prediction 976 took 208 us
+0 
+Prediction 977 took 208 us
+0 
+Prediction 978 took 208 us
+0 
+Prediction 979 took 208 us
+0 
+Prediction 980 took 208 us
+0 
+Prediction 981 took 207 us
+0 
+Prediction 982 took 207 us
+0 
+Prediction 983 took 209 us
+0 
+Prediction 984 took 207 us
+0 
+Prediction 985 took 208 us
+0 
+Prediction 986 took 208 us
+0 
+Prediction 987 took 208 us
+0 
+Prediction 988 took 208 us
+0 
+Prediction 989 took 207 us
+0 
+Prediction 990 took 208 us
+0 
+Prediction 991 took 208 us
+0 
+Prediction 992 took 208 us
+0 
+Prediction 993 took 207 us
+0 
+Prediction 994 took 208 us
+0 
+Prediction 995 took 208 us
+0 
+Prediction 996 took 208 us
+0 
+Prediction 997 took 208 us
+0 
+Prediction 998 took 207 us
+0 
+Prediction 999 took 207 us
+
+Finished 1000 iter in 3258 - 47 = 3 s
